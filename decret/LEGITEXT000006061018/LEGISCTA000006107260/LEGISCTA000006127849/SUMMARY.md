@@ -7,5 +7,6 @@
 ## Articles
 
 - [Article 33-1](LEGIARTI000006773860.md)
+- [Article 33-2](LEGIARTI000006773861.md)
 - [Article 33-3](LEGIARTI000006773862.md)
 - [Article 33-4](LEGIARTI000006773863.md)

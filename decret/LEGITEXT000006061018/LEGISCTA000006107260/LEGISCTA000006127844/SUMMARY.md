@@ -6,5 +6,7 @@
 
 ## Articles
 
+- [Article 11](LEGIARTI000006773824.md)
 - [Article 13](LEGIARTI000006773825.md)
+- [Article 15](LEGIARTI000006773826.md)
 - [Article 22](LEGIARTI000006773830.md)
