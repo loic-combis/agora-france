@@ -6,5 +6,6 @@
 
 ## Sous-sections
 
+- [Section I : Dispositions communes.](LEGISCTA000006132426/SUMMARY.md)
 - [Section II : Dispositions particulières aux chambres régionales de discipline.](LEGISCTA000006132427/SUMMARY.md)
 - [Section III : Dispositions particulières à la chambre nationale de discipline.](LEGISCTA000006132428/SUMMARY.md)

@@ -7,7 +7,4 @@
 ## Sous-sections
 
 - [Section I : Des conseils régionaux.](LEGISCTA000006132390/SUMMARY.md)
-- [Section II : Des assemblées générales régionales.](LEGISCTA000006132391/SUMMARY.md)
-- [Section III : Du conseil supérieur.](LEGISCTA000006132392/SUMMARY.md)
-- [Section IV : Du congrès national des conseils de l'ordre.](LEGISCTA000006132393/SUMMARY.md)
 - [Section V : Dispositions communes aux conseils de l'ordre.](LEGISCTA000006132394/SUMMARY.md)

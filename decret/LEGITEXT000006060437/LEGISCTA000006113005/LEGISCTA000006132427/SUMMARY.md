@@ -6,5 +6,5 @@
 
 ## Articles
 
-- [Article 21](LEGIARTI000006920023.md)
+- [Article 22](LEGIARTI000006920024.md)
 - [Article 22 bis](LEGIARTI000006920025.md)

@@ -6,6 +6,4 @@
 
 ## Articles
 
-- [Article 28](LEGIARTI000006912907.md)
-- [Article 30](LEGIARTI000006912931.md)
 - [Article 31](LEGIARTI000006912940.md)

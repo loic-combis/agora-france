@@ -8,9 +8,7 @@
 
 - [Titre Ier : Dispositions générales](LEGISCTA000006112958/SUMMARY.md)
 - [Titre II : De l'administration de l'ordre](LEGISCTA000006112959/SUMMARY.md)
-- [Titre III : Du tableau.](LEGISCTA000006112960/SUMMARY.md)
 - [Titre IV : De la discipline.](LEGISCTA000006112961/SUMMARY.md)
-- [Titre V : Des commissaires du gouvernement.](LEGISCTA000006112962/SUMMARY.md)
 - [Titre VI : Dispositions transitoires](LEGISCTA000006112963/SUMMARY.md)
 
 ## Articles

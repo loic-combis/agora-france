@@ -9,3 +9,7 @@
 - [Section I : Des experts comptables.](LEGISCTA000006132387/SUMMARY.md)
 - [Section II : Des comptables agréés.](LEGISCTA000006132388/SUMMARY.md)
 - [Section III : Dispositions communes aux experts comptables et aux comptables agréés.](LEGISCTA000006132389/SUMMARY.md)
+
+## Articles
+
+- [Article 27 bis](LEGIARTI000006912876.md)

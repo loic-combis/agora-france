@@ -7,3 +7,4 @@
 ## Articles
 
 - [Article 39 bis](LEGIARTI000006913086.md)
+- [Article 39 ter](LEGIARTI000006913095.md)
