@@ -9,3 +9,4 @@
 ## Sous-sections
 
 - [Paragraphe 1 : Dispositions générales.](LEGISCTA000006180650/SUMMARY.md)
+- [Paragraphe 2 : Locations soumises à des règles particulières.](LEGISCTA000006180651/SUMMARY.md)

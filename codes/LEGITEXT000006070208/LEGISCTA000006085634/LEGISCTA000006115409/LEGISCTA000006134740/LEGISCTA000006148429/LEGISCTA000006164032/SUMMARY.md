@@ -10,6 +10,7 @@
 
 - [Paragraphe 1 : Iles, ilots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés.](LEGISCTA000006180652/SUMMARY.md)
 - [Paragraphe 2 : Immeubles domaniaux cédés en vue de favoriser la construction.](LEGISCTA000006180653/SUMMARY.md)
+- [Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux.](LEGISCTA000006180655/SUMMARY.md)
 - [Paragraphe 8 : Lais et relais de mer - Marais - Concessions.](LEGISCTA000006180657/SUMMARY.md)
 - [Paragraphe 8 bis : Immeubles domaniaux cédés en vue de favoriser les opérations d'aménagement foncier.](LEGISCTA000006180658/SUMMARY.md)
 - [Paragraphe 10 : Servitudes.](LEGISCTA000006180659/SUMMARY.md)
