@@ -8,6 +8,7 @@
 
 ## Sous-sections
 
+- [Paragraphe 1er : Généralités.](LEGISCTA000006181895/SUMMARY.md)
 - [Paragraphe 2 : Abonnement.](LEGISCTA000006181896/SUMMARY.md)
 - [Paragraphe 3 : Communications.](LEGISCTA000006181897/SUMMARY.md)
 - [Paragraphe 4 : Suspension d'une ligne d'abonnement télex.](LEGISCTA000006181898/SUMMARY.md)
