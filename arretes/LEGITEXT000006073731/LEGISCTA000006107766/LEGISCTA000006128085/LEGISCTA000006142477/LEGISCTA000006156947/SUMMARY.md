@@ -1,10 +1,9 @@
-# SECTION 3 : SECTIONS.
+# SECTION 2 : COMMISSIONS ET COMITES.
 
-<!-- LEGISCTA: LEGISCTA000006156948 -->
+<!-- LEGISCTA: LEGISCTA000006156947 -->
 
 **Texte :** Arrêté du 3 janvier 1968 fixant les modèles de statuts des caisses primaires d'assurance maladie. · **Identifiant :** `LEGITEXT000006073731`
 
 ## Articles
 
-- [Article Annexe art. 13](LEGIARTI000006783613.md)
-- [Article Annexe art. 15](LEGIARTI000006783615.md)
+- [Article Annexe art. 11](LEGIARTI000006783610.md)

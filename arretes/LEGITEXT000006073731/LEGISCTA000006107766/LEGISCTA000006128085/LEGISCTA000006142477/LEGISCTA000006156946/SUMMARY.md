@@ -8,4 +8,5 @@
 
 - [Article Annexe art. 7](LEGIARTI000006783605.md)
 - [Article Annexe art. 8](LEGIARTI000006783606.md)
+- [Article Annexe art. 9 bis](LEGIARTI000006783608.md)
 - [Article Annexe art. 10](LEGIARTI000006783609.md)

@@ -7,3 +7,4 @@
 ## Articles
 
 - [Article Annexe art. 1](LEGIARTI000006783598.md)
+- [Article Annexe art. 2](LEGIARTI000006783599.md)

@@ -6,4 +6,5 @@
 
 ## Articles
 
+- [Article Annexe art. 17](LEGIARTI000006783617.md)
 - [Article Annexe art. 18](LEGIARTI000006783618.md)

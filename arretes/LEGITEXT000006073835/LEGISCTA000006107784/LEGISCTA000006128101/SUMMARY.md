@@ -7,4 +7,4 @@
 ## Sous-sections
 
 - [SECTION I : Conseil d'administration.](LEGISCTA000006142497/SUMMARY.md)
-- [SECTION II : Comité de gestion de la section des employeurs et des travailleurs indépendants.](LEGISCTA000006142498/SUMMARY.md)
+- [SECTION III : Commissions et comités.](LEGISCTA000006142499/SUMMARY.md)
