@@ -1,0 +1,12 @@
+# PRELEVEMENTS ET PERCEPTIONS DESTINES AU BUDGET ANNEXE DES PRESTATIONS SOCIALES AGRICOLES.
+
+<!-- LEGISCTA: LEGISCTA000006147200 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006147200/)
+
+**Texte :** Code général des impôts · **Identifiant :** `LEGITEXT000006069577`
+
+## Articles
+
+- [Article 1614](LEGIARTI000049606419.md)
+- [Article 1618 bis](LEGIARTI000049606618.md)

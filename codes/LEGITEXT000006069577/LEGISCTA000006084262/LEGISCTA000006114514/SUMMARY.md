@@ -1,0 +1,12 @@
+# PRESCRIPTIONS
+
+<!-- LEGISCTA: LEGISCTA000006114514 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006114514/)
+
+**Texte :** Code général des impôts · **Identifiant :** `LEGITEXT000006069577`
+
+## Sous-sections
+
+- [DISPOSITIONS COMMUNES (1).](LEGISCTA000006133925/SUMMARY.md)
+- [DISPOSITIONS PARTICULIERES.](LEGISCTA000006133924/SUMMARY.md)

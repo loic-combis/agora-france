@@ -1,0 +1,14 @@
+# CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.
+
+<!-- LEGISCTA: LEGISCTA000006159903 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074234/LEGISCTA000006159903/)
+
+**Texte :** Code de l'aviation civile · **Identifiant :** `LEGITEXT000006074234`
+
+## Articles
+
+- [Article R424-1](LEGIARTI000006845143.md)
+- [Article R424-4](LEGIARTI000006845146.md)
+- [Article R424-6](LEGIARTI000006845149.md)
+- [Article R424-7](LEGIARTI000006845150.md)

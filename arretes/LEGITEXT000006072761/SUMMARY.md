@@ -1,0 +1,14 @@
+# Arrêté du 19 mars 1965  RELATIF A LA VACCINATION ANTIPOLIOMYELITIQUE OBLIGATOIRE.
+
+<!-- LEGITEXT000006072761 — nature: ARRETE -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006072761/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006716228.md)
+- [Article 2](LEGIARTI000006716229.md)
+- [Article 3](LEGIARTI000006716230.md)
+- [Article 4](LEGIARTI000006716231.md)
+- [Article 5](LEGIARTI000006716232.md)
+- [Article 6](LEGIARTI000006716233.md)

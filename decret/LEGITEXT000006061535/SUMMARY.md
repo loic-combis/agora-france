@@ -1,0 +1,10 @@
+# Décret n°68-299 du 29 mars 1968  PORTANT MODIFICATION DES LIMITES D'AGE DU PERSONNEL DE LA BANQUE DE FRANCE
+
+<!-- LEGITEXT000006061535 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006061535/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006765672.md)
+- [Article 2](LEGIARTI000006765673.md)

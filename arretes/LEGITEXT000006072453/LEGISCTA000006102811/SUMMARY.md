@@ -1,0 +1,12 @@
+# TITRE PREMIER - DISPOSITIONS APPLICABLES A L'ENSEMBLE DES PLANS INCLINES
+
+<!-- LEGISCTA: LEGISCTA000006102811 -->
+
+**Texte :** Arrêté du 26 juin 1968 fixant, par voie de dispositions générales, des mesures particulières de sécurité à mettre en oeuvre par les établissements utilisant des plans inclinés · **Identifiant :** `LEGITEXT000006072453`
+
+## Sous-sections
+
+- [VERIFICATIONS](LEGISCTA000006124840/SUMMARY.md)
+- [CONSIGNES GENERALES](LEGISCTA000006124841/SUMMARY.md)
+- [CONSTRUCTION](LEGISCTA000006124838/SUMMARY.md)
+- [REGLES D'EXPLOITATION ET D'ENTRETIEN](LEGISCTA000006124839/SUMMARY.md)

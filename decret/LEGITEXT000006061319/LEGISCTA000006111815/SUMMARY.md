@@ -1,0 +1,14 @@
+# TITRE IV : FIXATION DES INDEMNITÉS DUES POUR L'ÉTABLISSEMENT DES SERVITUDES ET ÉVENTUELLEMENT DU PRIX D'ACQUISITION DES TERRAINS SUR RÉQUISITION D'EMPRISE.
+
+<!-- LEGISCTA: LEGISCTA000006111815 -->
+
+**Texte :** Décret n°65-881 du 18 octobre 1965 portant application de la loi 65-498 du 29 juin 1965 relative au transport de produits chimiques par canalisation. · **Identifiant :** `LEGITEXT000006061319`
+
+## Articles
+
+- [Article 26](LEGIARTI000006881712.md)
+- [Article 27](LEGIARTI000006881713.md)
+- [Article 28](LEGIARTI000006881714.md)
+- [Article 29](LEGIARTI000006881715.md)
+- [Article 30](LEGIARTI000006881716.md)
+- [Article 31](LEGIARTI000006881717.md)

@@ -1,0 +1,11 @@
+# Décret n°68-20 du 5 janvier 1968 fixant les conditions d'application de la loi n° 66-496 du 11 juillet 1966 relative à la création de corps de fonctionnaires de l'Etat pour l'administration de la Polynésie française.
+
+<!-- LEGITEXT000006061524 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006061524/)
+
+## Sommaire
+
+- [Titre Ier : Dispositions communes applicables aux corps de l'Etat pour l'administration de la Polynésie française.](LEGISCTA000006094631/SUMMARY.md)
+- [Titre II : Constitution initiale des corps de l'Etat créés pour l'administration de la Polynésie française.](LEGISCTA000006094632/SUMMARY.md)
+- [Annexe](LEGISCTA000006094630/SUMMARY.md)

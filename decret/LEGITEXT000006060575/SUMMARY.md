@@ -1,0 +1,11 @@
+# Décret n°50-28 du 6 janvier 1950  RELATIF AU REGIME D'ASSURANCE VIEILLESSE COMPLEMENTAIRE DES CHIRURGIENS DENTISTES.
+
+<!-- LEGITEXT000006060575 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006060575/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006760428.md)
+- [Article 3](LEGIARTI000006760438.md)
+- [Article 4](LEGIARTI000006760440.md)

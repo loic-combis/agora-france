@@ -1,0 +1,12 @@
+# Décret n°60-95 du 29 janvier 1960  FIXANT LA LISTE DES MALADIES A DECLARATION OBLIGATOIRE OU FACULTATIVE
+
+<!-- LEGITEXT000006060988 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006060988/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006701234.md)
+- [Article 2](LEGIARTI000006701235.md)
+- [Article 3](LEGIARTI000006701236.md)
+- [Article 4](LEGIARTI000006701237.md)

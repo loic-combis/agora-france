@@ -1,0 +1,15 @@
+# ORGANISATION ADMINISTRATIVE - LE COMITE CONSULTATIF
+
+<!-- LEGISCTA: LEGISCTA000006109893 -->
+
+**Texte :** Décret n°60-1441 du 26 décembre 1960 portant statut de Voies navigables de France. · **Identifiant :** `LEGITEXT000006060951`
+
+## Articles
+
+- [Article 19](LEGIARTI000006859265.md)
+- [Article 20](LEGIARTI000006859268.md)
+- [Article 21](LEGIARTI000006859269.md)
+- [Article 22](LEGIARTI000006859270.md)
+- [Article 23](LEGIARTI000006859271.md)
+- [Article 24](LEGIARTI000006859272.md)
+- [Article 25](LEGIARTI000006859273.md)

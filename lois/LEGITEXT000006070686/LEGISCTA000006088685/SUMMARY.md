@@ -1,0 +1,19 @@
+# TITRE II : DE L'EMPLOI DES PERSONNES ET DES RESSOURCES
+
+<!-- LEGISCTA: LEGISCTA000006088685 -->
+
+**Texte :** Loi  du 11 juillet 1938 sur l'organisation générale de la nation pour le temps de guerre. · **Identifiant :** `LEGITEXT000006070686`
+
+## Articles
+
+- [Article 14](LEGIARTI000006404520.md)
+- [Article 15](LEGIARTI000006404521.md)
+- [Article 16](LEGIARTI000006404522.md)
+- [Article 18](LEGIARTI000006404523.md)
+- [Article 19](LEGIARTI000006404524.md)
+- [Article 26](LEGIARTI000006404525.md)
+- [Article 27](LEGIARTI000006404526.md)
+- [Article 28](LEGIARTI000006404527.md)
+- [Article 30](LEGIARTI000006404529.md)
+- [Article 31](LEGIARTI000006404530.md)
+- [Article 32](LEGIARTI000006404533.md)

@@ -1,0 +1,27 @@
+# Loi n° 46-729 du 16 avril 1946 portant amnistie.
+
+<!-- LEGITEXT000006068021 — nature: LOI -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068021/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006493890.md)
+- [Article 2](LEGIARTI000006493891.md)
+- [Article 3](LEGIARTI000006493892.md)
+- [Article 4](LEGIARTI000006493893.md)
+- [Article 5](LEGIARTI000006493894.md)
+- [Article 6](LEGIARTI000006493895.md)
+- [Article 7](LEGIARTI000006493898.md)
+- [Article 8](LEGIARTI000006493899.md)
+- [Article 9](LEGIARTI000006493900.md)
+- [Article 10](LEGIARTI000006493902.md)
+- [Article 11](LEGIARTI000006493904.md)
+- [Article 12](LEGIARTI000006493905.md)
+- [Article 13](LEGIARTI000006493906.md)
+- [Article 14](LEGIARTI000006493907.md)
+- [Article 15](LEGIARTI000006493908.md)
+- [Article 16](LEGIARTI000006493909.md)
+- [Article 17](LEGIARTI000006493911.md)
+- [Article 18](LEGIARTI000006493913.md)
+- [Article 19](LEGIARTI000006493914.md)

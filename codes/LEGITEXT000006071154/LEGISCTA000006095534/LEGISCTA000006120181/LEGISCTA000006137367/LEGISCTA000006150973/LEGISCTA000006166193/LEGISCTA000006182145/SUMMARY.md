@@ -1,0 +1,12 @@
+# Paragraphe 5 : Maternité
+
+<!-- LEGISCTA: LEGISCTA000006182145 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006182145/)
+
+**Texte :** Code de procédure pénale · **Identifiant :** `LEGITEXT000006071154`
+
+## Articles
+
+- [Article D399](LEGIARTI000006516296.md)
+- [Article D400](LEGIARTI000006516298.md)

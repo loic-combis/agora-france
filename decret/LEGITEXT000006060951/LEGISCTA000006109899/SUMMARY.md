@@ -1,0 +1,12 @@
+# ORGANISATION FINANCIERE - LA COMPTABILITE - RECOUVREMENT DES PRODUITS
+
+<!-- LEGISCTA: LEGISCTA000006109899 -->
+
+**Texte :** Décret n°60-1441 du 26 décembre 1960 portant statut de Voies navigables de France. · **Identifiant :** `LEGITEXT000006060951`
+
+## Articles
+
+- [Article 38](LEGIARTI000006859306.md)
+- [Article 39](LEGIARTI000006859309.md)
+- [Article 40](LEGIARTI000006859313.md)
+- [Article 41](LEGIARTI000006859316.md)

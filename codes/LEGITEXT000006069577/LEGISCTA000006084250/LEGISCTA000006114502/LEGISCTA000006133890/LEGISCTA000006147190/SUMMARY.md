@@ -1,0 +1,11 @@
+# TAXE SPECIALE D'EQUIPEMENT POUR LE FINANCEMENT DES TRAVAUX FIGURANT AUX PROGRAMMES D'EQUIPEMENT DE LA REGION D'ILE-DE-FRANCE.
+
+<!-- LEGISCTA: LEGISCTA000006147190 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006147190/)
+
+**Texte :** Code général des impôts · **Identifiant :** `LEGITEXT000006069577`
+
+## Articles
+
+- [Article 1607](LEGIARTI000049438263.md)

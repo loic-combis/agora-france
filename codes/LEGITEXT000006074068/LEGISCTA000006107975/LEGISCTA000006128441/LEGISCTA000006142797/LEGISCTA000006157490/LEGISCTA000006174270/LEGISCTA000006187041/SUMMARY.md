@@ -1,0 +1,12 @@
+# B - Dépôt des demandes.
+
+<!-- LEGISCTA: LEGISCTA000006187041 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074068/LEGISCTA000006187041/)
+
+**Texte :** Code des pensions militaires d'invalidité et des victimes de la guerre · **Identifiant :** `LEGITEXT000006074068`
+
+## Articles
+
+- [Article R456](LEGIARTI000006795627.md)
+- [Article R457](LEGIARTI000006795629.md)

@@ -1,0 +1,27 @@
+# TITRE VI - ACTION SANITAIRE ET SOCIALE.
+
+<!-- LEGISCTA: LEGISCTA000006106930 -->
+
+**Texte :** Décret n°47-2100 du 22 octobre 1947 fixant les mesures d'application du décret n° 46-2769 du 27 novembre 1946 portant organisation de la Sécurité Sociale dans les mines. · **Identifiant :** `LEGITEXT000006060480`
+
+## Articles
+
+- [Article 174](LEGIARTI000006767082.md)
+- [Article 175](LEGIARTI000006767083.md)
+- [Article 176](LEGIARTI000006767084.md)
+- [Article 177](LEGIARTI000006767085.md)
+- [Article 178](LEGIARTI000006767086.md)
+- [Article 179](LEGIARTI000006767087.md)
+- [Article 180](LEGIARTI000006767088.md)
+- [Article 181](LEGIARTI000006767089.md)
+- [Article 182](LEGIARTI000006767090.md)
+- [Article 183](LEGIARTI000006767092.md)
+- [Article 184](LEGIARTI000006767093.md)
+- [Article 185](LEGIARTI000006767094.md)
+- [Article 187](LEGIARTI000006767095.md)
+- [Article 188](LEGIARTI000006767096.md)
+- [Article 189](LEGIARTI000006767097.md)
+- [Article 190](LEGIARTI000006767098.md)
+- [Article 191](LEGIARTI000006767099.md)
+- [Article 192](LEGIARTI000006767100.md)
+- [Article 193](LEGIARTI000006767101.md)

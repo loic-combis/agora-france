@@ -1,0 +1,11 @@
+# Décret n°61-9 du 3 janvier 1961 relatif à la comptabilité, au budget et au prix de journée de certains établissements publics ou privés.
+
+<!-- LEGITEXT000006061050 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006061050/)
+
+## Sommaire
+
+- [TITRE Ier : ETABLISSEMENTS PUBLICS ET ETABLISSEMENTS PRIVES A BUT NON LUCRATIF](LEGISCTA000006105376/SUMMARY.md)
+- [TITRE II : ETABLISSEMENTS PRIVES A BUT LUCRATIF.](LEGISCTA000006105377/SUMMARY.md)
+- [TITRE III : DISPOSITIONS SPECIALES AUX MAISONS DE RETRAITE ET LOGEMENTS-FOYERS.](LEGISCTA000006105378/SUMMARY.md)

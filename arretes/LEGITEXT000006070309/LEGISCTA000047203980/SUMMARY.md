@@ -1,0 +1,26 @@
+# SECTION II : Police générale
+
+<!-- LEGISCTA: LEGISCTA000047203980 -->
+
+**Texte :** Arrêté du 12 messidor an VIII (1er juillet 1800) qui détermine les fonctions du préfet de police à Paris · **Identifiant :** `LEGITEXT000006070309`
+
+## Articles
+
+- [Article 3](LEGIARTI000047204009.md)
+- [Article 4](LEGIARTI000047204013.md)
+- [Article 5](LEGIARTI000047204017.md)
+- [Article 6](LEGIARTI000047204021.md)
+- [Article 7](LEGIARTI000047204037.md)
+- [Article 8](LEGIARTI000047204041.md)
+- [Article 9](LEGIARTI000047204049.md)
+- [Article 10](LEGIARTI000047204045.md)
+- [Article 11](LEGIARTI000047204053.md)
+- [Article 12](LEGIARTI000047204061.md)
+- [Article 13](LEGIARTI000047204065.md)
+- [Article 14](LEGIARTI000047204069.md)
+- [Article 15](LEGIARTI000047204073.md)
+- [Article 16](LEGIARTI000047204077.md)
+- [Article 17](LEGIARTI000047204081.md)
+- [Article 18](LEGIARTI000047204085.md)
+- [Article 19](LEGIARTI000047204025.md)
+- [Article 20](LEGIARTI000047204033.md)

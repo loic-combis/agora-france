@@ -1,0 +1,24 @@
+# Section I : Vols.
+
+<!-- LEGISCTA: LEGISCTA000006166096 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071029/LEGISCTA000006166096/)
+
+**Texte :** Code pénal (ancien) · **Identifiant :** `LEGITEXT000006071029`
+
+## Articles
+
+- [Article 379](LEGIARTI000006490250.md)
+- [Article 380](LEGIARTI000006490251.md)
+- [Article 387](LEGIARTI000006490398.md)
+- [Article 388](LEGIARTI000006490400.md)
+- [Article 389](LEGIARTI000006490401.md)
+- [Article 390](LEGIARTI000006490402.md)
+- [Article 391](LEGIARTI000006490403.md)
+- [Article 392](LEGIARTI000006490404.md)
+- [Article 393](LEGIARTI000006490257.md)
+- [Article 394](LEGIARTI000006490405.md)
+- [Article 395](LEGIARTI000006490258.md)
+- [Article 396](LEGIARTI000006490259.md)
+- [Article 397](LEGIARTI000006490260.md)
+- [Article 398](LEGIARTI000006490261.md)

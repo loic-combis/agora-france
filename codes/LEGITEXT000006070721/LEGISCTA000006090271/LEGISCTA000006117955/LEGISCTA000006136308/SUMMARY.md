@@ -1,0 +1,35 @@
+# Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs.
+
+<!-- LEGISCTA: LEGISCTA000006136308 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136308/)
+
+**Texte :** Code civil · **Identifiant :** `LEGITEXT000006070721`
+
+## Articles
+
+- [Article 1048](LEGIARTI000006434875.md)
+- [Article 1049](LEGIARTI000006434888.md)
+- [Article 1050](LEGIARTI000006434899.md)
+- [Article 1051](LEGIARTI000006434911.md)
+- [Article 1052](LEGIARTI000006434913.md)
+- [Article 1053](LEGIARTI000006434920.md)
+- [Article 1054](LEGIARTI000006434931.md)
+- [Article 1055](LEGIARTI000006434943.md)
+- [Article 1056](LEGIARTI000006434954.md)
+- [Article 1057](LEGIARTI000006434964.md)
+- [Article 1058](LEGIARTI000006434976.md)
+- [Article 1059](LEGIARTI000006434985.md)
+- [Article 1060](LEGIARTI000006434994.md)
+- [Article 1061](LEGIARTI000006435004.md)
+- [Article 1062](LEGIARTI000006435016.md)
+- [Article 1063](LEGIARTI000006435025.md)
+- [Article 1064](LEGIARTI000006435035.md)
+- [Article 1065](LEGIARTI000006435045.md)
+- [Article 1066](LEGIARTI000006435054.md)
+- [Article 1067](LEGIARTI000006435064.md)
+- [Article 1068](LEGIARTI000006435075.md)
+- [Article 1070](LEGIARTI000006435088.md)
+- [Article 1071](LEGIARTI000006435093.md)
+- [Article 1073](LEGIARTI000006435100.md)
+- [Article 1074](LEGIARTI000006435114.md)

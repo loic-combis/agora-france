@@ -1,0 +1,34 @@
+# Titre Ier : Devoirs généraux des sages-femmes.
+
+<!-- LEGISCTA: LEGISCTA000006103066 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072635/LEGISCTA000006103066/)
+
+**Texte :** Code de déontologie des sages-femmes · **Identifiant :** `LEGITEXT000006072635`
+
+## Articles
+
+- [Article 2](LEGIARTI000006680636.md)
+- [Article 3](LEGIARTI000006680638.md)
+- [Article 4](LEGIARTI000006680640.md)
+- [Article 5](LEGIARTI000006680642.md)
+- [Article 6](LEGIARTI000006680644.md)
+- [Article 7](LEGIARTI000006680646.md)
+- [Article 8](LEGIARTI000006680648.md)
+- [Article 9](LEGIARTI000006680650.md)
+- [Article 10](LEGIARTI000006680652.md)
+- [Article 11](LEGIARTI000006680654.md)
+- [Article 12](LEGIARTI000006680656.md)
+- [Article 13](LEGIARTI000006680658.md)
+- [Article 14](LEGIARTI000006680660.md)
+- [Article 15](LEGIARTI000006680662.md)
+- [Article 16](LEGIARTI000006680664.md)
+- [Article 17](LEGIARTI000006680666.md)
+- [Article 18](LEGIARTI000006680668.md)
+- [Article 19](LEGIARTI000006680670.md)
+- [Article 20](LEGIARTI000006680672.md)
+- [Article 21](LEGIARTI000006680675.md)
+- [Article 22](LEGIARTI000006680677.md)
+- [Article 23](LEGIARTI000006680680.md)
+- [Article 26](LEGIARTI000006680686.md)
+- [Article 27](LEGIARTI000006680688.md)

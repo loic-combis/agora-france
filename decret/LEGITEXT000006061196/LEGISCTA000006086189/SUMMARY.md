@@ -1,0 +1,24 @@
+# DES ATTRIBUTIONS DU PREFET CHARGE DE LA REGION.
+
+<!-- LEGISCTA: LEGISCTA000006086189 -->
+
+**Texte :** Décret n°64-251 du 14 mars 1964 relatif à l'organisation des services de l'Etat dans les circonscriptions d'action régionale. · **Identifiant :** `LEGITEXT000006061196`
+
+## Articles
+
+- [Article 5](LEGIARTI000006364562.md)
+- [Article 6](LEGIARTI000006364564.md)
+- [Article 7](LEGIARTI000006364565.md)
+- [Article 8](LEGIARTI000006364567.md)
+- [Article 10](LEGIARTI000006364569.md)
+- [Article 11](LEGIARTI000006364570.md)
+- [Article 12](LEGIARTI000006364571.md)
+- [Article 13](LEGIARTI000006364572.md)
+- [Article 14](LEGIARTI000006364573.md)
+- [Article 15](LEGIARTI000006364574.md)
+- [Article 16](LEGIARTI000006364575.md)
+- [Article 16-1](LEGIARTI000006364576.md)
+- [Article 17](LEGIARTI000006364577.md)
+- [Article 18](LEGIARTI000006364578.md)
+- [Article 19](LEGIARTI000006364579.md)
+- [Article 20](LEGIARTI000006364580.md)

@@ -1,0 +1,15 @@
+# Ordonnance n° 58-1374 du 30 décembre 1958 PORTANT LOI DE FINANCES POUR 1959.
+
+<!-- LEGITEXT000006069232 — nature: ORDONNANCE -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069232/)
+
+## Sommaire
+
+- [CONDITIONS GENERALES DE L'EQUILIBRE FINANCIER](LEGISCTA000006084682/SUMMARY.md)
+
+## Articles
+
+- [Article 79](LEGIARTI000006275807.md)
+- [Article 176](LEGIARTI000006275812.md)
+- [Article 177](LEGIARTI000019909289.md)

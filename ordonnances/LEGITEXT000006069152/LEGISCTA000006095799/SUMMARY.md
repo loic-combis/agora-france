@@ -1,0 +1,21 @@
+# Livre IV : Dispositions générales.
+
+<!-- LEGISCTA: LEGISCTA000006095799 -->
+
+**Texte :** Ordonnance n°45-1483 du 30 juin 1945 relative aux prix · **Identifiant :** `LEGITEXT000006069152`
+
+## Articles
+
+- [Article 60](LEGIARTI000006525399.md)
+- [Article 61](LEGIARTI000006525415.md)
+- [Article 62](LEGIARTI000006525436.md)
+- [Article 63](LEGIARTI000006525450.md)
+- [Article 64](LEGIARTI000006525461.md)
+- [Article 65](LEGIARTI000006525473.md)
+- [Article 66](LEGIARTI000006525479.md)
+- [Article 67](LEGIARTI000006525489.md)
+- [Article 68](LEGIARTI000006525495.md)
+- [Article 69](LEGIARTI000006525507.md)
+- [Article 71](LEGIARTI000006525516.md)
+- [Article 72](LEGIARTI000006525525.md)
+- [Article 73](LEGIARTI000006525539.md)

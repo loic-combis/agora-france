@@ -1,0 +1,12 @@
+# TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.
+
+<!-- LEGISCTA: LEGISCTA000006144007 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074234/LEGISCTA000006144007/)
+
+**Texte :** Code de l'aviation civile · **Identifiant :** `LEGITEXT000006074234`
+
+## Sous-sections
+
+- [CHAPITRE Ier : CREATION.](LEGISCTA000006159773/SUMMARY.md)
+- [CHAPITRE II : CLASSEMENT.](LEGISCTA000006159774/SUMMARY.md)

@@ -1,0 +1,14 @@
+# DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS.
+
+<!-- LEGISCTA: LEGISCTA000006179865 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006179865/)
+
+**Texte :** Code général des impôts · **Identifiant :** `LEGITEXT000006069577`
+
+## Articles
+
+- [Article 69](LEGIARTI000048118605.md)
+- [Article 71](LEGIARTI000048118790.md)
+- [Article 73](LEGIARTI000048121254.md)
+- [Article 81](LEGIARTI000049445275.md)

@@ -1,0 +1,11 @@
+# Loi  du 11 juillet 1938 sur l'organisation générale de la nation pour le temps de guerre.
+
+<!-- LEGITEXT000006070686 — nature: LOI -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070686/)
+
+## Sommaire
+
+- [TITRE I : PRINCIPES GENERAUX](LEGISCTA000006088684/SUMMARY.md)
+- [TITRE II : DE L'EMPLOI DES PERSONNES ET DES RESSOURCES](LEGISCTA000006088685/SUMMARY.md)
+- [TITRE IV : ORGANISATION ECONOMIQUE EN TEMPS DE GUERRE.](LEGISCTA000006088686/SUMMARY.md)

@@ -1,0 +1,25 @@
+# Paragraphe 1 : De la garantie en cas d'éviction.
+
+<!-- LEGISCTA: LEGISCTA000006165623 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165623/)
+
+**Texte :** Code civil · **Identifiant :** `LEGITEXT000006070721`
+
+## Articles
+
+- [Article 1626](LEGIARTI000006441769.md)
+- [Article 1627](LEGIARTI000006441783.md)
+- [Article 1628](LEGIARTI000006441798.md)
+- [Article 1629](LEGIARTI000006441799.md)
+- [Article 1630](LEGIARTI000006441818.md)
+- [Article 1631](LEGIARTI000006441819.md)
+- [Article 1632](LEGIARTI000006441828.md)
+- [Article 1633](LEGIARTI000006441837.md)
+- [Article 1634](LEGIARTI000006441847.md)
+- [Article 1635](LEGIARTI000006441857.md)
+- [Article 1636](LEGIARTI000006441871.md)
+- [Article 1637](LEGIARTI000006441877.md)
+- [Article 1638](LEGIARTI000006441888.md)
+- [Article 1639](LEGIARTI000006441896.md)
+- [Article 1640](LEGIARTI000006441907.md)

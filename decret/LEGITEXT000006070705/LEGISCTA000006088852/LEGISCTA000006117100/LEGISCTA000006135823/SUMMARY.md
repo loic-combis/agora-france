@@ -1,0 +1,26 @@
+# SECTION III : Police militaire.
+
+<!-- LEGISCTA: LEGISCTA000006135823 -->
+
+**Texte :** Décret du 20 mai 1903 portant règlement sur l'organisation et le service de la gendarmerie. · **Identifiant :** `LEGITEXT000006070705`
+
+## Articles
+
+- [Article 216](LEGIARTI000006407049.md)
+- [Article 217](LEGIARTI000006407050.md)
+- [Article 218](LEGIARTI000006407051.md)
+- [Article 219](LEGIARTI000006407052.md)
+- [Article 220](LEGIARTI000006407053.md)
+- [Article 221](LEGIARTI000006407054.md)
+- [Article 226](LEGIARTI000006407056.md)
+- [Article 227](LEGIARTI000006407057.md)
+- [Article 228](LEGIARTI000006407058.md)
+- [Article 229](LEGIARTI000006407059.md)
+- [Article 230](LEGIARTI000006407060.md)
+- [Article 231](LEGIARTI000006407061.md)
+- [Article 232](LEGIARTI000006407062.md)
+- [Article 233, 234](LEGIARTI000006407063.md)
+- [Article 235](LEGIARTI000006407064.md)
+- [Article 236](LEGIARTI000006407065.md)
+- [Article 237](LEGIARTI000006407066.md)
+- [Article 238](LEGIARTI000006407067.md)

@@ -1,0 +1,33 @@
+# Paragraphe 2 : Régime financier.
+
+<!-- LEGISCTA: LEGISCTA000006186929 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074068/LEGISCTA000006186929/)
+
+**Texte :** Code des pensions militaires d'invalidité et des victimes de la guerre · **Identifiant :** `LEGITEXT000006074068`
+
+## Articles
+
+- [Article A266](LEGIARTI000006793417.md)
+- [Article A267](LEGIARTI000006793419.md)
+- [Article A268](LEGIARTI000006793422.md)
+- [Article A269](LEGIARTI000006793424.md)
+- [Article A270](LEGIARTI000006793426.md)
+- [Article A271](LEGIARTI000006793428.md)
+- [Article A272](LEGIARTI000006793430.md)
+- [Article A273](LEGIARTI000006793432.md)
+- [Article A274](LEGIARTI000006793434.md)
+- [Article A275](LEGIARTI000006793436.md)
+- [Article A276](LEGIARTI000006793438.md)
+- [Article A277](LEGIARTI000006793440.md)
+- [Article A278](LEGIARTI000006793442.md)
+- [Article A279](LEGIARTI000006793444.md)
+- [Article A280](LEGIARTI000006793446.md)
+- [Article A281](LEGIARTI000006793448.md)
+- [Article A282](LEGIARTI000006793450.md)
+- [Article A283](LEGIARTI000006793452.md)
+- [Article A284](LEGIARTI000006793454.md)
+- [Article A285](LEGIARTI000006793456.md)
+- [Article A286](LEGIARTI000006793458.md)
+- [Article A287](LEGIARTI000006793460.md)
+- [Article A288](LEGIARTI000006793463.md)

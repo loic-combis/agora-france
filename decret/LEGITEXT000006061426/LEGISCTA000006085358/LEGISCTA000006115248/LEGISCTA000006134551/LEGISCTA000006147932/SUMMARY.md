@@ -1,0 +1,28 @@
+# Sous-section I : Conseil d'administration.
+
+<!-- LEGISCTA: LEGISCTA000006147932 -->
+
+**Texte :** Décret n°67-236 du 23 mars 1967 sur les sociétés commerciales · **Identifiant :** `LEGITEXT000006061426`
+
+## Articles
+
+- [Article 77](LEGIARTI000006340778.md)
+- [Article 78](LEGIARTI000006340788.md)
+- [Article 79](LEGIARTI000006340797.md)
+- [Article 80](LEGIARTI000006340808.md)
+- [Article 81](LEGIARTI000006340820.md)
+- [Article 82](LEGIARTI000006340834.md)
+- [Article 83](LEGIARTI000006340846.md)
+- [Article 83-1](LEGIARTI000006340854.md)
+- [Article 84](LEGIARTI000006340864.md)
+- [Article 85](LEGIARTI000006340875.md)
+- [Article 86](LEGIARTI000006340886.md)
+- [Article 87](LEGIARTI000006340897.md)
+- [Article 88](LEGIARTI000006340908.md)
+- [Article 89](LEGIARTI000006340919.md)
+- [Article 90](LEGIARTI000006340931.md)
+- [Article 91](LEGIARTI000006340941.md)
+- [Article 92](LEGIARTI000006340953.md)
+- [Article 93](LEGIARTI000006340965.md)
+- [Article 94](LEGIARTI000006340977.md)
+- [Article 95](LEGIARTI000006340987.md)

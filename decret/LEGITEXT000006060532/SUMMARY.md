@@ -1,0 +1,11 @@
+# Décret n°49-1416 du 5 octobre 1949 portant règlement d'administration publique pour l'application de l'article 3 de l'ordonnance n° 45-993 du 17 mai 1945 *caisse nationale de retraites*
+
+<!-- LEGITEXT000006060532 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006060532/)
+
+## Sommaire
+
+- [DISPOSITIONS CONCERNANT LES RETRAITES CONCEDEES SOUS LE REGIME DU DECRET DU 2 AVRIL 1948 OU DES REGLEMENTS PARTICULIERS ANTERIEUREMENT EN VIGUEUR](LEGISCTA000006085676/SUMMARY.md)
+- [MESURES D'APPLICATION](LEGISCTA000006085677/SUMMARY.md)
+- [PENSIONS DES VEUVES ET ORPHELINS](LEGISCTA000006085672/SUMMARY.md)

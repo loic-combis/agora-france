@@ -1,0 +1,9 @@
+# Titre III : Des secrétaires administratifs
+
+<!-- LEGISCTA: LEGISCTA000006095196 -->
+
+**Texte :** Décret n°59-1096 du 21 septembre 1959 portant statut du personnel des bureaux du conseil d'Etat. · **Identifiant :** `LEGITEXT000006060856`
+
+## Articles
+
+- [Article 10](LEGIARTI000006508760.md)

@@ -1,0 +1,13 @@
+# Section II : Statuts - Capital social - Parts sociales et parts d'industrie.
+
+<!-- LEGISCTA: LEGISCTA000006132723 -->
+
+**Texte :** Décret n°69-763 du 24 juillet 1969 pris pour l'application à la profession de commissaire-priseur judiciaire de la loi n° 66-879 du 29 novembre 1966 relative aux sociétés civiles professionnelles · **Identifiant :** `LEGITEXT000006061674`
+
+## Articles
+
+- [Article 11](LEGIARTI000006200074.md)
+- [Article 12](LEGIARTI000006200075.md)
+- [Article 13](LEGIARTI000006200076.md)
+- [Article 14](LEGIARTI000006200078.md)
+- [Article 15](LEGIARTI000006200080.md)

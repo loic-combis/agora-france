@@ -1,0 +1,13 @@
+# CHAPITRE III - ALIMENTATION DU FONDS SPECIAL *RECETTES* - DISPOSITIONS CONCERNANT LA TAXE ET LA CONTRIBUTION INSTITUEES PAR L'ARTICLE 46 DE LA LOI N° 52-799 DU 10 JUILLET 1952.
+
+<!-- LEGISCTA: LEGISCTA000006127659 -->
+
+**Texte :** Décret n°52-1098 du 26 septembre 1952  fixant les conditions d'application de la loi du 10 juillet 1952 relatives à l'allocation spéciale et au fond spécial. · **Identifiant :** `LEGITEXT000006060623`
+
+## Articles
+
+- [Article 26](LEGIARTI000006766083.md)
+- [Article 27](LEGIARTI000006766084.md)
+- [Article 28](LEGIARTI000006766085.md)
+- [Article 29](LEGIARTI000006766086.md)
+- [Article 30](LEGIARTI000006766087.md)

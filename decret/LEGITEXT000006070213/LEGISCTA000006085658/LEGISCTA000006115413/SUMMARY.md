@@ -1,0 +1,10 @@
+# RECOUVREMENT DES RECETTES
+
+<!-- LEGISCTA: LEGISCTA000006115413 -->
+
+**Texte :** Décret du 12 juillet 1893 portant règlement sur la comptabilité départementale. · **Identifiant :** `LEGITEXT000006070213`
+
+## Sous-sections
+
+- [DISPOSITIONS GENERALES.](LEGISCTA000006134745/SUMMARY.md)
+- [REGLES SPECIALES AUX EMPRUNTS.](LEGISCTA000006134746/SUMMARY.md)

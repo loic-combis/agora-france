@@ -1,0 +1,27 @@
+# Paragraphe 2 : De la solidarité de la part des débiteurs.
+
+<!-- LEGISCTA: LEGISCTA000006165586 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165586/)
+
+**Texte :** Code civil · **Identifiant :** `LEGITEXT000006070721`
+
+## Articles
+
+- [Article 1200](LEGIARTI000006436753.md)
+- [Article 1201](LEGIARTI000006436762.md)
+- [Article 1202](LEGIARTI000006436770.md)
+- [Article 1203](LEGIARTI000006436780.md)
+- [Article 1204](LEGIARTI000006436788.md)
+- [Article 1205](LEGIARTI000006436798.md)
+- [Article 1206](LEGIARTI000006436807.md)
+- [Article 1207](LEGIARTI000006436808.md)
+- [Article 1208](LEGIARTI000006436810.md)
+- [Article 1209](LEGIARTI000006436819.md)
+- [Article 1210](LEGIARTI000006436829.md)
+- [Article 1211](LEGIARTI000006436839.md)
+- [Article 1212](LEGIARTI000006436847.md)
+- [Article 1213](LEGIARTI000006436853.md)
+- [Article 1214](LEGIARTI000006436864.md)
+- [Article 1215](LEGIARTI000006436873.md)
+- [Article 1216](LEGIARTI000006436883.md)

@@ -1,0 +1,27 @@
+# Section 2 : Des obligations de l'usufruitier
+
+<!-- LEGISCTA: LEGISCTA000006150118 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150118/)
+
+**Texte :** Code civil · **Identifiant :** `LEGITEXT000006070721`
+
+## Articles
+
+- [Article 600](LEGIARTI000006429450.md)
+- [Article 601](LEGIARTI000006429459.md)
+- [Article 602](LEGIARTI000006429469.md)
+- [Article 603](LEGIARTI000006429478.md)
+- [Article 604](LEGIARTI000006429487.md)
+- [Article 605](LEGIARTI000006429496.md)
+- [Article 606](LEGIARTI000006429505.md)
+- [Article 607](LEGIARTI000006429513.md)
+- [Article 608](LEGIARTI000006429522.md)
+- [Article 609](LEGIARTI000006429536.md)
+- [Article 610](LEGIARTI000006429541.md)
+- [Article 611](LEGIARTI000006429550.md)
+- [Article 612](LEGIARTI000006429559.md)
+- [Article 613](LEGIARTI000006429567.md)
+- [Article 614](LEGIARTI000006429575.md)
+- [Article 615](LEGIARTI000006429584.md)
+- [Article 616](LEGIARTI000006429593.md)

@@ -1,0 +1,15 @@
+# Arrêté du 4 juin 1938  CONCERNANT L'INSCRIPTION, PAR LES EMPLOYEURS, DES TRAVAILLEURS ETRANGERS SUR UN REGISTRE SPECIAL.
+
+<!-- LEGITEXT000006072095 — nature: ARRETE -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006072095/)
+
+## Sommaire
+
+- [Annexes](LEGISCTA000006102021/SUMMARY.md)
+
+## Articles
+
+- [Article 1](LEGIARTI000006667909.md)
+- [Article 2](LEGIARTI000006667910.md)
+- [Article 3](LEGIARTI000006667911.md)

@@ -1,0 +1,17 @@
+# SECTION III : DISPOSITIONS DIVERSES.
+
+<!-- LEGISCTA: LEGISCTA000006127594 -->
+
+**Texte :** Décret n°46-2769 du 27 novembre 1946  portant organisation de la sécurité sociale dans les mines. · **Identifiant :** `LEGITEXT000006060459`
+
+## Articles
+
+- [Article 218](LEGIARTI000006765302.md)
+- [Article 219](LEGIARTI000006765305.md)
+- [Article 220](LEGIARTI000006765307.md)
+- [Article 221](LEGIARTI000006765309.md)
+- [Article 222](LEGIARTI000006765312.md)
+- [Article 223](LEGIARTI000006765315.md)
+- [Article 224](LEGIARTI000006765317.md)
+- [Article 225](LEGIARTI000006765319.md)
+- [Article 226](LEGIARTI000006765322.md)

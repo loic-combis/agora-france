@@ -1,0 +1,12 @@
+# CHAPITRE III : DES EFFETS DE L'ETAT DE SIEGE.
+
+<!-- LEGISCTA: LEGISCTA000006088704 -->
+
+**Texte :** Loi du 9 août 1849 sur l'état de siège. · **Identifiant :** `LEGITEXT000006070693`
+
+## Articles
+
+- [Article 7](LEGIARTI000006404767.md)
+- [Article 9](LEGIARTI000006404769.md)
+- [Article 10](LEGIARTI000006404770.md)
+- [Article 11](LEGIARTI000006404771.md)

@@ -1,0 +1,11 @@
+# PARAGRAPHE VII : FREINAGE.
+
+<!-- LEGISCTA: LEGISCTA000006160206 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074947/LEGISCTA000006160206/)
+
+**Texte :** Code de la route (ancien) · **Identifiant :** `LEGITEXT000006074947`
+
+## Articles
+
+- [Article R149](LEGIARTI000006875755.md)

@@ -1,0 +1,18 @@
+# Titre IV : Le Parlement
+
+<!-- LEGISCTA: LEGISCTA000006095824 -->
+
+**Texte :** Constitution du 4 octobre 1958 · **Identifiant :** `LEGITEXT000006071194`
+
+## Articles
+
+- [Article 24](LEGIARTI000006527488.md)
+- [Article 25](LEGIARTI000006527489.md)
+- [Article 26](LEGIARTI000006527490.md)
+- [Article 27](LEGIARTI000006527492.md)
+- [Article 28](LEGIARTI000006527494.md)
+- [Article 29](LEGIARTI000006527496.md)
+- [Article 30](LEGIARTI000006527498.md)
+- [Article 31](LEGIARTI000006527499.md)
+- [Article 32](LEGIARTI000006527500.md)
+- [Article 33](LEGIARTI000006527501.md)

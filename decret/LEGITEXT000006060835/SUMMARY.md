@@ -1,0 +1,42 @@
+# Décret n°58-465 du 3 mai 1958 fixant le tarif général des greffiers en matière civile et commerciale
+
+<!-- LEGITEXT000006060835 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006060835/)
+
+## Sommaire
+
+- [Annexes](LEGISCTA000006113240/SUMMARY.md)
+
+## Articles
+
+- [Article 1](LEGIARTI000006931828.md)
+- [Article 2](LEGIARTI000006931832.md)
+- [Article 3](LEGIARTI000006931838.md)
+- [Article 4](LEGIARTI000006931848.md)
+- [Article 5](LEGIARTI000006931849.md)
+- [Article 6](LEGIARTI000006931852.md)
+- [Article 7](LEGIARTI000006931853.md)
+- [Article 8](LEGIARTI000006931854.md)
+- [Article 9](LEGIARTI000006931855.md)
+- [Article 10](LEGIARTI000006931859.md)
+- [Article 11](LEGIARTI000006931860.md)
+- [Article 12](LEGIARTI000006931883.md)
+- [Article 13](LEGIARTI000006931892.md)
+- [Article 14](LEGIARTI000006931895.md)
+- [Article 15](LEGIARTI000006931900.md)
+- [Article 16](LEGIARTI000006931922.md)
+- [Article 16-1](LEGIARTI000006931923.md)
+- [Article 17](LEGIARTI000006931935.md)
+- [Article 18](LEGIARTI000006931936.md)
+- [Article 19](LEGIARTI000006931937.md)
+- [Article 20](LEGIARTI000006931949.md)
+- [Article 21](LEGIARTI000006931958.md)
+- [Article 22](LEGIARTI000006931973.md)
+- [Article 23](LEGIARTI000006931979.md)
+- [Article 24](LEGIARTI000006931992.md)
+- [Article 25](LEGIARTI000006931998.md)
+- [Article 26](LEGIARTI000006932018.md)
+- [Article 27](LEGIARTI000006932019.md)
+- [Article 28](LEGIARTI000006932027.md)
+- [Article 29](LEGIARTI000006932028.md)

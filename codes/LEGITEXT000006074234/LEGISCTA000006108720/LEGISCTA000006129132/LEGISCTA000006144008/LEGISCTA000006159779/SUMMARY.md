@@ -1,0 +1,18 @@
+# CHAPITRE III : AERODROMES A USAGE PRIVE.
+
+<!-- LEGISCTA: LEGISCTA000006159779 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074234/LEGISCTA000006159779/)
+
+**Texte :** Code de l'aviation civile · **Identifiant :** `LEGITEXT000006074234`
+
+## Articles
+
+- [Article D233-1](LEGIARTI000006843808.md)
+- [Article D233-2](LEGIARTI000006843809.md)
+- [Article D233-3](LEGIARTI000006843810.md)
+- [Article D233-4](LEGIARTI000006843811.md)
+- [Article D233-5](LEGIARTI000006843812.md)
+- [Article D233-6](LEGIARTI000006843813.md)
+- [Article D233-7](LEGIARTI000006843814.md)
+- [Article D233-8](LEGIARTI000006843815.md)

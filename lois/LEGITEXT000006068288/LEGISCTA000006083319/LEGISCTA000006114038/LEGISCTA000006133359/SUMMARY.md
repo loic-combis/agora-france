@@ -1,0 +1,18 @@
+# Section 3 : Nullités.
+
+<!-- LEGISCTA: LEGISCTA000006133359 -->
+
+**Texte :** Loi n°66-537 du 24 juillet 1966 sur les sociétés commerciales · **Identifiant :** `LEGITEXT000006068288`
+
+## Articles
+
+- [Article 360](LEGIARTI000006281183.md)
+- [Article 361](LEGIARTI000006281187.md)
+- [Article 362](LEGIARTI000006281188.md)
+- [Article 363](LEGIARTI000006281196.md)
+- [Article 364](LEGIARTI000006281207.md)
+- [Article 366](LEGIARTI000006281229.md)
+- [Article 367](LEGIARTI000006281248.md)
+- [Article 368](LEGIARTI000006281259.md)
+- [Article 369](LEGIARTI000006281279.md)
+- [Article 370](LEGIARTI000006281288.md)

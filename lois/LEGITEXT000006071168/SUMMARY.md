@@ -1,0 +1,34 @@
+# Loi du 16 avril 1935 tendant à l'organisation et à l'assainissement du marché de la viande.
+
+<!-- LEGITEXT000006071168 — nature: LOI -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071168/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006519200.md)
+- [Article 2](LEGIARTI000006519213.md)
+- [Article 3](LEGIARTI000006519240.md)
+- [Article 4](LEGIARTI000006519259.md)
+- [Article 5](LEGIARTI000006519282.md)
+- [Article 6](LEGIARTI000006519298.md)
+- [Article 7](LEGIARTI000006519309.md)
+- [Article 8](LEGIARTI000006519315.md)
+- [Article 9](LEGIARTI000006519325.md)
+- [Article 10](LEGIARTI000006519337.md)
+- [Article 11](LEGIARTI000006519359.md)
+- [Article 13](LEGIARTI000006519393.md)
+- [Article 14](LEGIARTI000006519405.md)
+- [Article 15](LEGIARTI000006519416.md)
+- [Article 16](LEGIARTI000006519417.md)
+- [Article 17](LEGIARTI000006519418.md)
+- [Article 18](LEGIARTI000006519419.md)
+- [Article 19](LEGIARTI000006519420.md)
+- [Article 20](LEGIARTI000006519421.md)
+- [Article 21](LEGIARTI000006519422.md)
+- [Article 22](LEGIARTI000006519423.md)
+- [Article 23](LEGIARTI000006519424.md)
+- [Article 24](LEGIARTI000006519425.md)
+- [Article 25](LEGIARTI000006519426.md)
+- [Article 26](LEGIARTI000006519427.md)
+- [Article 27](LEGIARTI000027685800.md)

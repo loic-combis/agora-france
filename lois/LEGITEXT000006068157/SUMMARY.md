@@ -1,0 +1,14 @@
+# Loi n° 56-332 du 27 mars 1956 MODIFIANT LE REGIME DES CONGES ANNUELS PAYES.
+
+<!-- LEGITEXT000006068157 — nature: LOI -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068157/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006657608.md)
+- [Article 6](LEGIARTI000006272635.md)
+- [Article 7](LEGIARTI000006657613.md)
+- [Article 8](LEGIARTI000006657614.md)
+- [Article 9](LEGIARTI000006657615.md)
+- [Article 10](LEGIARTI000006272636.md)

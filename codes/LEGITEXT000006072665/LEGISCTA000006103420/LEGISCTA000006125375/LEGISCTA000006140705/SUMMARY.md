@@ -1,0 +1,11 @@
+# TITRE 3 : PROFESSIONS DE MASSEUR-KINESITHERAPEUTE ET DE PEDICURE CHAPITRE 3 : DISPOSITIONS COMMUNES ET DISPOSITIONS PENALES.
+
+<!-- LEGISCTA: LEGISCTA000006140705 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006140705/)
+
+**Texte :** Code de la santé publique · **Identifiant :** `LEGITEXT000006072665`
+
+## Articles
+
+- [Article L497](LEGIARTI000006693351.md)

@@ -1,0 +1,19 @@
+# Paragraphe 4 : Bénéfices.
+
+<!-- LEGISCTA: LEGISCTA000006146392 -->
+
+**Texte :** Loi n°66-537 du 24 juillet 1966 sur les sociétés commerciales · **Identifiant :** `LEGITEXT000006068288`
+
+## Articles
+
+- [Article 344](LEGIARTI000006280833.md)
+- [Article 345](LEGIARTI000006280851.md)
+- [Article 346](LEGIARTI000006280864.md)
+- [Article 347](LEGIARTI000006280886.md)
+- [Article 347-1](LEGIARTI000006280899.md)
+- [Article 348](LEGIARTI000006280915.md)
+- [Article 349](LEGIARTI000006280916.md)
+- [Article 350](LEGIARTI000006280917.md)
+- [Article 351](LEGIARTI000006280919.md)
+- [Article 352](LEGIARTI000006280923.md)
+- [Article 353](LEGIARTI000006280928.md)

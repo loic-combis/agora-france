@@ -1,0 +1,13 @@
+# TITRE II : INFRACTIONS AUX RÈGLES CONCERNANT L'USAGE DE VOIES OUVERTES A LA CIRCULATION PUBLIQUE.
+
+<!-- LEGISCTA: LEGISCTA000006144793 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074947/LEGISCTA000006144793/)
+
+**Texte :** Code de la route (ancien) · **Identifiant :** `LEGITEXT000006074947`
+
+## Articles
+
+- [Article L5](LEGIARTI000006875235.md)
+- [Article L6](LEGIARTI000006875237.md)
+- [Article L7](LEGIARTI000006875238.md)

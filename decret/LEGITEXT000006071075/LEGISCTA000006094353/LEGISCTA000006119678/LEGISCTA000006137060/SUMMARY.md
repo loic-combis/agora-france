@@ -1,0 +1,34 @@
+# B : Compétence.
+
+<!-- LEGISCTA: LEGISCTA000006137060 -->
+
+**Texte :** Décret du 21 novembre 1933 relatif à la réorganisation judiciaire et les règles de procédure en Océanie. · **Identifiant :** `LEGITEXT000006071075`
+
+## Articles
+
+- [Article 5](LEGIARTI000006497878.md)
+- [Article 6](LEGIARTI000006497879.md)
+- [Article 7](LEGIARTI000006497880.md)
+- [Article 8](LEGIARTI000006497881.md)
+- [Article 9](LEGIARTI000006497882.md)
+- [Article 10](LEGIARTI000006497883.md)
+- [Article 11](LEGIARTI000006497884.md)
+- [Article 12](LEGIARTI000006497885.md)
+- [Article 13](LEGIARTI000006497886.md)
+- [Article 14](LEGIARTI000006497887.md)
+- [Article 15](LEGIARTI000006497888.md)
+- [Article 16](LEGIARTI000006497889.md)
+- [Article 17](LEGIARTI000006497890.md)
+- [Article 18](LEGIARTI000006497892.md)
+- [Article 19](LEGIARTI000006497893.md)
+- [Article 20](LEGIARTI000006497894.md)
+- [Article 21](LEGIARTI000006497895.md)
+- [Article 22](LEGIARTI000006497896.md)
+- [Article 23](LEGIARTI000006497897.md)
+- [Article 24](LEGIARTI000006497898.md)
+- [Article 25](LEGIARTI000006497899.md)
+- [Article 26](LEGIARTI000006497900.md)
+- [Article 27](LEGIARTI000006497901.md)
+- [Article 28](LEGIARTI000006497903.md)
+- [Article 29](LEGIARTI000006497904.md)
+- [Article 30](LEGIARTI000006497905.md)

@@ -1,0 +1,20 @@
+# IMPOTS DIRECTS ET TAXES ASSIMILEES.
+
+<!-- LEGISCTA: LEGISCTA000006133911 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006133911/)
+
+**Texte :** Code général des impôts · **Identifiant :** `LEGITEXT000006069577`
+
+## Articles
+
+- [Article 1841](LEGIARTI000049249583.md)
+- [Article 1842](LEGIARTI000049249598.md)
+- [Article 1843](LEGIARTI000049249633.md)
+- [Article 1844](LEGIARTI000049249659.md)
+- [Article 1844 bis](LEGIARTI000049625758.md)
+- [Article 1845](LEGIARTI000049422612.md)
+- [Article 1845 bis](LEGIARTI000049625793.md)
+- [Article 1846](LEGIARTI000049493896.md)
+- [Article 1848](LEGIARTI000049249811.md)
+- [Article 1850](LEGIARTI000049249851.md)

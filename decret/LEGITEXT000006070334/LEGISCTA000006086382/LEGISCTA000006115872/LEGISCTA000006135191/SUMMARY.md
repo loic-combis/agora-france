@@ -1,0 +1,9 @@
+# Services sociaux et d'hygiène.
+
+<!-- LEGISCTA: LEGISCTA000006135191 -->
+
+**Texte :** Décret n°66-678 du 14 septembre 1966 fixant la nomenclature des emplois réservés dans les communes. · **Identifiant :** `LEGITEXT000006070334`
+
+## Articles
+
+- [Article Annexe](LEGIARTI000006368101.md)

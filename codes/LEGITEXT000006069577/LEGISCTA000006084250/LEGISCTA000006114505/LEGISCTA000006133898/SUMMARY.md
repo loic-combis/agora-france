@@ -1,0 +1,12 @@
+# ASSIETTE ET CONTROLE DE L'IMPOT
+
+<!-- LEGISCTA: LEGISCTA000006133898 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006133898/)
+
+**Texte :** Code général des impôts · **Identifiant :** `LEGITEXT000006069577`
+
+## Sous-sections
+
+- [VERIFICATIONS.](LEGISCTA000006147223/SUMMARY.md)
+- [OBLIGATIONS DES CONTRIBUABLES.](LEGISCTA000006147217/SUMMARY.md)

@@ -1,0 +1,10 @@
+# Arrêté du 13 octobre 1941  RELATIF A L'APPLICATION AUX OUVRIERS A DOMICILE DE LA LEGISLATION SUR LES CONGES PAYES.
+
+<!-- LEGITEXT000006072272 — nature: ARRETE -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006072272/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006669656.md)
+- [Article 2](LEGIARTI000006669657.md)

@@ -1,0 +1,29 @@
+# CHAPITRE II - SOCIETES DE SECOURS ET UNIONS REGIONALES.
+
+<!-- LEGISCTA: LEGISCTA000006127701 -->
+
+**Texte :** Décret n°47-2100 du 22 octobre 1947 fixant les mesures d'application du décret n° 46-2769 du 27 novembre 1946 portant organisation de la Sécurité Sociale dans les mines. · **Identifiant :** `LEGITEXT000006060480`
+
+## Articles
+
+- [Article 34](LEGIARTI000006766934.md)
+- [Article 35](LEGIARTI000006766935.md)
+- [Article 36](LEGIARTI000006766936.md)
+- [Article 37](LEGIARTI000006766937.md)
+- [Article 38](LEGIARTI000006766938.md)
+- [Article 39](LEGIARTI000006766939.md)
+- [Article 40](LEGIARTI000006766940.md)
+- [Article 40 bis](LEGIARTI000006766941.md)
+- [Article 40 ter](LEGIARTI000006766942.md)
+- [Article 41](LEGIARTI000006766943.md)
+- [Article 42](LEGIARTI000006766944.md)
+- [Article 42 bis](LEGIARTI000006766945.md)
+- [Article 43](LEGIARTI000006766947.md)
+- [Article 44](LEGIARTI000006766948.md)
+- [Article 45](LEGIARTI000006766949.md)
+- [Article 46](LEGIARTI000006766950.md)
+- [Article 46 bis](LEGIARTI000006766951.md)
+- [Article 47](LEGIARTI000006766952.md)
+- [Article 48](LEGIARTI000006766953.md)
+- [Article 49](LEGIARTI000006766954.md)
+- [Article 50](LEGIARTI000006766955.md)

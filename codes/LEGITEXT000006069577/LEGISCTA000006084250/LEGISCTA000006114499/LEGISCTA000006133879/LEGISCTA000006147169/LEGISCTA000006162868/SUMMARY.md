@@ -1,0 +1,13 @@
+# JURIDICTIONS
+
+<!-- LEGISCTA: LEGISCTA000006162868 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006162868/)
+
+**Texte :** Code général des impôts · **Identifiant :** `LEGITEXT000006069577`
+
+## Sous-sections
+
+- [DISPOSITIONS DIVERSES.](LEGISCTA000006179877/SUMMARY.md)
+- [PRESSE.](LEGISCTA000006179876/SUMMARY.md)
+- [PROCEDURES DIVERSES.](LEGISCTA000006179875/SUMMARY.md)

@@ -1,0 +1,10 @@
+# CHAPITRE VI : DISPOSITIONS COMMUNES AUX PRESTATIONS DES ASSURANCES MALADIE, MATERNITE ET AUX ALLOCATIONS AU DECES.
+
+<!-- LEGISCTA: LEGISCTA000006142156 -->
+
+**Texte :** Décret n°46-2769 du 27 novembre 1946  portant organisation de la sécurité sociale dans les mines. · **Identifiant :** `LEGITEXT000006060459`
+
+## Articles
+
+- [Article 129](LEGIARTI000006764935.md)
+- [Article 130](LEGIARTI000006764938.md)

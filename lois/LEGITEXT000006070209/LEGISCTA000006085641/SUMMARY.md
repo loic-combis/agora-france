@@ -1,0 +1,15 @@
+# ATTRIBUTIONS DES CONSEILS GENERAUX.
+
+<!-- LEGISCTA: LEGISCTA000006085641 -->
+
+**Texte :** Loi du 10 août 1871 relative aux conseils généraux · **Identifiant :** `LEGITEXT000006070209`
+
+## Articles
+
+- [Article 37](LEGIARTI000006351167.md)
+- [Article 38](LEGIARTI000006351169.md)
+- [Article 40](LEGIARTI000006351171.md)
+- [Article 43](LEGIARTI000006351174.md)
+- [Article 44](LEGIARTI000006351176.md)
+- [Article 45](LEGIARTI000006351177.md)
+- [Article 47 bis](LEGIARTI000006351185.md)

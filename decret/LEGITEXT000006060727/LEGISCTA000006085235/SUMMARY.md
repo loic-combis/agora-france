@@ -1,0 +1,9 @@
+# MUTATION DE TITRES NOMINATIFS
+
+<!-- LEGISCTA: LEGISCTA000006085235 -->
+
+**Texte :** Décret n°55-1595 du 7 décembre 1955 relatif au régime des titres nominatifs · **Identifiant :** `LEGITEXT000006060727`
+
+## Sous-sections
+
+- [CONDITIONS D'ETABLISSEMENT DU CERTIFICAT DE PROPRIETE.](LEGISCTA000006115126/SUMMARY.md)

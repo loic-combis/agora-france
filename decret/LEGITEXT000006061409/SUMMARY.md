@@ -1,0 +1,13 @@
+# Décret n°67-1231 du 22 décembre 1967  RELATIF A L'AGENCE CENTRALE DES ORGANISMES DE SECURITE SOCIALE *ACOSS*.
+
+<!-- LEGITEXT000006061409 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006061409/)
+
+## Articles
+
+- [Article 3](LEGIARTI000006761219.md)
+- [Article 4](LEGIARTI000006761220.md)
+- [Article 5](LEGIARTI000006761221.md)
+- [Article 6](LEGIARTI000006761222.md)
+- [Article 7](LEGIARTI000006761223.md)

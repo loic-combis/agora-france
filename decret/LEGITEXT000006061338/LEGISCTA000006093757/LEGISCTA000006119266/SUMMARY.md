@@ -1,0 +1,26 @@
+# Exécution du contrat.
+
+<!-- LEGISCTA: LEGISCTA000006119266 -->
+
+**Texte :** Décret n°66-1078 du 31 décembre 1966 sur les contrats d'affrètement et de transport maritimes · **Identifiant :** `LEGITEXT000006061338`
+
+## Articles
+
+- [Article 38](LEGIARTI000006486626.md)
+- [Article 39](LEGIARTI000006486645.md)
+- [Article 40](LEGIARTI000006486647.md)
+- [Article 41](LEGIARTI000006486648.md)
+- [Article 42](LEGIARTI000006486649.md)
+- [Article 43](LEGIARTI000006486650.md)
+- [Article 44](LEGIARTI000006486651.md)
+- [Article 45](LEGIARTI000006486652.md)
+- [Article 46](LEGIARTI000006486653.md)
+- [Article 47](LEGIARTI000006486663.md)
+- [Article 48](LEGIARTI000006486672.md)
+- [Article 49](LEGIARTI000006486682.md)
+- [Article 50](LEGIARTI000006486690.md)
+- [Article 51](LEGIARTI000006486700.md)
+- [Article 52](LEGIARTI000006486709.md)
+- [Article 53](LEGIARTI000006486718.md)
+- [Article 54](LEGIARTI000006486728.md)
+- [Article 55](LEGIARTI000006486737.md)

@@ -1,0 +1,30 @@
+# Titre VII : Des partages et licitations.
+
+<!-- LEGISCTA: LEGISCTA000006135760 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070680/LEGISCTA000006135760/)
+
+**Texte :** Code de procédure civile (1807) · **Identifiant :** `LEGITEXT000006070680`
+
+## Articles
+
+- [Article 966](LEGIARTI000006404247.md)
+- [Article 967](LEGIARTI000006404248.md)
+- [Article 968](LEGIARTI000006404249.md)
+- [Article 969](LEGIARTI000006404250.md)
+- [Article 970](LEGIARTI000006404251.md)
+- [Article 971](LEGIARTI000006404253.md)
+- [Article 972](LEGIARTI000006404255.md)
+- [Article 973](LEGIARTI000006404258.md)
+- [Article 974](LEGIARTI000006404260.md)
+- [Article 975](LEGIARTI000006404261.md)
+- [Article 976](LEGIARTI000006404262.md)
+- [Article 977](LEGIARTI000006404263.md)
+- [Article 978](LEGIARTI000006404264.md)
+- [Article 979](LEGIARTI000006404265.md)
+- [Article 980](LEGIARTI000006404266.md)
+- [Article 981](LEGIARTI000006404267.md)
+- [Article 982](LEGIARTI000006404268.md)
+- [Article 983](LEGIARTI000006404270.md)
+- [Article 984](LEGIARTI000006404271.md)
+- [Article 985](LEGIARTI000006404272.md)

@@ -1,0 +1,28 @@
+# Chapitre VI : Des devoirs et des droits respectifs des époux
+
+<!-- LEGISCTA: LEGISCTA000006136137 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136137/)
+
+**Texte :** Code civil · **Identifiant :** `LEGITEXT000006070721`
+
+## Articles
+
+- [Article 212](LEGIARTI000006422734.md)
+- [Article 213](LEGIARTI000020558622.md)
+- [Article 214](LEGIARTI000020558688.md)
+- [Article 215](LEGIARTI000020558743.md)
+- [Article 216](LEGIARTI000006422776.md)
+- [Article 217](LEGIARTI000006422786.md)
+- [Article 218](LEGIARTI000006422795.md)
+- [Article 219](LEGIARTI000006422804.md)
+- [Article 220](LEGIARTI000006422806.md)
+- [Article 220-1](LEGIARTI000006422818.md)
+- [Article 220-2](LEGIARTI000006422828.md)
+- [Article 220-3](LEGIARTI000006422840.md)
+- [Article 221](LEGIARTI000006422850.md)
+- [Article 222](LEGIARTI000006422858.md)
+- [Article 223](LEGIARTI000006422868.md)
+- [Article 224](LEGIARTI000006422880.md)
+- [Article 225](LEGIARTI000006422889.md)
+- [Article 226](LEGIARTI000006422900.md)

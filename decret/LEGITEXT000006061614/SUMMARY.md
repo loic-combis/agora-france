@@ -1,0 +1,10 @@
+# Décret n°69-134 du 6 février 1969  RELATIF AUX INDEMNITES JOURNALIERES DE L'ASSURANCE MALADIE EN CAS DE CURE THERMALE
+
+<!-- LEGITEXT000006061614 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006061614/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006761652.md)
+- [Article 2](LEGIARTI000006761653.md)

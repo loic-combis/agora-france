@@ -1,0 +1,24 @@
+# Du contrat d'édition.
+
+<!-- LEGISCTA: LEGISCTA000006092432 -->
+
+**Texte :** Loi n°57-298 du 11 mars 1957 sur la propriété littéraire et artistique · **Identifiant :** `LEGITEXT000006068170`
+
+## Articles
+
+- [Article 48](LEGIARTI000006466491.md)
+- [Article 49](LEGIARTI000006466501.md)
+- [Article 50](LEGIARTI000006466512.md)
+- [Article 51](LEGIARTI000006466519.md)
+- [Article 52](LEGIARTI000006466527.md)
+- [Article 53](LEGIARTI000006466536.md)
+- [Article 54](LEGIARTI000006466581.md)
+- [Article 55](LEGIARTI000006466619.md)
+- [Article 56](LEGIARTI000006466658.md)
+- [Article 57](LEGIARTI000006466712.md)
+- [Article 58](LEGIARTI000006466769.md)
+- [Article 59](LEGIARTI000006466818.md)
+- [Article 60](LEGIARTI000006466848.md)
+- [Article 61](LEGIARTI000006466890.md)
+- [Article 62](LEGIARTI000006466947.md)
+- [Article 63](LEGIARTI000006466992.md)

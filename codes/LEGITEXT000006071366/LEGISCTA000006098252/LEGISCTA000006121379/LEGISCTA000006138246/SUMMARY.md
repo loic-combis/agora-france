@@ -1,0 +1,25 @@
+# Chapitre Ier : Organisation.
+
+<!-- LEGISCTA: LEGISCTA000006138246 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071366/LEGISCTA000006138246/)
+
+**Texte :** Code rural (ancien) · **Identifiant :** `LEGITEXT000006071366`
+
+## Articles
+
+- [Article 615](LEGIARTI000006580344.md)
+- [Article 616](LEGIARTI000006580345.md)
+- [Article 619](LEGIARTI000006580351.md)
+- [Article 620](LEGIARTI000006580352.md)
+- [Article 621](LEGIARTI000006580353.md)
+- [Article 622](LEGIARTI000006580354.md)
+- [Article 623](LEGIARTI000006580355.md)
+- [Article 624](LEGIARTI000006580356.md)
+- [Article 625](LEGIARTI000006580358.md)
+- [Article 626](LEGIARTI000006580359.md)
+- [Article 627](LEGIARTI000006580362.md)
+- [Article 628](LEGIARTI000006580363.md)
+- [Article 629](LEGIARTI000006580364.md)
+- [Article 630](LEGIARTI000006580365.md)
+- [Article 631](LEGIARTI000006580366.md)

@@ -1,0 +1,11 @@
+# INTERETS COMMUNS A PLUSIEURS DEPARTEMENTS.
+
+<!-- LEGISCTA: LEGISCTA000006085645 -->
+
+**Texte :** Loi du 10 août 1871 relative aux conseils généraux · **Identifiant :** `LEGITEXT000006070209`
+
+## Articles
+
+- [Article 89](LEGIARTI000006351246.md)
+- [Article 90](LEGIARTI000006351248.md)
+- [Article 91](LEGIARTI000006351250.md)

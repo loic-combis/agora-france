@@ -1,0 +1,37 @@
+# Chapitre I : Du différend individuel.
+
+<!-- LEGISCTA: LEGISCTA000006123980 -->
+
+**Texte :** Loi n° 52-1322 du 15 décembre 1952 instituant un code du travail dans les territoires et territoires associés relevant des ministères de la France d'Outre-mer. · **Identifiant :** `LEGITEXT000006068106`
+
+## Articles
+
+- [Article 180](LEGIARTI000006656600.md)
+- [Article 181](LEGIARTI000006656601.md)
+- [Article 182](LEGIARTI000006656603.md)
+- [Article 183](LEGIARTI000006656604.md)
+- [Article 184](LEGIARTI000006656605.md)
+- [Article 185](LEGIARTI000006656607.md)
+- [Article 186](LEGIARTI000006656609.md)
+- [Article 187](LEGIARTI000006656611.md)
+- [Article 188](LEGIARTI000006656613.md)
+- [Article 189](LEGIARTI000006656614.md)
+- [Article 190](LEGIARTI000006656615.md)
+- [Article 191](LEGIARTI000006656616.md)
+- [Article 192](LEGIARTI000006656617.md)
+- [Article 193](LEGIARTI000006656618.md)
+- [Article 194](LEGIARTI000006656619.md)
+- [Article 195](LEGIARTI000006656625.md)
+- [Article 196](LEGIARTI000006656626.md)
+- [Article 197](LEGIARTI000006656627.md)
+- [Article 198](LEGIARTI000006656628.md)
+- [Article 199](LEGIARTI000006656629.md)
+- [Article 200](LEGIARTI000006656630.md)
+- [Article 201](LEGIARTI000006656631.md)
+- [Article 202](LEGIARTI000006656632.md)
+- [Article 203](LEGIARTI000006656633.md)
+- [Article 204](LEGIARTI000006656634.md)
+- [Article 205](LEGIARTI000006656635.md)
+- [Article 206](LEGIARTI000006656637.md)
+- [Article 207](LEGIARTI000006656639.md)
+- [Article 208](LEGIARTI000006656642.md)

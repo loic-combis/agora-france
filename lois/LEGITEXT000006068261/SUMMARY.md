@@ -1,0 +1,34 @@
+# Loi n° 65-956 du 12 novembre 1965 sur la responsabilité civile des exploitants de navires nucléaires.
+
+<!-- LEGITEXT000006068261 — nature: LOI -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068261/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006878676.md)
+- [Article 2](LEGIARTI000006878677.md)
+- [Article 3](LEGIARTI000006878678.md)
+- [Article 4](LEGIARTI000006878679.md)
+- [Article 5](LEGIARTI000006878680.md)
+- [Article 6](LEGIARTI000006878681.md)
+- [Article 7](LEGIARTI000006878682.md)
+- [Article 8](LEGIARTI000006878683.md)
+- [Article 9](LEGIARTI000006878684.md)
+- [Article 10](LEGIARTI000006878686.md)
+- [Article 11](LEGIARTI000006878687.md)
+- [Article 11-1](LEGIARTI000006878688.md)
+- [Article 11-2](LEGIARTI000006878689.md)
+- [Article 12](LEGIARTI000006878690.md)
+- [Article 13](LEGIARTI000006878692.md)
+- [Article 14](LEGIARTI000006878693.md)
+- [Article 15](LEGIARTI000006878694.md)
+- [Article 16](LEGIARTI000006878695.md)
+- [Article 17](LEGIARTI000006878696.md)
+- [Article 18](LEGIARTI000006878697.md)
+- [Article 19](LEGIARTI000023063195.md)
+- [Article 20](LEGIARTI000006878699.md)
+- [Article 21](LEGIARTI000006878700.md)
+- [Article 22](LEGIARTI000006878701.md)
+- [Article 23-1](LEGIARTI000006878704.md)
+- [Article 24](LEGIARTI000006878705.md)

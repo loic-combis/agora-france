@@ -1,0 +1,9 @@
+# Titre IX : Dispositions transitoires Abrogation des textes antérieurs
+
+<!-- LEGISCTA: LEGISCTA000006088966 -->
+
+**Texte :** Décret du 1 avril 1920 relatif au statut du personnel ouvrier des arsenaux et établissements de la marine. · **Identifiant :** `LEGITEXT000006070709`
+
+## Articles
+
+- [Article 41](LEGIARTI000006408297.md)

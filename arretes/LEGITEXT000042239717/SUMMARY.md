@@ -1,0 +1,36 @@
+# Arrêté du 5 juillet 1955 relatif au statut du personnel ouvrier du service du cadastre
+
+<!-- LEGITEXT000042239717 — nature: ARRETE -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000042239717/)
+
+## Articles
+
+- [Article 1](LEGIARTI000042240231.md)
+- [Article 2](LEGIARTI000042240341.md)
+- [Article 3](LEGIARTI000042240351.md)
+- [Article 4](LEGIARTI000042240361.md)
+- [Article 5](LEGIARTI000042240371.md)
+- [Article 6](LEGIARTI000042240381.md)
+- [Article 7](LEGIARTI000042240391.md)
+- [Article 8](LEGIARTI000042240405.md)
+- [Article 9](LEGIARTI000042240415.md)
+- [Article 10](LEGIARTI000042240425.md)
+- [Article 11](LEGIARTI000042240435.md)
+- [Article 12](LEGIARTI000042240445.md)
+- [Article 13](LEGIARTI000042240458.md)
+- [Article 14](LEGIARTI000042240471.md)
+- [Article 15](LEGIARTI000042240481.md)
+- [Article 16](LEGIARTI000042240491.md)
+- [Article 17](LEGIARTI000042240501.md)
+- [Article 18](LEGIARTI000042240511.md)
+- [Article 19](LEGIARTI000042240521.md)
+- [Article 20](LEGIARTI000042240531.md)
+- [Article 21](LEGIARTI000042240541.md)
+- [Article 22](LEGIARTI000042240551.md)
+- [Article 23](LEGIARTI000042240561.md)
+- [Article 24](LEGIARTI000042240574.md)
+- [Article 25](LEGIARTI000042240584.md)
+- [Article 26](LEGIARTI000042240594.md)
+- [Article 27](LEGIARTI000042240604.md)
+- [Article 28](LEGIARTI000042240617.md)

@@ -1,0 +1,23 @@
+# Section 3 : Des devis et des marchés.
+
+<!-- LEGISCTA: LEGISCTA000006150293 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150293/)
+
+**Texte :** Code civil · **Identifiant :** `LEGITEXT000006070721`
+
+## Articles
+
+- [Article 1787](LEGIARTI000006443456.md)
+- [Article 1788](LEGIARTI000006443464.md)
+- [Article 1789](LEGIARTI000006443474.md)
+- [Article 1790](LEGIARTI000006443484.md)
+- [Article 1791](LEGIARTI000006443493.md)
+- [Article 1792](LEGIARTI000049101746.md)
+- [Article 1793](LEGIARTI000006443573.md)
+- [Article 1794](LEGIARTI000006443583.md)
+- [Article 1795](LEGIARTI000006443595.md)
+- [Article 1796](LEGIARTI000006443602.md)
+- [Article 1797](LEGIARTI000006443611.md)
+- [Article 1798](LEGIARTI000006443622.md)
+- [Article 1799](LEGIARTI000006443633.md)

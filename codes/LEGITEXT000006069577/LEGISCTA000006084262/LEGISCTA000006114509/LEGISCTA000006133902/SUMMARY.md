@@ -1,0 +1,17 @@
+# IMPOTS DIRECTS ET TAXES ASSIMILEES.
+
+<!-- LEGISCTA: LEGISCTA000006133902 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006133902/)
+
+**Texte :** Code général des impôts · **Identifiant :** `LEGITEXT000006069577`
+
+## Articles
+
+- [Article 1657](LEGIARTI000049223975.md)
+- [Article 1658](LEGIARTI000049234158.md)
+- [Article 1659](LEGIARTI000049234191.md)
+- [Article 1661](LEGIARTI000049234227.md)
+- [Article 1662](LEGIARTI000049234249.md)
+- [Article 1663](LEGIARTI000049423172.md)
+- [Article 1685](LEGIARTI000049489894.md)

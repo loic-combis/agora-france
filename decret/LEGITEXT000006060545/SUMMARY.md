@@ -1,0 +1,11 @@
+# Décret n°49-578 du 22 avril 1949  RELATIF AU REGIME D'ASSURANCE VIEILLESSE COMPLEMENTAIRE DES NOTAIRES
+
+<!-- LEGITEXT000006060545 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006060545/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006763850.md)
+- [Article 3](LEGIARTI000006763857.md)
+- [Article 4](LEGIARTI000006763859.md)

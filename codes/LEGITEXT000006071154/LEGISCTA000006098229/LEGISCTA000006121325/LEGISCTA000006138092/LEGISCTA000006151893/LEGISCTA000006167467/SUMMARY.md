@@ -1,0 +1,32 @@
+# Section 3 : De la production et de la discussion des preuves
+
+<!-- LEGISCTA: LEGISCTA000006167467 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006167467/)
+
+**Texte :** Code de procédure pénale · **Identifiant :** `LEGITEXT000006071154`
+
+## Articles
+
+- [Article 323](LEGIARTI000006576201.md)
+- [Article 325](LEGIARTI000006576206.md)
+- [Article 326](LEGIARTI000006576209.md)
+- [Article 327](LEGIARTI000006576213.md)
+- [Article 328](LEGIARTI000006576217.md)
+- [Article 329](LEGIARTI000006576220.md)
+- [Article 330](LEGIARTI000006576223.md)
+- [Article 331](LEGIARTI000006576227.md)
+- [Article 332](LEGIARTI000006576231.md)
+- [Article 333](LEGIARTI000006576234.md)
+- [Article 334](LEGIARTI000006576237.md)
+- [Article 335](LEGIARTI000006576240.md)
+- [Article 336](LEGIARTI000006576243.md)
+- [Article 337](LEGIARTI000006576246.md)
+- [Article 338](LEGIARTI000006576249.md)
+- [Article 339](LEGIARTI000006576252.md)
+- [Article 340](LEGIARTI000006576256.md)
+- [Article 341](LEGIARTI000006576260.md)
+- [Article 342](LEGIARTI000006576263.md)
+- [Article 343](LEGIARTI000006576266.md)
+- [Article 345](LEGIARTI000006576273.md)
+- [Article 346](LEGIARTI000006576277.md)

@@ -1,0 +1,16 @@
+# CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS.
+
+<!-- LEGISCTA: LEGISCTA000006159855 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074234/LEGISCTA000006159855/)
+
+**Texte :** Code de l'aviation civile · **Identifiant :** `LEGITEXT000006074234`
+
+## Articles
+
+- [Article R123-1](LEGIARTI000006844476.md)
+- [Article R123-2](LEGIARTI000006844477.md)
+- [Article R123-3](LEGIARTI000006844478.md)
+- [Article R123-6](LEGIARTI000006844481.md)
+- [Article R123-8](LEGIARTI000006844483.md)
+- [Article R123-9](LEGIARTI000006844484.md)

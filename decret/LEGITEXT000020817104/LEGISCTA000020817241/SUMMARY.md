@@ -1,0 +1,13 @@
+# CHAPITRE ler : FORMALITÉS A REMPLIR POUR PLACER LES FORÊTS PARTICULIÈRES SOUS LE RÉGIME D'EXPLOITATION NORMALE PRÉVU A L'ARTICLE 15 DE LA LOI DU 16 AVRIL 1930.
+
+<!-- LEGISCTA: LEGISCTA000020817241 -->
+
+**Texte :** Décret du 28 juin 1930 relatif aux conditions d'application de l'article 15 de la loi de finances du 16 avril 1930. · **Identifiant :** `LEGITEXT000020817104`
+
+## Articles
+
+- [Article 1](LEGIARTI000020817243.md)
+- [Article 2](LEGIARTI000020817244.md)
+- [Article 3](LEGIARTI000020817245.md)
+- [Article 4](LEGIARTI000020817247.md)
+- [Article 5](LEGIARTI000020817250.md)

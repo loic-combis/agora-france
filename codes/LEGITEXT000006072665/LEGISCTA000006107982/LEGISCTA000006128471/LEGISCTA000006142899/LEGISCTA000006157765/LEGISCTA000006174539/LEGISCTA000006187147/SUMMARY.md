@@ -1,0 +1,18 @@
+# PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE.
+
+<!-- LEGISCTA: LEGISCTA000006187147 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006187147/)
+
+**Texte :** Code de la santé publique · **Identifiant :** `LEGITEXT000006072665`
+
+## Articles
+
+- [Article R5128](LEGIARTI000006800117.md)
+- [Article R5129](LEGIARTI000006800126.md)
+- [Article R5130](LEGIARTI000006800132.md)
+- [Article R5131](LEGIARTI000006800135.md)
+- [Article R5132](LEGIARTI000006800138.md)
+- [Article R5133](LEGIARTI000006800141.md)
+- [Article R5134](LEGIARTI000006800151.md)
+- [Article R5142-1](LEGIARTI000006800263.md)

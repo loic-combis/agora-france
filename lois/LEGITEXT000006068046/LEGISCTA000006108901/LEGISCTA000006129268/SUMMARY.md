@@ -1,0 +1,23 @@
+# Chapitre II.
+
+<!-- LEGISCTA: LEGISCTA000006129268 -->
+
+**Texte :** Loi n° 48-340 du 28 février 1948 portant organisation de la marine marchande. · **Identifiant :** `LEGITEXT000006068046`
+
+## Articles
+
+- [Article 15](LEGIARTI000006848564.md)
+- [Article 16](LEGIARTI000006848565.md)
+- [Article 17](LEGIARTI000006848566.md)
+- [Article 18](LEGIARTI000006848568.md)
+- [Article 20](LEGIARTI000006848570.md)
+- [Article 22](LEGIARTI000006848572.md)
+- [Article 24](LEGIARTI000006848574.md)
+- [Article 25](LEGIARTI000006848575.md)
+- [Article 26](LEGIARTI000006848576.md)
+- [Article 27](LEGIARTI000006848577.md)
+- [Article 28](LEGIARTI000006848580.md)
+- [Article 29](LEGIARTI000006848581.md)
+- [Article 30](LEGIARTI000006848582.md)
+- [Article 31](LEGIARTI000006848584.md)
+- [Article 32](LEGIARTI000006848585.md)

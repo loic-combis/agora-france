@@ -1,0 +1,14 @@
+# PARAGRAPHE II : OBLIGATIONS PARTICULIÈRES DES CONDUCTEURS DE VÉHICULES A L'ÉGARD DES PIÉTONS
+
+<!-- LEGISCTA: LEGISCTA000006160253 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074947/LEGISCTA000006160253/)
+
+**Texte :** Code de la route (ancien) · **Identifiant :** `LEGITEXT000006074947`
+
+## Articles
+
+- [Article R220](LEGIARTI000006875897.md)
+- [Article R220-1](LEGIARTI000006875898.md)
+- [Article R220-2](LEGIARTI000006875899.md)
+- [Article R220-3](LEGIARTI000006875900.md)

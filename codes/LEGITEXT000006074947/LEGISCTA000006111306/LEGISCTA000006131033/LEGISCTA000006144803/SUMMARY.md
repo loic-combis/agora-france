@@ -1,0 +1,12 @@
+# TITRE II : DISPOSITIONS SPÉCIALES APPLICABLES AUX VÉHICULES AUTOMOBILES, Y COMPRIS LES TROLLEYBUS, ET AUX ENSEMBLES DE VÉHICULES
+
+<!-- LEGISCTA: LEGISCTA000006144803 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074947/LEGISCTA000006144803/)
+
+**Texte :** Code de la route (ancien) · **Identifiant :** `LEGITEXT000006074947`
+
+## Sous-sections
+
+- [CHAPITRE Ier : Règles techniques](LEGISCTA000006160197/SUMMARY.md)
+- [CHAPITRE II : Règles administratives](LEGISCTA000006160198/SUMMARY.md)

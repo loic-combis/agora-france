@@ -1,0 +1,15 @@
+# Loi n° 66-774 du 18 octobre 1966 RELATIVE A LA TUTELLE AUX PRESTATIONS SOCIALES.
+
+<!-- LEGITEXT000006068289 — nature: LOI -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068289/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006757227.md)
+- [Article 10](LEGIARTI000006757237.md)
+- [Article 10 bis](LEGIARTI000006757238.md)
+- [Article 11](LEGIARTI000006757239.md)
+- [Article 12](LEGIARTI000006757241.md)
+- [Article 13](LEGIARTI000006757242.md)
+- [Article 14](LEGIARTI000006757243.md)

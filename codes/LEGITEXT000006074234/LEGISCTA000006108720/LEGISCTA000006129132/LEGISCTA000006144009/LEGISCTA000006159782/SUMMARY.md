@@ -1,0 +1,16 @@
+# CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.
+
+<!-- LEGISCTA: LEGISCTA000006159782 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074234/LEGISCTA000006159782/)
+
+**Texte :** Code de l'aviation civile · **Identifiant :** `LEGITEXT000006074234`
+
+## Articles
+
+- [Article D243-1](LEGIARTI000006843839.md)
+- [Article D243-2](LEGIARTI000006843840.md)
+- [Article D243-4](LEGIARTI000006843842.md)
+- [Article D243-5](LEGIARTI000006843843.md)
+- [Article D243-6](LEGIARTI000006843844.md)
+- [Article D243-8](LEGIARTI000006843846.md)

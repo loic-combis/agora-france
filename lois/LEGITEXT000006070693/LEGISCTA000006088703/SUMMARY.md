@@ -1,0 +1,13 @@
+# CHAPITRE II : DES FORMES DE LA DECLARATION DE L'ETAT DE SIEGE.
+
+<!-- LEGISCTA: LEGISCTA000006088703 -->
+
+**Texte :** Loi du 9 août 1849 sur l'état de siège. · **Identifiant :** `LEGITEXT000006070693`
+
+## Articles
+
+- [Article 2](LEGIARTI000006404761.md)
+- [Article 3](LEGIARTI000006404762.md)
+- [Article 4](LEGIARTI000006404763.md)
+- [Article 5](LEGIARTI000006404764.md)
+- [Article 6](LEGIARTI000006404766.md)

@@ -1,0 +1,38 @@
+# Décret n°59-930 du 31 juillet 1959 tendant à réglementer les essences d'absinthe et produits assimilés ou susceptibles de les suppléer
+
+<!-- LEGITEXT000006060926 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006060926/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006706228.md)
+- [Article 2](LEGIARTI000006706229.md)
+- [Article 3](LEGIARTI000006706230.md)
+- [Article 4](LEGIARTI000006706231.md)
+- [Article 5](LEGIARTI000006706232.md)
+- [Article 6](LEGIARTI000006706233.md)
+- [Article 7](LEGIARTI000006706234.md)
+- [Article 8](LEGIARTI000006706235.md)
+- [Article 9](LEGIARTI000006706236.md)
+- [Article 10](LEGIARTI000006706237.md)
+- [Article 11](LEGIARTI000006706238.md)
+- [Article 12](LEGIARTI000006706239.md)
+- [Article 13](LEGIARTI000006706240.md)
+- [Article 14](LEGIARTI000006706241.md)
+- [Article 15](LEGIARTI000006706242.md)
+- [Article 16](LEGIARTI000006706243.md)
+- [Article 17](LEGIARTI000006706244.md)
+- [Article 18](LEGIARTI000006706245.md)
+- [Article 19](LEGIARTI000006706246.md)
+- [Article 20](LEGIARTI000006706247.md)
+- [Article 21](LEGIARTI000006706248.md)
+- [Article 22](LEGIARTI000006706249.md)
+- [Article 23](LEGIARTI000006706250.md)
+- [Article 24](LEGIARTI000006706251.md)
+- [Article 25](LEGIARTI000006706252.md)
+- [Article 26](LEGIARTI000006706253.md)
+- [Article 27](LEGIARTI000006706254.md)
+- [Article 28](LEGIARTI000006706255.md)
+- [Article 29](LEGIARTI000006706256.md)
+- [Article 30](LEGIARTI000006706227.md)

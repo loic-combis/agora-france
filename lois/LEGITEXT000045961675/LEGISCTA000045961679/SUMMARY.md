@@ -1,0 +1,17 @@
+# TITRE I : FONCTIONS DU CONSEIL D'ETAT.
+
+<!-- LEGISCTA: LEGISCTA000045961679 -->
+
+**Texte :** Loi du 3 mars 1849 organique du conseil d'État · **Identifiant :** `LEGITEXT000045961675`
+
+## Articles
+
+- [Article 1](LEGIARTI000045961739.md)
+- [Article 2](LEGIARTI000045961749.md)
+- [Article 3](LEGIARTI000045961756.md)
+- [Article 4](LEGIARTI000045961763.md)
+- [Article 5](LEGIARTI000045961770.md)
+- [Article 6](LEGIARTI000045961777.md)
+- [Article 7](LEGIARTI000045961791.md)
+- [Article 8](LEGIARTI000045961798.md)
+- [Article 9](LEGIARTI000045961805.md)

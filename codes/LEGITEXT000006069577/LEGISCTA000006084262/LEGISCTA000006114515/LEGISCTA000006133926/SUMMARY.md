@@ -1,0 +1,14 @@
+# DROIT DE COMMUNICATION AUPRES DES ADMINISTRATIONS PUBLIQUES.
+
+<!-- LEGISCTA: LEGISCTA000006133926 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006133926/)
+
+**Texte :** Code général des impôts · **Identifiant :** `LEGITEXT000006069577`
+
+## Articles
+
+- [Article 1987](LEGIARTI000049422675.md)
+- [Article 1988](LEGIARTI000049276246.md)
+- [Article 1989](LEGIARTI000049276306.md)
+- [Article 1990](LEGIARTI000049276331.md)

@@ -1,0 +1,21 @@
+# CHAPITRE 4 : TIRS A L'OXYGENE LIQUIDE.
+
+<!-- LEGISCTA: LEGISCTA000006124592 -->
+
+**Texte :** Décret n°59-962 du 31 juillet 1959 concernant l'emploi des explosifs dans les minières et carrières. · **Identifiant :** `LEGITEXT000006060932`
+
+## Articles
+
+- [Article 36](LEGIARTI000006674688.md)
+- [Article 37](LEGIARTI000006674689.md)
+- [Article 38](LEGIARTI000006674690.md)
+- [Article 39](LEGIARTI000006674691.md)
+- [Article 40](LEGIARTI000006674692.md)
+- [Article 41](LEGIARTI000006674693.md)
+- [Article 42](LEGIARTI000006674694.md)
+- [Article 43](LEGIARTI000006674695.md)
+- [Article 44](LEGIARTI000006674696.md)
+- [Article 45](LEGIARTI000006674697.md)
+- [Article 46](LEGIARTI000006674698.md)
+- [Article 47](LEGIARTI000006674699.md)
+- [Article 48](LEGIARTI000006674700.md)

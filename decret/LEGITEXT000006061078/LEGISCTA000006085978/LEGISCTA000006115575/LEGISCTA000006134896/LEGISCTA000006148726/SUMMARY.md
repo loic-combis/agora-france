@@ -1,0 +1,9 @@
+# SECTION II : Domaine.
+
+<!-- LEGISCTA: LEGISCTA000006148726 -->
+
+**Texte :** Décret n°62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique · **Identifiant :** `LEGITEXT000006061078`
+
+## Articles
+
+- [Article 75](LEGIARTI000006359800.md)

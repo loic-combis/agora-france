@@ -1,0 +1,12 @@
+# 2° : Lieux de distillation
+
+<!-- LEGISCTA: LEGISCTA000006197275 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006197275/)
+
+**Texte :** Code général des impôts · **Identifiant :** `LEGITEXT000006069577`
+
+## Articles
+
+- [Article 318](LEGIARTI000048226422.md)
+- [Article 320](LEGIARTI000006305008.md)

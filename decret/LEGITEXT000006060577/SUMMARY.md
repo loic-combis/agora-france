@@ -1,0 +1,13 @@
+# Décret n°50-391 du 31 mars 1950 portant règlement d'administration publique pour l'application dans la marine marchande de la loi du 11 février 1950 relative aux conventions collectives et aux procédures de règlement des conflits collectifs de travail.
+
+<!-- LEGITEXT000006060577 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006060577/)
+
+## Sommaire
+
+- [TITRE II : CONVENTIONS COLLECTIVES.](LEGISCTA000006101763/SUMMARY.md)
+- [TITRE III : COMMISSION NATIONALE DES CONVENTIONS COLLECTIVES DE LA MARINE MARCHANDE.](LEGISCTA000006101764/SUMMARY.md)
+- [TITRE IV : PROCEDURE DE REGLEMENT DES CONFLITS COLLECTIFS DE TRAVAIL](LEGISCTA000006101765/SUMMARY.md)
+- [TITRE IV : PROCEDURES DE REGLEMENT DES CONFLITS COLLECTIFS DE TRAVAIL](LEGISCTA000006101766/SUMMARY.md)
+- [TITRE IV : PROCEDURES DE REGLEMENT DES CONFLITS](LEGISCTA000006101767/SUMMARY.md)

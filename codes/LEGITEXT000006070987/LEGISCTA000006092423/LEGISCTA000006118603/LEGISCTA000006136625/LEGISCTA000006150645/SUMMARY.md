@@ -1,0 +1,11 @@
+# CHAPITRE Ier : Dispositions générales.
+
+<!-- LEGISCTA: LEGISCTA000006150645 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070987/LEGISCTA000006150645/)
+
+**Texte :** Code des postes et des communications électroniques · **Identifiant :** `LEGITEXT000006070987`
+
+## Articles
+
+- [Article L65](LEGIARTI000006465574.md)

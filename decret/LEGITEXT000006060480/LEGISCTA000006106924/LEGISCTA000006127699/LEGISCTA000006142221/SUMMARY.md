@@ -1,0 +1,14 @@
+# SECTION II - COMITES ET COMMISSIONS SIEGEANT AUPRES DU CONSEIL D'ADMINISTRATION DE LA CAISSE AUTONOME NATIONALE DE LA SECURITE SOCIALE DANS LES MINES.
+
+<!-- LEGISCTA: LEGISCTA000006142221 -->
+
+**Texte :** Décret n°47-2100 du 22 octobre 1947 fixant les mesures d'application du décret n° 46-2769 du 27 novembre 1946 portant organisation de la Sécurité Sociale dans les mines. · **Identifiant :** `LEGITEXT000006060480`
+
+## Articles
+
+- [Article 21](LEGIARTI000006766922.md)
+- [Article 22](LEGIARTI000006766923.md)
+- [Article 23](LEGIARTI000006766924.md)
+- [Article 24](LEGIARTI000006766925.md)
+- [Article 26](LEGIARTI000006766926.md)
+- [Article 27](LEGIARTI000006766927.md)

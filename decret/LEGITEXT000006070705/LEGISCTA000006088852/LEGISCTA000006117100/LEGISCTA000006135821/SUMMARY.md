@@ -1,0 +1,29 @@
+# SECTION II : Police des routes et des campagnes.
+
+<!-- LEGISCTA: LEGISCTA000006135821 -->
+
+**Texte :** Décret du 20 mai 1903 portant règlement sur l'organisation et le service de la gendarmerie. · **Identifiant :** `LEGITEXT000006070705`
+
+## Articles
+
+- [Article 193](LEGIARTI000006407026.md)
+- [Article 194](LEGIARTI000006407027.md)
+- [Article 195](LEGIARTI000006407028.md)
+- [Article 196](LEGIARTI000006407029.md)
+- [Article 197](LEGIARTI000006407030.md)
+- [Article 198](LEGIARTI000006407031.md)
+- [Article 199](LEGIARTI000006407032.md)
+- [Article 200](LEGIARTI000006407033.md)
+- [Article 201](LEGIARTI000006407034.md)
+- [Article 203](LEGIARTI000006407036.md)
+- [Article 205](LEGIARTI000006407038.md)
+- [Article 206](LEGIARTI000006407039.md)
+- [Article 207](LEGIARTI000006407040.md)
+- [Article 208](LEGIARTI000006407041.md)
+- [Article 209](LEGIARTI000006407042.md)
+- [Article 210](LEGIARTI000006407043.md)
+- [Article 211](LEGIARTI000006407044.md)
+- [Article 212](LEGIARTI000006407045.md)
+- [Article 213](LEGIARTI000006407046.md)
+- [Article 214](LEGIARTI000006407047.md)
+- [Article 215](LEGIARTI000006407048.md)

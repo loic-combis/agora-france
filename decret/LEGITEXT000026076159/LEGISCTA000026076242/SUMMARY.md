@@ -1,0 +1,18 @@
+# Titre II : Organisation administrative.
+
+<!-- LEGISCTA: LEGISCTA000026076242 -->
+
+**Texte :** Décret n°68-905 du 21 octobre 1968 PORTANT STATUT DU THEATRE DE FRANCE · **Identifiant :** `LEGITEXT000026076159`
+
+## Articles
+
+- [Article 3](LEGIARTI000026076178.md)
+- [Article 4](LEGIARTI000026076179.md)
+- [Article 5](LEGIARTI000026076182.md)
+- [Article 6](LEGIARTI000026076183.md)
+- [Article 7](LEGIARTI000026076184.md)
+- [Article 8](LEGIARTI000026076185.md)
+- [Article 9](LEGIARTI000026076186.md)
+- [Article 10](LEGIARTI000026076190.md)
+- [Article 11](LEGIARTI000026076192.md)
+- [Article 12](LEGIARTI000026076193.md)

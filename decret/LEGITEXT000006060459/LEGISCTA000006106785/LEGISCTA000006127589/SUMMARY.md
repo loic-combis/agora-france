@@ -1,0 +1,15 @@
+# CHAPITRE IV : DISPOSITIONS FISCALES ET EXONERATIONS DIVERSES.
+
+<!-- LEGISCTA: LEGISCTA000006127589 -->
+
+**Texte :** Décret n°46-2769 du 27 novembre 1946  portant organisation de la sécurité sociale dans les mines. · **Identifiant :** `LEGITEXT000006060459`
+
+## Articles
+
+- [Article 190](LEGIARTI000006765209.md)
+- [Article 191](LEGIARTI000006765212.md)
+- [Article 192](LEGIARTI000006765216.md)
+- [Article 193](LEGIARTI000006765220.md)
+- [Article 194](LEGIARTI000006765223.md)
+- [Article 195](LEGIARTI000006765226.md)
+- [Article 196](LEGIARTI000006765230.md)

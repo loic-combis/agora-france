@@ -1,0 +1,17 @@
+# RECRUTEMENT ET AVANCEMENT - DISPOSITIONS COMMUNES A TOUS LES CORPS
+
+<!-- LEGISCTA: LEGISCTA000044050655 -->
+
+**Texte :** Loi du 9 avril 1935 fixant le statut du personnel des cadres actifs de l'armée de l'air · **Identifiant :** `LEGITEXT000044050204`
+
+## Articles
+
+- [Article 13](LEGIARTI000044060134.md)
+- [Article 14](LEGIARTI000044060130.md)
+- [Article 15](LEGIARTI000044060126.md)
+- [Article 16](LEGIARTI000044060118.md)
+- [Article 17](LEGIARTI000044060114.md)
+- [Article 18](LEGIARTI000044060110.md)
+- [Article 19](LEGIARTI000044060106.md)
+- [Article 20](LEGIARTI000044060102.md)
+- [Article 21](LEGIARTI000044060098.md)

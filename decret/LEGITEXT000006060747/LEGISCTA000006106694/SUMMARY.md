@@ -1,0 +1,11 @@
+# Titre 3 : Prestations
+
+<!-- LEGISCTA: LEGISCTA000006106694 -->
+
+**Texte :** Décret n°55-753 du 31 mai 1955  TENDANT A MODIFIER ET A COMPLETER LE   DU 18 OCTOBRE 1952 ET FIXANT LES CONDITIONS D'APPLICATION DE LA LOI DU 5 JANVIER 1955 RELATIVE A L'ALLOCATION VIEILLESSE AGRICOLE. · **Identifiant :** `LEGITEXT000006060747`
+
+## Sous-sections
+
+- [Chapitre 1 : Dispositions communes.](LEGISCTA000006127515/SUMMARY.md)
+- [Chapitre 2 : Allocation vieillesse agricole.](LEGISCTA000006127516/SUMMARY.md)
+- [Chapitre 3 : Retraite de vieillesse agricole.](LEGISCTA000006127517/SUMMARY.md)

@@ -1,0 +1,12 @@
+# TITRE VIII : DE L'ÉDUCATION CULTURELLE ET DU PERFECTIONNEMENT PROFESSIONNEL
+
+<!-- LEGISCTA: LEGISCTA000019277552 -->
+
+**Texte :** Décret n° 59-57 portant réforme de l'enseignement public. · **Identifiant :** `LEGITEXT000019277543`
+
+## Articles
+
+- [Article 47](LEGIARTI000019277604.md)
+- [Article 48](LEGIARTI000019277605.md)
+- [Article 49](LEGIARTI000019277606.md)
+- [Article 50](LEGIARTI000019277607.md)

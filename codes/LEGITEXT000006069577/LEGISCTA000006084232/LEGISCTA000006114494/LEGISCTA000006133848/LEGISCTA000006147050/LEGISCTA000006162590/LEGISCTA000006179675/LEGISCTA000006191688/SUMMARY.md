@@ -1,0 +1,11 @@
+# Tolérances.
+
+<!-- LEGISCTA: LEGISCTA000006191688 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006191688/)
+
+**Texte :** Code général des impôts · **Identifiant :** `LEGITEXT000006069577`
+
+## Articles
+
+- [Article 494 bis](LEGIARTI000049582491.md)

@@ -1,0 +1,27 @@
+# Paragraphe 5 : Des charges tutélaires.
+
+<!-- LEGISCTA: LEGISCTA000006165505 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165505/)
+
+**Texte :** Code civil · **Identifiant :** `LEGITEXT000006070721`
+
+## Articles
+
+- [Article 427](LEGIARTI000006427450.md)
+- [Article 428](LEGIARTI000006427461.md)
+- [Article 429](LEGIARTI000006427468.md)
+- [Article 432](LEGIARTI000006427470.md)
+- [Article 433](LEGIARTI000006427592.md)
+- [Article 434](LEGIARTI000006427472.md)
+- [Article 437](LEGIARTI000006427474.md)
+- [Article 438](LEGIARTI000006427476.md)
+- [Article 439](LEGIARTI000006427478.md)
+- [Article 440](LEGIARTI000006427480.md)
+- [Article 441](LEGIARTI000006427482.md)
+- [Article 442](LEGIARTI000006427484.md)
+- [Article 443](LEGIARTI000006427625.md)
+- [Article 444](LEGIARTI000006427488.md)
+- [Article 446](LEGIARTI000006427496.md)
+- [Article 447](LEGIARTI000006427498.md)
+- [Article 448](LEGIARTI000006427501.md)

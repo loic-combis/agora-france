@@ -1,0 +1,10 @@
+# Décret n°69-456 du 24 mai 1969  PORTANT MODIFICATION DES TAUX DE CALCUL DES ALLOCATIONS FAMILIALES.
+
+<!-- LEGITEXT000006061638 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006061638/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006762154.md)
+- [Article 3](LEGIARTI000006762159.md)

@@ -1,0 +1,20 @@
+# OBLIGATIONS DIVERSES.
+
+<!-- LEGISCTA: LEGISCTA000006147149 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006147149/)
+
+**Texte :** Code général des impôts · **Identifiant :** `LEGITEXT000006069577`
+
+## Sous-sections
+
+- [OBLIGATIONS DES OFFICIERS PUBLICS ET MINISTERIELS](LEGISCTA000006162852/SUMMARY.md)
+
+## Articles
+
+- [Article 849](LEGIARTI000049691397.md)
+- [Article 852](LEGIARTI000049691488.md)
+- [Article 862](LEGIARTI000048555617.md)
+- [Article 874](LEGIARTI000048562873.md)
+- [Article 882](LEGIARTI000048563941.md)
+- [Article 883](LEGIARTI000049590129.md)

@@ -1,0 +1,26 @@
+# Titre V : Des rapports entre le Parlement et le Gouvernement
+
+<!-- LEGISCTA: LEGISCTA000006095825 -->
+
+**Texte :** Constitution du 4 octobre 1958 · **Identifiant :** `LEGITEXT000006071194`
+
+## Articles
+
+- [Article 34](LEGIARTI000006527502.md)
+- [Article 35](LEGIARTI000006527506.md)
+- [Article 36](LEGIARTI000006527507.md)
+- [Article 37](LEGIARTI000006527508.md)
+- [Article 38](LEGIARTI000006527512.md)
+- [Article 39](LEGIARTI000006527513.md)
+- [Article 40](LEGIARTI000006527516.md)
+- [Article 41](LEGIARTI000006527517.md)
+- [Article 42](LEGIARTI000006527518.md)
+- [Article 43](LEGIARTI000006527519.md)
+- [Article 44](LEGIARTI000006527520.md)
+- [Article 45](LEGIARTI000006527521.md)
+- [Article 46](LEGIARTI000006527522.md)
+- [Article 47](LEGIARTI000006527523.md)
+- [Article 48](LEGIARTI000006527526.md)
+- [Article 49](LEGIARTI000006527528.md)
+- [Article 50](LEGIARTI000006527530.md)
+- [Article 51](LEGIARTI000006527531.md)

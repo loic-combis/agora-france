@@ -1,0 +1,14 @@
+# INSTITUTION ET ATTRIBUTIONS DU PORT DE PARIS
+
+<!-- LEGISCTA: LEGISCTA000006111614 -->
+
+**Texte :** Loi n° 68-917 du 24 octobre 1968 relative au port autonome de Paris · **Identifiant :** `LEGITEXT000006068325`
+
+## Articles
+
+- [Article 1](LEGIARTI000006878979.md)
+- [Article 2](LEGIARTI000006878981.md)
+- [Article 3](LEGIARTI000006878982.md)
+- [Article 4](LEGIARTI000006878983.md)
+- [Article 5](LEGIARTI000006878984.md)
+- [Article 6](LEGIARTI000006878985.md)

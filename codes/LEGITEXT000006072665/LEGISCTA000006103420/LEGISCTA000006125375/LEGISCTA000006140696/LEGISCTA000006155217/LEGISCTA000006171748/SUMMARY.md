@@ -1,0 +1,11 @@
+# SECTION 2 : REGLES D'EXERCICE DE LA PROFESSION
+
+<!-- LEGISCTA: LEGISCTA000006171748 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006171748/)
+
+**Texte :** Code de la santé publique · **Identifiant :** `LEGITEXT000006072665`
+
+## Sous-sections
+
+- [PARAGRAPHE 4 : REGLES PROPRES A L'EXERCICE DE LA PROFESSION DE SAGE-FEMME.](LEGISCTA000006185434/SUMMARY.md)

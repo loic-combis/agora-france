@@ -1,0 +1,11 @@
+# Ordonnance du 18 décembre 1839 portant règlement sur les établissements publics et privés consacrés aux aliénés.
+
+<!-- LEGITEXT000006070941 — nature: ORDONNANCE -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070941/)
+
+## Sommaire
+
+- [TITRE Ier : DES ETABLISSEMENTS PUBLICS CONSACRES AUX ALIENES.](LEGISCTA000006091614/SUMMARY.md)
+- [TITRE II : DES ETABLISSEMENTS PRIVES CONSACRES AUX ALIENES.](LEGISCTA000006091615/SUMMARY.md)
+- [TITRE III : DISPOSITIONS GENERALES.](LEGISCTA000006091616/SUMMARY.md)

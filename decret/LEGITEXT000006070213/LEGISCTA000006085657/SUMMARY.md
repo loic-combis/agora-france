@@ -1,0 +1,9 @@
+# RECETTES BUDGETAIRES
+
+<!-- LEGISCTA: LEGISCTA000006085657 -->
+
+**Texte :** Décret du 12 juillet 1893 portant règlement sur la comptabilité départementale. · **Identifiant :** `LEGITEXT000006070213`
+
+## Sous-sections
+
+- [CREATION DES RESSOURCES.](LEGISCTA000006115412/SUMMARY.md)

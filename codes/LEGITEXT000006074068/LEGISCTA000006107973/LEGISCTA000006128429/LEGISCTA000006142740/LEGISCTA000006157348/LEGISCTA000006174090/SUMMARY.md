@@ -1,0 +1,31 @@
+# Section 1 : Manutention des deniers pupillaires.
+
+<!-- LEGISCTA: LEGISCTA000006174090 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074068/LEGISCTA000006174090/)
+
+**Texte :** Code des pensions militaires d'invalidité et des victimes de la guerre · **Identifiant :** `LEGITEXT000006074068`
+
+## Articles
+
+- [Article D361](LEGIARTI000006793821.md)
+- [Article D362](LEGIARTI000006793822.md)
+- [Article D363](LEGIARTI000006793823.md)
+- [Article D364](LEGIARTI000006793824.md)
+- [Article D365](LEGIARTI000006793825.md)
+- [Article D366](LEGIARTI000006793826.md)
+- [Article D367](LEGIARTI000006793827.md)
+- [Article D368](LEGIARTI000006793828.md)
+- [Article D369](LEGIARTI000006793829.md)
+- [Article D370](LEGIARTI000006793830.md)
+- [Article D371](LEGIARTI000006793831.md)
+- [Article D372](LEGIARTI000006793832.md)
+- [Article D373](LEGIARTI000006793833.md)
+- [Article D374](LEGIARTI000006793834.md)
+- [Article D375](LEGIARTI000006793835.md)
+- [Article D376](LEGIARTI000006793837.md)
+- [Article D377](LEGIARTI000006793838.md)
+- [Article D378](LEGIARTI000006793839.md)
+- [Article D379](LEGIARTI000006793840.md)
+- [Article D380](LEGIARTI000006793841.md)
+- [Article D381](LEGIARTI000006793842.md)

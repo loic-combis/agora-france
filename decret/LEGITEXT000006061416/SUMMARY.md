@@ -1,0 +1,13 @@
+# Décret n°67-161 du 24 février 1967  RELATIF AU CONSEIL DEPARTEMENTAL DE LA PROTECTION DE L'ENFANCE.
+
+<!-- LEGITEXT000006061416 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006061416/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006682557.md)
+- [Article 2](LEGIARTI000006682558.md)
+- [Article 3](LEGIARTI000006682559.md)
+- [Article 4](LEGIARTI000006682560.md)
+- [Article 5](LEGIARTI000006271494.md)

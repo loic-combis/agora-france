@@ -1,0 +1,11 @@
+# CHAPITRE II : BENEFICIAIRES DES LOIS SUR LES ACCIDENTS DU TRAVAIL ET LES MALADIES PROFESSIONNELLES.
+
+<!-- LEGISCTA: LEGISCTA000006127584 -->
+
+**Texte :** Décret n°46-2769 du 27 novembre 1946  portant organisation de la sécurité sociale dans les mines. · **Identifiant :** `LEGITEXT000006060459`
+
+## Articles
+
+- [Article 176](LEGIARTI000006765157.md)
+- [Article 177](LEGIARTI000006765162.md)
+- [Article 178](LEGIARTI000006765167.md)

@@ -1,0 +1,28 @@
+# Section 5 : Du jugement
+
+<!-- LEGISCTA: LEGISCTA000006167483 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006167483/)
+
+**Texte :** Code de procédure pénale · **Identifiant :** `LEGITEXT000006071154`
+
+## Articles
+
+- [Article 462](LEGIARTI000006576649.md)
+- [Article 464](LEGIARTI000006576652.md)
+- [Article 466](LEGIARTI000006576661.md)
+- [Article 467](LEGIARTI000006576662.md)
+- [Article 468](LEGIARTI000006576665.md)
+- [Article 469](LEGIARTI000006576667.md)
+- [Article 470](LEGIARTI000006576677.md)
+- [Article 472](LEGIARTI000006576685.md)
+- [Article 474](LEGIARTI000006576690.md)
+- [Article 475](LEGIARTI000006576693.md)
+- [Article 476](LEGIARTI000006576698.md)
+- [Article 477](LEGIARTI000006576699.md)
+- [Article 478](LEGIARTI000006576700.md)
+- [Article 479](LEGIARTI000006576701.md)
+- [Article 480](LEGIARTI000006576702.md)
+- [Article 482](LEGIARTI000006576707.md)
+- [Article 483](LEGIARTI000006576708.md)
+- [Article 486](LEGIARTI000006576711.md)

@@ -1,0 +1,9 @@
+# Ordonnance n° 45-2454 du 19 octobre 1945 FIXANT LE REGIME DES ASSURANCES SOCIALES APPLICABLE AUX ASSURES DES PROFESSIONS NON AGRICOLES.
+
+<!-- LEGITEXT000006069170 — nature: ORDONNANCE -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069170/)
+
+## Articles
+
+- [Article 116](LEGIARTI000006759637.md)

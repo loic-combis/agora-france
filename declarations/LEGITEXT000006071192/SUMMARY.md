@@ -1,0 +1,26 @@
+# Déclaration du 26 août 1789 des droits de l'homme et du citoyen.
+
+<!-- LEGITEXT000006071192 — nature: DECLARATION -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071192/)
+
+## Articles
+
+- [Article PREAMBULE](LEGIARTI000050305372.md)
+- [Article 1](LEGIARTI000006527426.md)
+- [Article 2](LEGIARTI000006527427.md)
+- [Article 3](LEGIARTI000006527428.md)
+- [Article 4](LEGIARTI000006527429.md)
+- [Article 5](LEGIARTI000006527431.md)
+- [Article 6](LEGIARTI000006527432.md)
+- [Article 7](LEGIARTI000006527433.md)
+- [Article 8](LEGIARTI000006527434.md)
+- [Article 9](LEGIARTI000006527435.md)
+- [Article 10](LEGIARTI000006527436.md)
+- [Article 11](LEGIARTI000006527437.md)
+- [Article 12](LEGIARTI000006527438.md)
+- [Article 13](LEGIARTI000006527439.md)
+- [Article 14](LEGIARTI000006527440.md)
+- [Article 15](LEGIARTI000006527442.md)
+- [Article 16](LEGIARTI000006527443.md)
+- [Article 17](LEGIARTI000006527444.md)

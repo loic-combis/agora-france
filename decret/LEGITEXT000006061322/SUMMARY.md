@@ -1,0 +1,28 @@
+# Décret n°65-920 du 2 novembre 1965 relatif aux sociétés coopératives entre médecins
+
+<!-- LEGITEXT000006061322 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006061322/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006334456.md)
+- [Article 2](LEGIARTI000006334464.md)
+- [Article 3](LEGIARTI000006334473.md)
+- [Article 4](LEGIARTI000006334481.md)
+- [Article 5](LEGIARTI000006334490.md)
+- [Article 6](LEGIARTI000006334498.md)
+- [Article 7](LEGIARTI000006334508.md)
+- [Article 8](LEGIARTI000006334515.md)
+- [Article 9](LEGIARTI000006334524.md)
+- [Article 10](LEGIARTI000006334534.md)
+- [Article 11](LEGIARTI000006334544.md)
+- [Article 12](LEGIARTI000006334552.md)
+- [Article 13](LEGIARTI000006334562.md)
+- [Article 14](LEGIARTI000006334570.md)
+- [Article 15](LEGIARTI000006334580.md)
+- [Article 16](LEGIARTI000006334589.md)
+- [Article 17](LEGIARTI000006334598.md)
+- [Article 18](LEGIARTI000006334607.md)
+- [Article 19](LEGIARTI000006334619.md)
+- [Article 20](LEGIARTI000006334628.md)

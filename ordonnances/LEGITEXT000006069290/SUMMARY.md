@@ -1,0 +1,31 @@
+# Ordonnance n° 67-821 du 23 septembre 1967 sur les groupements d'intérêt économique
+
+<!-- LEGITEXT000006069290 — nature: ORDONNANCE -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069290/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006315009.md)
+- [Article 2](LEGIARTI000006315042.md)
+- [Article 3](LEGIARTI000006315052.md)
+- [Article 4](LEGIARTI000006315088.md)
+- [Article 5](LEGIARTI000006315107.md)
+- [Article 6](LEGIARTI000006315119.md)
+- [Article 7](LEGIARTI000006315132.md)
+- [Article 8](LEGIARTI000006315142.md)
+- [Article 9](LEGIARTI000006315159.md)
+- [Article 10](LEGIARTI000006315180.md)
+- [Article 11](LEGIARTI000006315271.md)
+- [Article 12](LEGIARTI000006315290.md)
+- [Article 13](LEGIARTI000006315308.md)
+- [Article 14](LEGIARTI000006315340.md)
+- [Article 15](LEGIARTI000006315355.md)
+- [Article 16](LEGIARTI000006315372.md)
+- [Article 17](LEGIARTI000006315384.md)
+- [Article 18](LEGIARTI000006315401.md)
+- [Article 19](LEGIARTI000006315419.md)
+- [Article 20](LEGIARTI000006315428.md)
+- [Article 21](LEGIARTI000006315444.md)
+- [Article 22](LEGIARTI000006315453.md)
+- [Article 22](LEGIARTI000006314999.md)

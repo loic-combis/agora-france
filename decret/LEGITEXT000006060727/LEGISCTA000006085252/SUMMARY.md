@@ -1,0 +1,12 @@
+# RESPONSABILITE DES PERSONNES MORALES EMETTRICES ET DES INTERMEDIAIRES.
+
+<!-- LEGISCTA: LEGISCTA000006085252 -->
+
+**Texte :** Décret n°55-1595 du 7 décembre 1955 relatif au régime des titres nominatifs · **Identifiant :** `LEGITEXT000006060727`
+
+## Articles
+
+- [Article 46](LEGIARTI000006338023.md)
+- [Article 47](LEGIARTI000006338033.md)
+- [Article 48](LEGIARTI000006338042.md)
+- [Article 49](LEGIARTI000006338052.md)

@@ -1,0 +1,23 @@
+# Chapitre Ier : Dispositions générales.
+
+<!-- LEGISCTA: LEGISCTA000006136353 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136353/)
+
+**Texte :** Code civil · **Identifiant :** `LEGITEXT000006070721`
+
+## Articles
+
+- [Article 1387](LEGIARTI000006439078.md)
+- [Article 1388](LEGIARTI000006439087.md)
+- [Article 1389](LEGIARTI000006439090.md)
+- [Article 1390](LEGIARTI000006439100.md)
+- [Article 1391](LEGIARTI000006439111.md)
+- [Article 1392](LEGIARTI000006439122.md)
+- [Article 1393](LEGIARTI000006439130.md)
+- [Article 1394](LEGIARTI000006439141.md)
+- [Article 1395](LEGIARTI000006439151.md)
+- [Article 1396](LEGIARTI000006439161.md)
+- [Article 1397](LEGIARTI000006439172.md)
+- [Article 1398](LEGIARTI000006439245.md)
+- [Article 1399](LEGIARTI000006439252.md)

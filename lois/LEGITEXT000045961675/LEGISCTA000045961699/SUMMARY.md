@@ -1,0 +1,13 @@
+# TITRE VI. DISPOSITIONS TRANSITOIRES.
+
+<!-- LEGISCTA: LEGISCTA000045961699 -->
+
+**Texte :** Loi du 3 mars 1849 organique du conseil d'État · **Identifiant :** `LEGITEXT000045961675`
+
+## Articles
+
+- [Article 60](LEGIARTI000045962259.md)
+- [Article 61](LEGIARTI000045962263.md)
+- [Article 62](LEGIARTI000045962267.md)
+- [Article 63](LEGIARTI000045962271.md)
+- [Article 64](LEGIARTI000045962275.md)

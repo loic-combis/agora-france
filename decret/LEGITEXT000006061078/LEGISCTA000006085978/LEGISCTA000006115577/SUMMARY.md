@@ -1,0 +1,10 @@
+# TITRE IV : CONTRÔLE
+
+<!-- LEGISCTA: LEGISCTA000006115577 -->
+
+**Texte :** Décret n°62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique · **Identifiant :** `LEGITEXT000006061078`
+
+## Sous-sections
+
+- [CHAPITRE Ier : CONTRÔLE DE LA GESTION DES ORDONNATEURS.](LEGISCTA000006134903/SUMMARY.md)
+- [CHAPITRE II : CONTRÔLE DE LA GESTION DES COMPTABLES.](LEGISCTA000006134904/SUMMARY.md)

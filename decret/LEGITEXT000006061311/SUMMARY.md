@@ -1,0 +1,32 @@
+# Décret n°65-799 du 21 septembre 1965 relatif à l'école nationale du génie rural, des eaux et des forêts.
+
+<!-- LEGITEXT000006061311 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006061311/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006444848.md)
+- [Article 2](LEGIARTI000006444850.md)
+- [Article 3](LEGIARTI000006444851.md)
+- [Article 4](LEGIARTI000006444852.md)
+- [Article 5](LEGIARTI000006444854.md)
+- [Article 6](LEGIARTI000006444856.md)
+- [Article 7](LEGIARTI000006444857.md)
+- [Article 8](LEGIARTI000006444858.md)
+- [Article 9](LEGIARTI000006444859.md)
+- [Article 12](LEGIARTI000006444863.md)
+- [Article 13](LEGIARTI000006444864.md)
+- [Article 14](LEGIARTI000006444865.md)
+- [Article 16](LEGIARTI000006444867.md)
+- [Article 17](LEGIARTI000006444869.md)
+- [Article 18](LEGIARTI000006444870.md)
+- [Article 19](LEGIARTI000006444871.md)
+- [Article 20](LEGIARTI000006444873.md)
+- [Article 21](LEGIARTI000006444874.md)
+- [Article 22](LEGIARTI000006444875.md)
+- [Article 23](LEGIARTI000006444877.md)
+- [Article 24](LEGIARTI000006444878.md)
+- [Article 25](LEGIARTI000006444879.md)
+- [Article 26](LEGIARTI000006444880.md)
+- [Article 27](LEGIARTI000006444881.md)

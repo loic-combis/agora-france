@@ -1,0 +1,29 @@
+# Section III : Dispositions diverses.
+
+<!-- LEGISCTA: LEGISCTA000023915034 -->
+
+**Texte :** Loi n° 47-520 du 21 mars 1947 relative à diverses dispositions d'ordre financier · **Identifiant :** `LEGITEXT000023914267`
+
+## Articles
+
+- [Article 67](LEGIARTI000023915037.md)
+- [Article 68](LEGIARTI000023915038.md)
+- [Article 69](LEGIARTI000023915044.md)
+- [Article 72](LEGIARTI000023915047.md)
+- [Article 73](LEGIARTI000023941147.md)
+- [Article 74](LEGIARTI000023915049.md)
+- [Article 75](LEGIARTI000023915050.md)
+- [Article 76](LEGIARTI000023915051.md)
+- [Article 77](LEGIARTI000023915052.md)
+- [Article 81](LEGIARTI000023915061.md)
+- [Article 82](LEGIARTI000023915062.md)
+- [Article 83](LEGIARTI000023915063.md)
+- [Article 84](LEGIARTI000023915064.md)
+- [Article 85](LEGIARTI000023915065.md)
+- [Article 86](LEGIARTI000023915073.md)
+- [Article 87](LEGIARTI000023915074.md)
+- [Article 89](LEGIARTI000023915076.md)
+- [Article 90](LEGIARTI000023915077.md)
+- [Article 91](LEGIARTI000023915078.md)
+- [Article 92](LEGIARTI000023915079.md)
+- [Article 93](LEGIARTI000023915080.md)

@@ -1,0 +1,11 @@
+# IMPOT SUR LES BENEFICES DES SOCIETES *IS* ET AUTRES PERSONNES MORALES
+
+<!-- LEGISCTA: LEGISCTA000006147112 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006147112/)
+
+**Texte :** Code général des impôts · **Identifiant :** `LEGITEXT000006069577`
+
+## Sous-sections
+
+- [DETERMINATION DU BENEFICE IMPOSABLE](LEGISCTA000006162775/SUMMARY.md)

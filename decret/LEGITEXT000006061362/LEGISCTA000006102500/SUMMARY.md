@@ -1,0 +1,21 @@
+# TITRE II - EQUIVALENTS DE DOSE MAXIMAUX ADMISSIBLES
+
+<!-- LEGISCTA: LEGISCTA000006102500 -->
+
+**Texte :** Décret n°66-450 du 20 juin 1966 relatif aux principes généraux de protection contre les rayonnements ionisants. · **Identifiant :** `LEGITEXT000006061362`
+
+## Articles
+
+- [Article 5](LEGIARTI000006674593.md)
+- [Article 6](LEGIARTI000006674596.md)
+- [Article 7](LEGIARTI000006674599.md)
+- [Article 8](LEGIARTI000006674601.md)
+- [Article 9](LEGIARTI000006674603.md)
+- [Article 10](LEGIARTI000006674605.md)
+- [Article 11](LEGIARTI000006674607.md)
+- [Article 12](LEGIARTI000006674609.md)
+- [Article 13](LEGIARTI000006674611.md)
+- [Article 14](LEGIARTI000006674613.md)
+- [Article 15](LEGIARTI000006674615.md)
+- [Article 16](LEGIARTI000006674617.md)
+- [Article 17](LEGIARTI000006674619.md)

@@ -1,0 +1,17 @@
+# DES AUTORISATIONS D'OCCUPATION D'EMPLACEMENTS AU MARCHE
+
+<!-- LEGISCTA: LEGISCTA000006097877 -->
+
+**Texte :** Décret n°68-659 du 10 juillet 1968 portant organisation générale des marchés d'intérêt national · **Identifiant :** `LEGITEXT000006061578`
+
+## Articles
+
+- [Article 28](LEGIARTI000006570034.md)
+- [Article 29](LEGIARTI000006570035.md)
+- [Article 30](LEGIARTI000006570037.md)
+- [Article 31](LEGIARTI000006570046.md)
+- [Article 32](LEGIARTI000006570057.md)
+- [Article 33](LEGIARTI000006570063.md)
+- [Article 34](LEGIARTI000006570066.md)
+- [Article 35](LEGIARTI000006570077.md)
+- [Article 36](LEGIARTI000006570088.md)

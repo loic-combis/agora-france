@@ -1,0 +1,12 @@
+# Décret n°61-272 du 28 mars 1961  MAJORANT LE MONTANT DE CERTAINES PENSIONS D'INVALIDITE.
+
+<!-- LEGITEXT000006061016 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006061016/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006761873.md)
+- [Article 3](LEGIARTI000006761875.md)
+- [Article 3 BIS](LEGIARTI000006761876.md)
+- [Article 4](LEGIARTI000006761877.md)

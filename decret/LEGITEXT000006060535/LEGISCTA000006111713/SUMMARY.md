@@ -1,0 +1,13 @@
+# Titre Ier : TRANSPORTS DE VOYAGEURS
+
+<!-- LEGISCTA: LEGISCTA000006111713 -->
+
+**Texte :** Décret n°49-1473 du 14 novembre 1949 relatif à la coordination et à l'harmonisation des transports ferroviaires et routiers · **Identifiant :** `LEGITEXT000006060535`
+
+## Sous-sections
+
+- [Chapitre Ier : Dispositions générales](LEGISCTA000028660301/SUMMARY.md)
+- [Chapitre II : PLANS DE TRANSPORTS DEPARTEMENTAUX](LEGISCTA000006131387/SUMMARY.md)
+- [Chapitre III : CONDITIONS D'EXECUTION DES SERVICES PUBLICS ROUTIERS DE TRANSPORT DE VOYAGEURS](LEGISCTA000006111714/SUMMARY.md)
+- [Chapitre IV : TARIFS ET ACCORDS TARIFAIRES](LEGISCTA000006131388/SUMMARY.md)
+- [Chapitre V : Dispositions diverses](LEGISCTA000028660317/SUMMARY.md)

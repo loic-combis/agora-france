@@ -1,0 +1,23 @@
+# Section 1 : Activités, congés.
+
+<!-- LEGISCTA: LEGISCTA000006171869 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006171869/)
+
+**Texte :** Code de la santé publique · **Identifiant :** `LEGITEXT000006072665`
+
+## Articles
+
+- [Article L849](LEGIARTI000006695336.md)
+- [Article L850](LEGIARTI000006695337.md)
+- [Article L851](LEGIARTI000006695339.md)
+- [Article L853](LEGIARTI000006695342.md)
+- [Article L854](LEGIARTI000006695343.md)
+- [Article L855](LEGIARTI000006695344.md)
+- [Article L856](LEGIARTI000006695346.md)
+- [Article L857](LEGIARTI000006695348.md)
+- [Article L858](LEGIARTI000006695349.md)
+- [Article L859](LEGIARTI000006695350.md)
+- [Article L861](LEGIARTI000006695352.md)
+- [Article L862](LEGIARTI000006695354.md)
+- [Article L863](LEGIARTI000006695355.md)

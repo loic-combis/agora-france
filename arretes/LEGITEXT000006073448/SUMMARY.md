@@ -1,0 +1,10 @@
+# Arrêté du 13 décembre 1948  RELATIF AU REMBOURSEMENT DES COTISATIONS LORSQUE LE MONTANT ANNUEL DE LA RENTE EST INFERIEUR A 1.000 F.
+
+<!-- LEGITEXT000006073448 — nature: ARRETE -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006073448/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006781862.md)
+- [Article 2](LEGIARTI000006781863.md)

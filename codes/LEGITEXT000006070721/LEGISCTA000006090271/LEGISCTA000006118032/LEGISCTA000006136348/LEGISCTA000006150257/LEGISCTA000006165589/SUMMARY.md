@@ -1,0 +1,24 @@
+# Paragraphe 1 : Du paiement en général.
+
+<!-- LEGISCTA: LEGISCTA000006165589 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165589/)
+
+**Texte :** Code civil · **Identifiant :** `LEGITEXT000006070721`
+
+## Articles
+
+- [Article 1235](LEGIARTI000006436993.md)
+- [Article 1236](LEGIARTI000006437002.md)
+- [Article 1237](LEGIARTI000006437013.md)
+- [Article 1238](LEGIARTI000006437024.md)
+- [Article 1239](LEGIARTI000006437035.md)
+- [Article 1240](LEGIARTI000006437044.md)
+- [Article 1241](LEGIARTI000006437049.md)
+- [Article 1242](LEGIARTI000006437058.md)
+- [Article 1243](LEGIARTI000006437068.md)
+- [Article 1244](LEGIARTI000006437193.md)
+- [Article 1245](LEGIARTI000006437100.md)
+- [Article 1246](LEGIARTI000006437101.md)
+- [Article 1247](LEGIARTI000006437102.md)
+- [Article 1248](LEGIARTI000006437107.md)

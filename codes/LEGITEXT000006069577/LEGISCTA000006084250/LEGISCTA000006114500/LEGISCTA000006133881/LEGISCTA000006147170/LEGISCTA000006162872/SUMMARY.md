@@ -1,0 +1,20 @@
+# TAXE PROFESSIONNELLE.
+
+<!-- LEGISCTA: LEGISCTA000006162872 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006162872/)
+
+**Texte :** Code général des impôts · **Identifiant :** `LEGITEXT000006069577`
+
+## Articles
+
+- [Article 1452](LEGIARTI000049737099.md)
+- [Article 1455](LEGIARTI000049737473.md)
+- [Article 1456](LEGIARTI000049737530.md)
+- [Article 1461](LEGIARTI000049738027.md)
+- [Article 1467](LEGIARTI000049738158.md)
+- [Article 1468](LEGIARTI000049738182.md)
+- [Article 1469](LEGIARTI000049738217.md)
+- [Article 1475](LEGIARTI000049738330.md)
+- [Article 1477](LEGIARTI000049738353.md)
+- [Article 1478](LEGIARTI000049187590.md)

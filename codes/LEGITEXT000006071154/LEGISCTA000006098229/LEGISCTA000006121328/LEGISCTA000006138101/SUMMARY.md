@@ -1,0 +1,24 @@
+# Titre Ier : Des contumaces
+
+<!-- LEGISCTA: LEGISCTA000006138101 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006138101/)
+
+**Texte :** Code de procédure pénale · **Identifiant :** `LEGITEXT000006071154`
+
+## Articles
+
+- [Article 628](LEGIARTI000006577111.md)
+- [Article 629](LEGIARTI000006577113.md)
+- [Article 630](LEGIARTI000006577119.md)
+- [Article 631](LEGIARTI000006577122.md)
+- [Article 632](LEGIARTI000006577124.md)
+- [Article 633](LEGIARTI000006577128.md)
+- [Article 634](LEGIARTI000006577130.md)
+- [Article 635](LEGIARTI000006577132.md)
+- [Article 636](LEGIARTI000006577134.md)
+- [Article 637](LEGIARTI000006577136.md)
+- [Article 638](LEGIARTI000006577138.md)
+- [Article 639](LEGIARTI000006577140.md)
+- [Article 640](LEGIARTI000006577142.md)
+- [Article 641](LEGIARTI000006577144.md)

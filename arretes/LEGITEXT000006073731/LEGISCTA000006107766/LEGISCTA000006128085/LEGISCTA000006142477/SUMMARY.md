@@ -1,0 +1,10 @@
+# CHAPITRE 2 : ADMINISTRATION
+
+<!-- LEGISCTA: LEGISCTA000006142477 -->
+
+**Texte :** Arrêté du 3 janvier 1968 fixant les modèles de statuts des caisses primaires d'assurance maladie. · **Identifiant :** `LEGITEXT000006073731`
+
+## Sous-sections
+
+- [SECTION 1 : CONSEIL D'ADMINISTRATION.](LEGISCTA000006156946/SUMMARY.md)
+- [SECTION 3 : SECTIONS.](LEGISCTA000006156948/SUMMARY.md)

@@ -1,0 +1,21 @@
+# Section 2 : Actions.
+
+<!-- LEGISCTA: LEGISCTA000006133337 -->
+
+**Texte :** Loi n°66-537 du 24 juillet 1966 sur les sociétés commerciales · **Identifiant :** `LEGITEXT000006068288`
+
+## Articles
+
+- [Article 267](LEGIARTI000006279695.md)
+- [Article 268](LEGIARTI000006279707.md)
+- [Article 270](LEGIARTI000006279821.md)
+- [Article 272](LEGIARTI000006279827.md)
+- [Article 273](LEGIARTI000006279828.md)
+- [Article 274](LEGIARTI000006279829.md)
+- [Article 277](LEGIARTI000006279833.md)
+- [Article 278](LEGIARTI000006279834.md)
+- [Article 279](LEGIARTI000006279836.md)
+- [Article 280](LEGIARTI000006279838.md)
+- [Article 281](LEGIARTI000006279840.md)
+- [Article 282](LEGIARTI000006279841.md)
+- [Article 283](LEGIARTI000006279843.md)

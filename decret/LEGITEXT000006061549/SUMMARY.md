@@ -1,0 +1,12 @@
+# Décret n°68-399 du 29 avril 1968  FIXANT LES CONDITIONS D'APPLICATION DE L'ARTICLE L. 161 DU CODE DE LA SECURITE SOCIALE.
+
+<!-- LEGITEXT000006061549 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006061549/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006760513.md)
+- [Article 7](LEGIARTI000006760519.md)
+- [Article 8](LEGIARTI000006760520.md)
+- [Article 9](LEGIARTI000006760521.md)

@@ -1,0 +1,18 @@
+# DISPOSITIONS PARTICULIERES.
+
+<!-- LEGISCTA: LEGISCTA000006133924 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006133924/)
+
+**Texte :** Code général des impôts · **Identifiant :** `LEGITEXT000006069577`
+
+## Articles
+
+- [Article 1966](LEGIARTI000049266575.md)
+- [Article 1967](LEGIARTI000049266620.md)
+- [Article 1968](LEGIARTI000049266698.md)
+- [Article 1969](LEGIARTI000049266754.md)
+- [Article 1970](LEGIARTI000049266832.md)
+- [Article 1971](LEGIARTI000049266900.md)
+- [Article 1972](LEGIARTI000049266999.md)
+- [Article 1973](LEGIARTI000049267043.md)

@@ -1,0 +1,15 @@
+# TITRE 4 : LUTTE CONTRE LES MALADIES MENTALES
+
+<!-- LEGISCTA: LEGISCTA000006140683 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006140683/)
+
+**Texte :** Code de la santé publique · **Identifiant :** `LEGITEXT000006072665`
+
+## Sous-sections
+
+- [CHAPITRE 1 : DEPISTAGE ET PROPHYLAXIE.](LEGISCTA000006155190/SUMMARY.md)
+- [CHAPITRE 2 : ETABLISSEMENTS DE SOINS](LEGISCTA000006155191/SUMMARY.md)
+- [Chapitre 3 : Modes de placement dans les établissements de soins](LEGISCTA000006155194/SUMMARY.md)
+- [CHAPITRE 4 : DISPOSITIONS DIVERSES](LEGISCTA000006155196/SUMMARY.md)
+- [Chapitre 5 : Dispositions pénales.](LEGISCTA000006155197/SUMMARY.md)

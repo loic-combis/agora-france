@@ -1,0 +1,16 @@
+# ORGANISATION ADMINISTRATIVE - LE CONSEIL D'ADMINISTRATION
+
+<!-- LEGISCTA: LEGISCTA000006109891 -->
+
+**Texte :** Décret n°60-1441 du 26 décembre 1960 portant statut de Voies navigables de France. · **Identifiant :** `LEGITEXT000006060951`
+
+## Articles
+
+- [Article 6](LEGIARTI000006859221.md)
+- [Article 8](LEGIARTI000006859230.md)
+- [Article 9](LEGIARTI000006859234.md)
+- [Article 11](LEGIARTI000006859238.md)
+- [Article 12](LEGIARTI000006859240.md)
+- [Article 13](LEGIARTI000006859243.md)
+- [Article 14](LEGIARTI000006859246.md)
+- [Article 15](LEGIARTI000006859250.md)

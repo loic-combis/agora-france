@@ -1,0 +1,22 @@
+# Chapitre I : Du gage.
+
+<!-- LEGISCTA: LEGISCTA000006136420 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136420/)
+
+**Texte :** Code civil · **Identifiant :** `LEGITEXT000006070721`
+
+## Articles
+
+- [Article 2073](LEGIARTI000006445725.md)
+- [Article 2074](LEGIARTI000006445727.md)
+- [Article 2075](LEGIARTI000006445729.md)
+- [Article 2076](LEGIARTI000006445748.md)
+- [Article 2077](LEGIARTI000006445757.md)
+- [Article 2078](LEGIARTI000006445766.md)
+- [Article 2079](LEGIARTI000006445775.md)
+- [Article 2080](LEGIARTI000006445785.md)
+- [Article 2081](LEGIARTI000006445794.md)
+- [Article 2082](LEGIARTI000006445795.md)
+- [Article 2083](LEGIARTI000006445796.md)
+- [Article 2084](LEGIARTI000006445797.md)

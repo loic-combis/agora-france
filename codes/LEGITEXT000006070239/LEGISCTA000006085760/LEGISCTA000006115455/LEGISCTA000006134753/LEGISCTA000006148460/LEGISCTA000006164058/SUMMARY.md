@@ -1,0 +1,27 @@
+# Section 2 : Opérations de vote
+
+<!-- LEGISCTA: LEGISCTA000006164058 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070239/LEGISCTA000006164058/)
+
+**Texte :** Code électoral · **Identifiant :** `LEGITEXT000006070239`
+
+## Articles
+
+- [Article L54](LEGIARTI000006353154.md)
+- [Article L55](LEGIARTI000006353155.md)
+- [Article L56](LEGIARTI000006353156.md)
+- [Article L57](LEGIARTI000006353157.md)
+- [Article L57-1](LEGIARTI000006353158.md)
+- [Article L58](LEGIARTI000006353162.md)
+- [Article L59](LEGIARTI000006353163.md)
+- [Article L60](LEGIARTI000006353164.md)
+- [Article L61](LEGIARTI000006353166.md)
+- [Article L62](LEGIARTI000006353167.md)
+- [Article L63](LEGIARTI000006353170.md)
+- [Article L64](LEGIARTI000006353172.md)
+- [Article L65](LEGIARTI000006353174.md)
+- [Article L66](LEGIARTI000006353176.md)
+- [Article L68](LEGIARTI000006353178.md)
+- [Article L69](LEGIARTI000006353179.md)
+- [Article L70](LEGIARTI000006353180.md)

@@ -1,0 +1,22 @@
+# Section 4 : Discipline
+
+<!-- LEGISCTA: LEGISCTA000006171733 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006171733/)
+
+**Texte :** Code de la santé publique · **Identifiant :** `LEGITEXT000006072665`
+
+## Articles
+
+- [Article L417](LEGIARTI000006693069.md)
+- [Article L418](LEGIARTI000006693070.md)
+- [Article L419](LEGIARTI000006693071.md)
+- [Article L420](LEGIARTI000006693072.md)
+- [Article L421](LEGIARTI000006693073.md)
+- [Article L422](LEGIARTI000006693074.md)
+- [Article L423](LEGIARTI000006693075.md)
+- [Article L424](LEGIARTI000006693080.md)
+- [Article L425](LEGIARTI000006693081.md)
+- [Article L426](LEGIARTI000006693082.md)
+- [Article L427](LEGIARTI000006693083.md)
+- [Article L428](LEGIARTI000006693084.md)

@@ -1,0 +1,27 @@
+# Paragraphe 1er : Attributions particulières
+
+<!-- LEGISCTA: LEGISCTA000006182116 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006182116/)
+
+**Texte :** Code de procédure pénale · **Identifiant :** `LEGITEXT000006071154`
+
+## Articles
+
+- [Article D199](LEGIARTI000006515771.md)
+- [Article D200](LEGIARTI000006515772.md)
+- [Article D201](LEGIARTI000006515773.md)
+- [Article D202](LEGIARTI000006515774.md)
+- [Article D203](LEGIARTI000006515775.md)
+- [Article D204](LEGIARTI000006515776.md)
+- [Article D205](LEGIARTI000006515777.md)
+- [Article D206](LEGIARTI000006515778.md)
+- [Article D207](LEGIARTI000006515779.md)
+- [Article D208](LEGIARTI000006515780.md)
+- [Article D209](LEGIARTI000006515781.md)
+- [Article D210](LEGIARTI000006515782.md)
+- [Article D211](LEGIARTI000006515783.md)
+- [Article D212](LEGIARTI000006515784.md)
+- [Article D213](LEGIARTI000006515785.md)
+- [Article D214](LEGIARTI000006515786.md)
+- [Article D215](LEGIARTI000006515787.md)

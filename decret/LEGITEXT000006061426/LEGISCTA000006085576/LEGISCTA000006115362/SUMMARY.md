@@ -1,0 +1,21 @@
+# Chapitre IV : Fusion et scission.
+
+<!-- LEGISCTA: LEGISCTA000006115362 -->
+
+**Texte :** Décret n°67-236 du 23 mars 1967 sur les sociétés commerciales · **Identifiant :** `LEGITEXT000006061426`
+
+## Articles
+
+- [Article 254](LEGIARTI000006344703.md)
+- [Article 255](LEGIARTI000006344714.md)
+- [Article 256](LEGIARTI000006344726.md)
+- [Article 257](LEGIARTI000006344730.md)
+- [Article 258](LEGIARTI000006344734.md)
+- [Article 259](LEGIARTI000006344745.md)
+- [Article 260](LEGIARTI000006344755.md)
+- [Article 261](LEGIARTI000006344763.md)
+- [Article 261-1](LEGIARTI000006344773.md)
+- [Article 262](LEGIARTI000006344784.md)
+- [Article 263](LEGIARTI000006344791.md)
+- [Article 264](LEGIARTI000006344799.md)
+- [Article 265](LEGIARTI000006344809.md)

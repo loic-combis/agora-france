@@ -1,0 +1,18 @@
+# CHAPITRE 1 : DISPOSITIONS GENERALES.
+
+<!-- LEGISCTA: LEGISCTA000006155351 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006155351/)
+
+**Texte :** Code de la santé publique · **Identifiant :** `LEGITEXT000006072665`
+
+## Articles
+
+- [Article L792](LEGIARTI000006695268.md)
+- [Article L793](LEGIARTI000006695270.md)
+- [Article L794](LEGIARTI000006695272.md)
+- [Article L795](LEGIARTI000006695273.md)
+- [Article L796](LEGIARTI000006695274.md)
+- [Article L797](LEGIARTI000006695275.md)
+- [Article L798](LEGIARTI000006695276.md)
+- [Article L799](LEGIARTI000006695277.md)

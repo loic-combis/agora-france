@@ -1,0 +1,18 @@
+# DISPOSITIONS PARTICULIERES.
+
+<!-- LEGISCTA: LEGISCTA000006133928 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006133928/)
+
+**Texte :** Code général des impôts · **Identifiant :** `LEGITEXT000006069577`
+
+## Articles
+
+- [Article 1994](LEGIARTI000049626205.md)
+- [Article 1995](LEGIARTI000049276633.md)
+- [Article 1996](LEGIARTI000049276655.md)
+- [Article 1999](LEGIARTI000049277705.md)
+- [Article 2000](LEGIARTI000049277743.md)
+- [Article 2001](LEGIARTI000049277854.md)
+- [Article 2001 bis](LEGIARTI000049626230.md)
+- [Article 2001 ter](LEGIARTI000049626332.md)

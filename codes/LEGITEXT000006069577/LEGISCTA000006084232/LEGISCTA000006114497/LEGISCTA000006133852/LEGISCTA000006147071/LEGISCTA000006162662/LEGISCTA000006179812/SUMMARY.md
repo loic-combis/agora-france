@@ -1,0 +1,23 @@
+# II : Exonérations et abattements
+
+<!-- LEGISCTA: LEGISCTA000006179812 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006179812/)
+
+**Texte :** Code général des impôts · **Identifiant :** `LEGITEXT000006069577`
+
+## Articles
+
+- [Article 1449](LEGIARTI000049166443.md)
+- [Article 1450](LEGIARTI000049736989.md)
+- [Article 1451](LEGIARTI000049794118.md)
+- [Article 1453](LEGIARTI000049737156.md)
+- [Article 1454](LEGIARTI000049737229.md)
+- [Article 1457](LEGIARTI000049737812.md)
+- [Article 1458](LEGIARTI000049737938.md)
+- [Article 1459](LEGIARTI000049737958.md)
+- [Article 1460](LEGIARTI000049738003.md)
+- [Article 1462](LEGIARTI000049738047.md)
+- [Article 1463](LEGIARTI000049738057.md)
+- [Article 1464](LEGIARTI000049738078.md)
+- [Article 1466](LEGIARTI000049738128.md)

@@ -1,0 +1,19 @@
+# Titre XII : De la Communauté.
+
+<!-- LEGISCTA: LEGISCTA000006095834 -->
+
+**Texte :** Constitution du 4 octobre 1958 · **Identifiant :** `LEGITEXT000006071194`
+
+## Articles
+
+- [Article 77](LEGIARTI000006527600.md)
+- [Article 78](LEGIARTI000006527603.md)
+- [Article 79](LEGIARTI000006527604.md)
+- [Article 80](LEGIARTI000006527605.md)
+- [Article 81](LEGIARTI000006527606.md)
+- [Article 82](LEGIARTI000006527607.md)
+- [Article 83](LEGIARTI000006527608.md)
+- [Article 84](LEGIARTI000006527609.md)
+- [Article 85](LEGIARTI000006527610.md)
+- [Article 86](LEGIARTI000006527611.md)
+- [Article 87](LEGIARTI000006527613.md)

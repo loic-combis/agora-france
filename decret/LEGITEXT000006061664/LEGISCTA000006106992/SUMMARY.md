@@ -1,0 +1,9 @@
+# CHAPITRE III : OBLIGATIONS ADMINISTRATIVES AUXQUELLES SONT TENUS RESPECTIVEMENT LES ASSURES, LA SECTION MUTUELLE AUTONOME ET LES ORGANISMES CONVENTIONNES.
+
+<!-- LEGISCTA: LEGISCTA000006106992 -->
+
+**Texte :** Décret n°69-635 du 14 juin 1969 relatif à l'application de la loi n° 66-509 du 12 juillet 1966 modifiée à la profession de la batellerie. · **Identifiant :** `LEGITEXT000006061664`
+
+## Articles
+
+- [Article 6](LEGIARTI000006768129.md)

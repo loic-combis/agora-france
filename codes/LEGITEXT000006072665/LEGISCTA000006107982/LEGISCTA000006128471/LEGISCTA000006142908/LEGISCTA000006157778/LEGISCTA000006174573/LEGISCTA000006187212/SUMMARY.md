@@ -1,0 +1,14 @@
+# PARAGRAPHE 1 : PRODUITS POUR FRISER, DEFRISER OU ONDULER LES CHEVEUX.
+
+<!-- LEGISCTA: LEGISCTA000006187212 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006187212/)
+
+**Texte :** Code de la santé publique · **Identifiant :** `LEGITEXT000006072665`
+
+## Articles
+
+- [Article R5213](LEGIARTI000006801345.md)
+- [Article R5214](LEGIARTI000006801351.md)
+- [Article R5215](LEGIARTI000006801354.md)
+- [Article R5216](LEGIARTI000006801357.md)

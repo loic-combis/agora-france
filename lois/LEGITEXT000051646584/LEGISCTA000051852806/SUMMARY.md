@@ -1,0 +1,12 @@
+# Annexe
+
+<!-- LEGISCTA: LEGISCTA000051852806 -->
+
+**Texte :** Loi du 25 avril 1844 sur les patentes · **Identifiant :** `LEGITEXT000051646584`
+
+## Articles
+
+- [Article TABLEAU A](LEGIARTI000051852842.md)
+- [Article TABLEAU B](LEGIARTI000051683833.md)
+- [Article TABLEAU C](LEGIARTI000051693947.md)
+- [Article TABLEAU D](LEGIARTI000051693968.md)

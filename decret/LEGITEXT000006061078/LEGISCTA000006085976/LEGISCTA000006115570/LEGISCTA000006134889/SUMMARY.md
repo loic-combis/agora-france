@@ -1,0 +1,21 @@
+# CHAPITRE II : OPÉRATIONS DE DÉPENSES.
+
+<!-- LEGISCTA: LEGISCTA000006134889 -->
+
+**Texte :** Décret n°62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique · **Identifiant :** `LEGITEXT000006061078`
+
+## Articles
+
+- [Article 27](LEGIARTI000006359745.md)
+- [Article 28](LEGIARTI000006359746.md)
+- [Article 29](LEGIARTI000006359747.md)
+- [Article 30](LEGIARTI000006359748.md)
+- [Article 31](LEGIARTI000006359749.md)
+- [Article 32](LEGIARTI000006359750.md)
+- [Article 33](LEGIARTI000006359751.md)
+- [Article 34](LEGIARTI000006359752.md)
+- [Article 35](LEGIARTI000006359754.md)
+- [Article 36](LEGIARTI000006359755.md)
+- [Article 37](LEGIARTI000006359756.md)
+- [Article 38](LEGIARTI000006359757.md)
+- [Article 39](LEGIARTI000006359758.md)

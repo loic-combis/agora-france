@@ -1,0 +1,13 @@
+# Section 2 : Procédure d'attribution de la carte.
+
+<!-- LEGISCTA: LEGISCTA000006174030 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074068/LEGISCTA000006174030/)
+
+**Texte :** Code des pensions militaires d'invalidité et des victimes de la guerre · **Identifiant :** `LEGITEXT000006074068`
+
+## Sous-sections
+
+- [Paragraphe 1 : Calcul du temps de présence ou de la durée d'appartenance.](LEGISCTA000006186913/SUMMARY.md)
+- [Paragraphe 2 : Demande et délivrance de la carte.](LEGISCTA000006186914/SUMMARY.md)
+- [Paragraphe 3 : Demande et délivrance de la carte.](LEGISCTA000006186915/SUMMARY.md)

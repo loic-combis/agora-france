@@ -1,0 +1,20 @@
+# CHAPITRE IER : PENSIONS D'INVALIDITE.
+
+<!-- LEGISCTA: LEGISCTA000006142161 -->
+
+**Texte :** Décret n°46-2769 du 27 novembre 1946  portant organisation de la sécurité sociale dans les mines. · **Identifiant :** `LEGITEXT000006060459`
+
+## Articles
+
+- [Article 131](LEGIARTI000006765009.md)
+- [Article 132](LEGIARTI000006765012.md)
+- [Article 134](LEGIARTI000006765020.md)
+- [Article 136](LEGIARTI000006765027.md)
+- [Article 137](LEGIARTI000006765030.md)
+- [Article 139](LEGIARTI000006765037.md)
+- [Article 140](LEGIARTI000006765040.md)
+- [Article 141](LEGIARTI000006765043.md)
+- [Article 142](LEGIARTI000006765046.md)
+- [Article 143](LEGIARTI000006765050.md)
+- [Article 144](LEGIARTI000006765053.md)
+- [Article 145](LEGIARTI000006765055.md)

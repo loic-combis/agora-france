@@ -1,0 +1,9 @@
+# LISTE DES COMMUNES COMPRISES DANS LE GROUPEMENT D'URBANISME DE LA RÉGION LYONNAISE
+
+<!-- LEGISCTA: LEGISCTA000019266508 -->
+
+**Texte :** Décret n° 66-38 portant classement du marché-gare de Lyon comme marché d'intérêt national. · **Identifiant :** `LEGITEXT000019266489`
+
+## Articles
+
+- [Article (sans numéro)](LEGIARTI000019266509.md)

@@ -1,0 +1,28 @@
+# Section 3 : Du fonctionnement de la tutelle.
+
+<!-- LEGISCTA: LEGISCTA000006150106 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150106/)
+
+**Texte :** Code civil · **Identifiant :** `LEGITEXT000006070721`
+
+## Articles
+
+- [Article 449](LEGIARTI000006427647.md)
+- [Article 450](LEGIARTI000006427659.md)
+- [Article 451](LEGIARTI000006427665.md)
+- [Article 452](LEGIARTI000006427667.md)
+- [Article 453](LEGIARTI000006427669.md)
+- [Article 454](LEGIARTI000006427679.md)
+- [Article 455](LEGIARTI000006427690.md)
+- [Article 456](LEGIARTI000006427702.md)
+- [Article 457](LEGIARTI000006427712.md)
+- [Article 458](LEGIARTI000006427722.md)
+- [Article 460](LEGIARTI000006427747.md)
+- [Article 461](LEGIARTI000006427757.md)
+- [Article 462](LEGIARTI000006427760.md)
+- [Article 463](LEGIARTI000006427763.md)
+- [Article 464](LEGIARTI000006427772.md)
+- [Article 465](LEGIARTI000006427783.md)
+- [Article 466](LEGIARTI000006427793.md)
+- [Article 467](LEGIARTI000006427796.md)

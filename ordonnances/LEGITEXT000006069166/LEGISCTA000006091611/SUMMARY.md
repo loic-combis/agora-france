@@ -1,0 +1,10 @@
+# Titre IV : Du statut de certains fonctionnaires.
+
+<!-- LEGISCTA: LEGISCTA000006091611 -->
+
+**Texte :** Ordonnance n° 45-2283 du 9 octobre 1945 relative à la formation, au recrutement et au statut de certaines catégories de fonctionnaires et instituant une direction de la fonction publique et un conseil permanent de l'administration civile. · **Identifiant :** `LEGITEXT000006069166`
+
+## Articles
+
+- [Article 12](LEGIARTI000006452003.md)
+- [Article 14](LEGIARTI000006452005.md)

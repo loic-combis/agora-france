@@ -1,0 +1,12 @@
+# TITRE II : AÉRODROMES OUVERTS A LA CIRCULATION AÉRIENNE PUBLIQUE
+
+<!-- LEGISCTA: LEGISCTA000006144031 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074234/LEGISCTA000006144031/)
+
+**Texte :** Code de l'aviation civile · **Identifiant :** `LEGITEXT000006074234`
+
+## Sous-sections
+
+- [CHAPITRE Ier : CRÉATION.](LEGISCTA000006159815/SUMMARY.md)
+- [CHAPITRE III : EXPLOITATION.](LEGISCTA000006159816/SUMMARY.md)

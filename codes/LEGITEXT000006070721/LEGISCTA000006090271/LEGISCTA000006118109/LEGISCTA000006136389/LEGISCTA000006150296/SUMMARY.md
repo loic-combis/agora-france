@@ -1,0 +1,24 @@
+# Section 2 : Du cheptel simple.
+
+<!-- LEGISCTA: LEGISCTA000006150296 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150296/)
+
+**Texte :** Code civil · **Identifiant :** `LEGITEXT000006070721`
+
+## Articles
+
+- [Article 1804](LEGIARTI000006443736.md)
+- [Article 1805](LEGIARTI000006443745.md)
+- [Article 1806](LEGIARTI000006443758.md)
+- [Article 1807](LEGIARTI000006443772.md)
+- [Article 1808](LEGIARTI000006443784.md)
+- [Article 1809](LEGIARTI000006443785.md)
+- [Article 1810](LEGIARTI000006443793.md)
+- [Article 1811](LEGIARTI000006443801.md)
+- [Article 1812](LEGIARTI000006443813.md)
+- [Article 1813](LEGIARTI000006443818.md)
+- [Article 1814](LEGIARTI000006443828.md)
+- [Article 1815](LEGIARTI000006443836.md)
+- [Article 1816](LEGIARTI000006443845.md)
+- [Article 1817](LEGIARTI000006443853.md)

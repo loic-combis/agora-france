@@ -1,0 +1,15 @@
+# Arrêté du 20 décembre 1954  FIXANT LES CONDITIONS D'AGREMENT DES CENTRES D'HEBERGEMENT.
+
+<!-- LEGITEXT000006072645 — nature: ARRETE -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006072645/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006684856.md)
+- [Article 2](LEGIARTI000006684857.md)
+- [Article 3](LEGIARTI000006684858.md)
+- [Article 4](LEGIARTI000006684859.md)
+- [Article 5](LEGIARTI000006684860.md)
+- [Article 6](LEGIARTI000006684861.md)
+- [Article 7](LEGIARTI000006684862.md)

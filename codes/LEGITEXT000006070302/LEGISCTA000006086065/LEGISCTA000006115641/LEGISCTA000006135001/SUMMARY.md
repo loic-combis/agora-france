@@ -1,0 +1,12 @@
+# Titre VII : Dispositions spéciales.
+
+<!-- LEGISCTA: LEGISCTA000006135001 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070302/LEGISCTA000006135001/)
+
+**Texte :** Code des pensions civiles et militaires de retraite · **Identifiant :** `LEGITEXT000006070302`
+
+## Articles
+
+- [Article L51](LEGIARTI000006362788.md)
+- [Article L52](LEGIARTI000006362791.md)

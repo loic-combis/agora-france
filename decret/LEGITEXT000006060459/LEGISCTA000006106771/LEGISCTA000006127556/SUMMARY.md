@@ -1,0 +1,17 @@
+# CHAPITRE II : UNIONS REGIONALES DE SOCIETES DE SECOURS MINIERES.
+
+<!-- LEGISCTA: LEGISCTA000006127556 -->
+
+**Texte :** Décret n°46-2769 du 27 novembre 1946  portant organisation de la sécurité sociale dans les mines. · **Identifiant :** `LEGITEXT000006060459`
+
+## Articles
+
+- [Article 23](LEGIARTI000006764679.md)
+- [Article 24](LEGIARTI000006764684.md)
+- [Article 25](LEGIARTI000006764690.md)
+- [Article 26](LEGIARTI000006764692.md)
+- [Article 27](LEGIARTI000006764696.md)
+- [Article 28](LEGIARTI000006764701.md)
+- [Article 30](LEGIARTI000006764711.md)
+- [Article 31](LEGIARTI000006764714.md)
+- [Article 32](LEGIARTI000006764718.md)

@@ -1,0 +1,13 @@
+# PARAGRAPHE IX : USAGE DES VOIES A CIRCULATION SPÉCIALISÉE ET CIRCULATION SUR LES AUTOROUTES.
+
+<!-- LEGISCTA: LEGISCTA000006160184 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074947/LEGISCTA000006160184/)
+
+**Texte :** Code de la route (ancien) · **Identifiant :** `LEGITEXT000006074947`
+
+## Articles
+
+- [Article R43](LEGIARTI000006875476.md)
+- [Article R43-1](LEGIARTI000006875478.md)
+- [Article R43-8](LEGIARTI000006875488.md)

@@ -1,0 +1,28 @@
+# Chapitre Ier : Dispositions générales.
+
+<!-- LEGISCTA: LEGISCTA000006114675 -->
+
+**Texte :** Décret-loi du 30 octobre 1935 relatif à la protection des obligataires · **Identifiant :** `LEGITEXT000006069590`
+
+## Articles
+
+- [Article 10](LEGIARTI000006317299.md)
+- [Article 11](LEGIARTI000006317301.md)
+- [Article 13](LEGIARTI000006317307.md)
+- [Article 15](LEGIARTI000006317318.md)
+- [Article 16](LEGIARTI000006317331.md)
+- [Article 17](LEGIARTI000006317343.md)
+- [Article 18](LEGIARTI000006317357.md)
+- [Article 19](LEGIARTI000006317370.md)
+- [Article 20](LEGIARTI000006317381.md)
+- [Article 21](LEGIARTI000006317391.md)
+- [Article 22](LEGIARTI000006317401.md)
+- [Article 23](LEGIARTI000006317410.md)
+- [Article 24](LEGIARTI000006317419.md)
+- [Article 25](LEGIARTI000006317428.md)
+- [Article 26](LEGIARTI000006317442.md)
+- [Article 28](LEGIARTI000006317445.md)
+- [Article 29](LEGIARTI000006317446.md)
+- [Article 30](LEGIARTI000006317448.md)
+- [Article 31](LEGIARTI000006317451.md)
+- [Article 32](LEGIARTI000006317458.md)

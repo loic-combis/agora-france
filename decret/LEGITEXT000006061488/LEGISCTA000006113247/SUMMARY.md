@@ -1,0 +1,28 @@
+# REDEVANCES EN MATIERE CIVILE ET COMMERCIALE
+
+<!-- LEGISCTA: LEGISCTA000006113247 -->
+
+**Texte :** Décret n°67-902 du 12 octobre 1967 fixant les redevances des greffes des juridictions civiles et pénales perçues au profit du Trésor public · **Identifiant :** `LEGITEXT000006061488`
+
+## Articles
+
+- [Article 3](LEGIARTI000006932283.md)
+- [Article 4](LEGIARTI000006932296.md)
+- [Article 5](LEGIARTI000006932325.md)
+- [Article 6](LEGIARTI000006932332.md)
+- [Article 7](LEGIARTI000006932333.md)
+- [Article 8](LEGIARTI000006932337.md)
+- [Article 10](LEGIARTI000006932340.md)
+- [Article 11](LEGIARTI000006932351.md)
+- [Article 12](LEGIARTI000006932361.md)
+- [Article 13](LEGIARTI000006932362.md)
+- [Article 14](LEGIARTI000006932368.md)
+- [Article 15](LEGIARTI000006932378.md)
+- [Article 16](LEGIARTI000006932389.md)
+- [Article 17](LEGIARTI000006932392.md)
+- [Article 18](LEGIARTI000006932398.md)
+- [Article 19](LEGIARTI000006932403.md)
+- [Article 20](LEGIARTI000006932412.md)
+- [Article 21](LEGIARTI000006932413.md)
+- [Article 22](LEGIARTI000006932420.md)
+- [Article 23](LEGIARTI000006932428.md)

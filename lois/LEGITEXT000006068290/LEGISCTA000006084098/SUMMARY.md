@@ -1,0 +1,30 @@
+# Chapitre IV : Dispositions diverses.
+
+<!-- LEGISCTA: LEGISCTA000006084098 -->
+
+**Texte :** Loi n° 66-879 du 29 novembre 1966 relative aux sociétés civiles professionnelles · **Identifiant :** `LEGITEXT000006068290`
+
+## Articles
+
+- [Article 23](LEGIARTI000006290551.md)
+- [Article 23](LEGIARTI000006290551.md)
+- [Article 24](LEGIARTI000006290552.md)
+- [Article 24](LEGIARTI000006290552.md)
+- [Article 25](LEGIARTI000006290553.md)
+- [Article 25](LEGIARTI000006290553.md)
+- [Article 26](LEGIARTI000006290554.md)
+- [Article 26](LEGIARTI000006290554.md)
+- [Article 27](LEGIARTI000006290557.md)
+- [Article 27](LEGIARTI000006290557.md)
+- [Article 28](LEGIARTI000006290561.md)
+- [Article 28](LEGIARTI000006290561.md)
+- [Article 29](LEGIARTI000006290566.md)
+- [Article 29](LEGIARTI000006290566.md)
+- [Article 30](LEGIARTI000006290574.md)
+- [Article 30](LEGIARTI000006290574.md)
+- [Article 31](LEGIARTI000006290575.md)
+- [Article 31](LEGIARTI000006290575.md)
+- [Article 33](LEGIARTI000006290576.md)
+- [Article 33](LEGIARTI000006290576.md)
+- [Article 35](LEGIARTI000006290578.md)
+- [Article 35](LEGIARTI000006290578.md)

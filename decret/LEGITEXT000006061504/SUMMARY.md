@@ -1,0 +1,9 @@
+# Décret n°68-1047 du 29 novembre 1968  RELATIF A LA DECONCENTRATION EN MATIERE DE TUTELLE DES ORGANISMES DE SECURITE SOCIALE.
+
+<!-- LEGITEXT000006061504 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006061504/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006761734.md)

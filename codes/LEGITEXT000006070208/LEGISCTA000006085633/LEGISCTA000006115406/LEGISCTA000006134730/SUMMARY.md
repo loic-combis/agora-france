@@ -1,0 +1,11 @@
+# Titre Ier : Dispositions générales.
+
+<!-- LEGISCTA: LEGISCTA000006134730 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070208/LEGISCTA000006134730/)
+
+**Texte :** Code du domaine de l'Etat · **Identifiant :** `LEGITEXT000006070208`
+
+## Articles
+
+- [Article L76](LEGIARTI000006350439.md)

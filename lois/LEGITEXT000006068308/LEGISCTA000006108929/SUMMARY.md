@@ -1,0 +1,21 @@
+# Chapitre II : Assistance.
+
+<!-- LEGISCTA: LEGISCTA000006108929 -->
+
+**Texte :** Loi n°67-545 du 7 juillet 1967 relative aux événements de mer. · **Identifiant :** `LEGITEXT000006068308`
+
+## Articles
+
+- [Article 9](LEGIARTI000006848963.md)
+- [Article 10](LEGIARTI000006848964.md)
+- [Article 11](LEGIARTI000006848965.md)
+- [Article 12](LEGIARTI000006848966.md)
+- [Article 13](LEGIARTI000006848967.md)
+- [Article 14](LEGIARTI000006848968.md)
+- [Article 15](LEGIARTI000006848969.md)
+- [Article 16](LEGIARTI000006848971.md)
+- [Article 17](LEGIARTI000006848972.md)
+- [Article 18](LEGIARTI000006848973.md)
+- [Article 19](LEGIARTI000006848974.md)
+- [Article 20](LEGIARTI000006848975.md)
+- [Article 21](LEGIARTI000006848976.md)

@@ -1,0 +1,18 @@
+# Décret n°67-902 du 12 octobre 1967 fixant les redevances des greffes des juridictions civiles et pénales perçues au profit du Trésor public
+
+<!-- LEGITEXT000006061488 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006061488/)
+
+## Sommaire
+
+- [DISPOSITIONS GENERALES](LEGISCTA000006113246/SUMMARY.md)
+- [REDEVANCE EN MATIERE CIVILE ET COMMERCIALE](LEGISCTA000006113248/SUMMARY.md)
+- [REDEVANCES EN MATIERE CIVILE ET COMMERCIALE](LEGISCTA000006113247/SUMMARY.md)
+- [REDEVANCES EN MATIERE PENALE](LEGISCTA000006113249/SUMMARY.md)
+- [Annexes](LEGISCTA000006113245/SUMMARY.md)
+
+## Articles
+
+- [Article 35](LEGIARTI000006932247.md)
+- [Article 36](LEGIARTI000006932250.md)

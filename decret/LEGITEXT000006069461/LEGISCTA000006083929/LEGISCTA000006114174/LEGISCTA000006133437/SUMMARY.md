@@ -1,0 +1,37 @@
+# Section III : Requêtes et inscriptions.
+
+<!-- LEGISCTA: LEGISCTA000006133437 -->
+
+**Texte :** Décret du 18 novembre 1924 relatif à la tenue du livre foncier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle · **Identifiant :** `LEGITEXT000006069461`
+
+## Articles
+
+- [Article 6](LEGIARTI000006285591.md)
+- [Article 7](LEGIARTI000006285594.md)
+- [Article 8](LEGIARTI000006285595.md)
+- [Article 10](LEGIARTI000006285597.md)
+- [Article 11](LEGIARTI000006285598.md)
+- [Article 12](LEGIARTI000006285600.md)
+- [Article 13](LEGIARTI000006285602.md)
+- [Article 14](LEGIARTI000006285603.md)
+- [Article 15](LEGIARTI000006285604.md)
+- [Article 16](LEGIARTI000006285605.md)
+- [Article 17](LEGIARTI000006285606.md)
+- [Article 18](LEGIARTI000006285607.md)
+- [Article 19](LEGIARTI000006285608.md)
+- [Article 20](LEGIARTI000006285609.md)
+- [Article 21](LEGIARTI000006285610.md)
+- [Article 22](LEGIARTI000006285611.md)
+- [Article 23](LEGIARTI000006285614.md)
+- [Article 24](LEGIARTI000006285615.md)
+- [Article 25](LEGIARTI000006285616.md)
+- [Article 26](LEGIARTI000006285617.md)
+- [Article 27](LEGIARTI000006285618.md)
+- [Article 28](LEGIARTI000006285619.md)
+- [Article 29](LEGIARTI000006285620.md)
+- [Article 30](LEGIARTI000006285621.md)
+- [Article 31](LEGIARTI000006285622.md)
+- [Article 32](LEGIARTI000006285624.md)
+- [Article 33](LEGIARTI000006285625.md)
+- [Article 34](LEGIARTI000006285627.md)
+- [Article 35](LEGIARTI000006285628.md)

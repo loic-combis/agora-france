@@ -1,0 +1,20 @@
+# CHAPITRE II - PAIEMENT DES PRESTATIONS A LA CHARGE DE LA CAISSE AUTONOME NATIONALE.
+
+<!-- LEGISCTA: LEGISCTA000006127714 -->
+
+**Texte :** Décret n°47-2100 du 22 octobre 1947 fixant les mesures d'application du décret n° 46-2769 du 27 novembre 1946 portant organisation de la Sécurité Sociale dans les mines. · **Identifiant :** `LEGITEXT000006060480`
+
+## Articles
+
+- [Article 201](LEGIARTI000006767114.md)
+- [Article 202](LEGIARTI000006767116.md)
+- [Article 203](LEGIARTI000006767118.md)
+- [Article 204](LEGIARTI000006767119.md)
+- [Article 204 bis](LEGIARTI000006767121.md)
+- [Article 205](LEGIARTI000006767122.md)
+- [Article 206](LEGIARTI000006767124.md)
+- [Article 207](LEGIARTI000006767125.md)
+- [Article 208](LEGIARTI000006767126.md)
+- [Article 209](LEGIARTI000006767127.md)
+- [Article 210](LEGIARTI000006767128.md)
+- [Article 211](LEGIARTI000006767129.md)

@@ -1,0 +1,12 @@
+# ORGANISATION FINANCIERE - LA COMPTABILITE - DISPOSITIONS DIVERSES
+
+<!-- LEGISCTA: LEGISCTA000006109902 -->
+
+**Texte :** Décret n°60-1441 du 26 décembre 1960 portant statut de Voies navigables de France. · **Identifiant :** `LEGITEXT000006060951`
+
+## Articles
+
+- [Article 48](LEGIARTI000006859332.md)
+- [Article 49](LEGIARTI000006859334.md)
+- [Article 50](LEGIARTI000006859338.md)
+- [Article 51](LEGIARTI000006859342.md)

@@ -1,0 +1,19 @@
+# CHAPITRE Ier : Amnistie de droit.
+
+<!-- LEGISCTA: LEGISCTA000006094151 -->
+
+**Texte :** Loi n° 69-700 du 30 juin 1969 portant amnistie (1). · **Identifiant :** `LEGITEXT000006068339`
+
+## Articles
+
+- [Article 1](LEGIARTI000006494055.md)
+- [Article 2](LEGIARTI000006494056.md)
+- [Article 3](LEGIARTI000006494057.md)
+- [Article 4](LEGIARTI000006494058.md)
+- [Article 5](LEGIARTI000006494059.md)
+- [Article 6](LEGIARTI000006494060.md)
+- [Article 7](LEGIARTI000006494061.md)
+- [Article 8](LEGIARTI000006494062.md)
+- [Article 9](LEGIARTI000006494063.md)
+- [Article 10](LEGIARTI000006494064.md)
+- [Article 11](LEGIARTI000006494066.md)

@@ -1,0 +1,17 @@
+# CHAPITRE IER : DISPOSITIONS GENERALES RELATIVES AUX SOINS.
+
+<!-- LEGISCTA: LEGISCTA000006142155 -->
+
+**Texte :** Décret n°46-2769 du 27 novembre 1946  portant organisation de la sécurité sociale dans les mines. · **Identifiant :** `LEGITEXT000006060459`
+
+## Articles
+
+- [Article 88](LEGIARTI000006764887.md)
+- [Article 89](LEGIARTI000006764889.md)
+- [Article 90](LEGIARTI000006764892.md)
+- [Article 91](LEGIARTI000006764895.md)
+- [Article 93](LEGIARTI000006764905.md)
+- [Article 94](LEGIARTI000006764911.md)
+- [Article 95](LEGIARTI000006764913.md)
+- [Article 96](LEGIARTI000006764918.md)
+- [Article 97](LEGIARTI000006764924.md)

@@ -1,0 +1,34 @@
+# Chapitre Ier : Du tribunal de paix.
+
+<!-- LEGISCTA: LEGISCTA000006119661 -->
+
+**Texte :** Décret du 7 avril 1928 relatif à l'organisation de l'administration de la justice en Nouvelle-Calédonie et dépendances. · **Identifiant :** `LEGITEXT000006071074`
+
+## Articles
+
+- [Article 6](LEGIARTI000006497513.md)
+- [Article 7](LEGIARTI000006497514.md)
+- [Article 8](LEGIARTI000006497515.md)
+- [Article 9](LEGIARTI000006497516.md)
+- [Article 10](LEGIARTI000006497517.md)
+- [Article 11](LEGIARTI000006497518.md)
+- [Article 12](LEGIARTI000006497519.md)
+- [Article 13](LEGIARTI000006497520.md)
+- [Article 14](LEGIARTI000006497521.md)
+- [Article 15](LEGIARTI000006497522.md)
+- [Article 16](LEGIARTI000006497523.md)
+- [Article 17](LEGIARTI000006497524.md)
+- [Article 18](LEGIARTI000006497525.md)
+- [Article 19](LEGIARTI000006497526.md)
+- [Article 20](LEGIARTI000006497527.md)
+- [Article 21](LEGIARTI000006497528.md)
+- [Article 22](LEGIARTI000006497529.md)
+- [Article 23](LEGIARTI000006497530.md)
+- [Article 24](LEGIARTI000006497531.md)
+- [Article 25](LEGIARTI000006497532.md)
+- [Article 26](LEGIARTI000006497533.md)
+- [Article 27](LEGIARTI000006497534.md)
+- [Article 28](LEGIARTI000006497535.md)
+- [Article 29](LEGIARTI000006497537.md)
+- [Article 30](LEGIARTI000006497538.md)
+- [Article 31](LEGIARTI000006497539.md)

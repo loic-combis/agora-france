@@ -1,0 +1,24 @@
+# Section 1 : Du consentement.
+
+<!-- LEGISCTA: LEGISCTA000006150236 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150236/)
+
+**Texte :** Code civil · **Identifiant :** `LEGITEXT000006070721`
+
+## Articles
+
+- [Article 1109](LEGIARTI000006436120.md)
+- [Article 1110](LEGIARTI000006436121.md)
+- [Article 1111](LEGIARTI000006436123.md)
+- [Article 1112](LEGIARTI000006436129.md)
+- [Article 1113](LEGIARTI000006436132.md)
+- [Article 1114](LEGIARTI000006436141.md)
+- [Article 1115](LEGIARTI000006436148.md)
+- [Article 1116](LEGIARTI000006436149.md)
+- [Article 1117](LEGIARTI000006436150.md)
+- [Article 1118](LEGIARTI000006436151.md)
+- [Article 1119](LEGIARTI000006436152.md)
+- [Article 1120](LEGIARTI000006436154.md)
+- [Article 1121](LEGIARTI000006436160.md)
+- [Article 1122](LEGIARTI000006436171.md)

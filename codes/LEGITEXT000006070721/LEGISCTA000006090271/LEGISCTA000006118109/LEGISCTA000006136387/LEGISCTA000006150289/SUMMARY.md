@@ -1,0 +1,24 @@
+# Section 3 : Des règles particulières aux baux à ferme.
+
+<!-- LEGISCTA: LEGISCTA000006150289 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150289/)
+
+**Texte :** Code civil · **Identifiant :** `LEGITEXT000006070721`
+
+## Articles
+
+- [Article 1764](LEGIARTI000006443227.md)
+- [Article 1765](LEGIARTI000006443236.md)
+- [Article 1766](LEGIARTI000006443245.md)
+- [Article 1767](LEGIARTI000006443255.md)
+- [Article 1768](LEGIARTI000006443264.md)
+- [Article 1769](LEGIARTI000006443280.md)
+- [Article 1770](LEGIARTI000006443281.md)
+- [Article 1771](LEGIARTI000006443291.md)
+- [Article 1772](LEGIARTI000006443302.md)
+- [Article 1773](LEGIARTI000006443313.md)
+- [Article 1774](LEGIARTI000006443321.md)
+- [Article 1775](LEGIARTI000006443330.md)
+- [Article 1777](LEGIARTI000006443341.md)
+- [Article 1778](LEGIARTI000006443351.md)

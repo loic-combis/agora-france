@@ -1,0 +1,13 @@
+# Décret n°65-936 du 8 novembre 1965 créant au port du Havre un port autonome sous le régime de la loi n° 65-491 du 29 juin 1965.
+
+<!-- LEGITEXT000006061325 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006061325/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006857709.md)
+- [Article 3](LEGIARTI000006857712.md)
+- [Article 4](LEGIARTI000006857714.md)
+- [Article 5](LEGIARTI000006857715.md)
+- [Article 6](LEGIARTI000006857708.md)

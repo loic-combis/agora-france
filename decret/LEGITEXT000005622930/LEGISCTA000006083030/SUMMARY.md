@@ -1,0 +1,45 @@
+# SECTION II : Emoluments dans les instances civiles ou commerciales
+
+<!-- LEGISCTA: LEGISCTA000006083030 -->
+
+**Texte :** Décret n°47-817 du 9 mai 1947 relatif aux droits et émoluments des avocats postulants des départements du Haut-Rhin, du Bas-Rhin et de la Moselle. · **Identifiant :** `LEGITEXT000005622930`
+
+## Articles
+
+- [Article 7](LEGIARTI000006202770.md)
+- [Article 8](LEGIARTI000006202771.md)
+- [Article 9](LEGIARTI000006202772.md)
+- [Article 10](LEGIARTI000006202773.md)
+- [Article 11](LEGIARTI000006202774.md)
+- [Article 12](LEGIARTI000006202775.md)
+- [Article 13](LEGIARTI000006202776.md)
+- [Article 14](LEGIARTI000006202777.md)
+- [Article 15](LEGIARTI000006202778.md)
+- [Article 16](LEGIARTI000006202779.md)
+- [Article 17](LEGIARTI000006202780.md)
+- [Article 18](LEGIARTI000006202781.md)
+- [Article 19](LEGIARTI000006202782.md)
+- [Article 20](LEGIARTI000006202783.md)
+- [Article 21](LEGIARTI000006202784.md)
+- [Article 22](LEGIARTI000006202785.md)
+- [Article 23](LEGIARTI000006202786.md)
+- [Article 24](LEGIARTI000006202787.md)
+- [Article 25](LEGIARTI000006202788.md)
+- [Article 26](LEGIARTI000006202789.md)
+- [Article 27](LEGIARTI000006202790.md)
+- [Article 28](LEGIARTI000006202791.md)
+- [Article 29](LEGIARTI000006202792.md)
+- [Article 30](LEGIARTI000006202793.md)
+- [Article 31](LEGIARTI000006202794.md)
+- [Article 32](LEGIARTI000006202795.md)
+- [Article 33](LEGIARTI000006202796.md)
+- [Article 34](LEGIARTI000006202797.md)
+- [Article 35](LEGIARTI000006202798.md)
+- [Article 36](LEGIARTI000006202799.md)
+- [Article 37](LEGIARTI000006202800.md)
+- [Article 38](LEGIARTI000006202801.md)
+- [Article 39](LEGIARTI000006202802.md)
+- [Article 40](LEGIARTI000006202803.md)
+- [Article 41](LEGIARTI000006202804.md)
+- [Article 42](LEGIARTI000006202805.md)
+- [Article 43](LEGIARTI000006202806.md)

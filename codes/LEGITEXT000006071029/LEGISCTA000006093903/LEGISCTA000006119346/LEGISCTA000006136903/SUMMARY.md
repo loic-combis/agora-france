@@ -1,0 +1,22 @@
+# DES PEINES EN MATIERE CRIMINELLE ET CORRECTIONNELLE, ET DE LEURS EFFETS
+
+<!-- LEGISCTA: LEGISCTA000006136903 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071029/LEGISCTA000006136903/)
+
+**Texte :** Code pénal (ancien) · **Identifiant :** `LEGITEXT000006071029`
+
+## Sous-sections
+
+- [CHAPITRE I](LEGISCTA000006150857/SUMMARY.md)
+- [CHAPITRE III](LEGISCTA000006150859/SUMMARY.md)
+- [Chapitre IV : Des peines de la récidive pour crimes et délits.](LEGISCTA000006136895/SUMMARY.md)
+- [Chapître II](LEGISCTA000006150858/SUMMARY.md)
+
+## Articles
+
+- [Article 6](LEGIARTI000006489773.md)
+- [Article 8](LEGIARTI000006489776.md)
+- [Article 9](LEGIARTI000006489777.md)
+- [Article 10](LEGIARTI000006489778.md)
+- [Article 11](LEGIARTI000006489779.md)

@@ -1,0 +1,18 @@
+# ORGANISATION GENERALE DES MARCHES
+
+<!-- LEGISCTA: LEGISCTA000006097857 -->
+
+**Texte :** Décret n°68-659 du 10 juillet 1968 portant organisation générale des marchés d'intérêt national · **Identifiant :** `LEGITEXT000006061578`
+
+## Sous-sections
+
+- [GESTION DES MARCHES](LEGISCTA000006121172/SUMMARY.md)
+- [TUTELLE - CONTROLE - FONCTIONNEMENT.](LEGISCTA000006121177/SUMMARY.md)
+
+## Articles
+
+- [Article 1](LEGIARTI000006569854.md)
+- [Article 2](LEGIARTI000006569855.md)
+- [Article 3](LEGIARTI000006569860.md)
+- [Article 4](LEGIARTI000006569866.md)
+- [Article 5](LEGIARTI000006569881.md)

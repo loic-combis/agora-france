@@ -1,0 +1,9 @@
+# CONDITIONS D'ETABLISSEMENT DU CERTIFICAT DE PROPRIETE ET DU CERTIFICAT DU GREFFIER.
+
+<!-- LEGISCTA: LEGISCTA000006115122 -->
+
+**Texte :** Décret n°55-1595 du 7 décembre 1955 relatif au régime des titres nominatifs · **Identifiant :** `LEGITEXT000006060727`
+
+## Articles
+
+- [Article 21](LEGIARTI000006337726.md)

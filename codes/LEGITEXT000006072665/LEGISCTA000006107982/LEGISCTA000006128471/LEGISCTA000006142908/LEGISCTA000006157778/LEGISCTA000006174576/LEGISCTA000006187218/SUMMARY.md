@@ -1,0 +1,15 @@
+# PARAGRAPHE 3 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE.
+
+<!-- LEGISCTA: LEGISCTA000006187218 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006187218/)
+
+**Texte :** Code de la santé publique · **Identifiant :** `LEGITEXT000006072665`
+
+## Articles
+
+- [Article R5222](LEGIARTI000006801389.md)
+- [Article R5223](LEGIARTI000006801392.md)
+- [Article R5224](LEGIARTI000006801394.md)
+- [Article R5225](LEGIARTI000006801396.md)
+- [Article R5226](LEGIARTI000006801398.md)

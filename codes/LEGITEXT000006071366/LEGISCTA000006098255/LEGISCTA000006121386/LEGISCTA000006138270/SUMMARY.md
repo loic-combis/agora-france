@@ -1,0 +1,29 @@
+# Chapitre Ier : Elections des conseils d'administration.
+
+<!-- LEGISCTA: LEGISCTA000006138270 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071366/LEGISCTA000006138270/)
+
+**Texte :** Code rural (ancien) · **Identifiant :** `LEGITEXT000006071366`
+
+## Articles
+
+- [Article 1004](LEGIARTI000006580693.md)
+- [Article 1005](LEGIARTI000006580696.md)
+- [Article 1006](LEGIARTI000006580699.md)
+- [Article 1007](LEGIARTI000006580701.md)
+- [Article 1008](LEGIARTI000006580704.md)
+- [Article 1009](LEGIARTI000006580706.md)
+- [Article 1010](LEGIARTI000006580709.md)
+- [Article 1011](LEGIARTI000006580714.md)
+- [Article 1012](LEGIARTI000006580719.md)
+- [Article 1013](LEGIARTI000006580721.md)
+- [Article 1014](LEGIARTI000006580723.md)
+- [Article 1015](LEGIARTI000006580725.md)
+- [Article 1016](LEGIARTI000006580727.md)
+- [Article 1017](LEGIARTI000006580729.md)
+- [Article 1018](LEGIARTI000006580731.md)
+- [Article 1019](LEGIARTI000006580734.md)
+- [Article 1020](LEGIARTI000006580736.md)
+- [Article 1022](LEGIARTI000006580738.md)
+- [Article 1023](LEGIARTI000006580740.md)

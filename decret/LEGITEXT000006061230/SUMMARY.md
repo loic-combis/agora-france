@@ -1,0 +1,9 @@
+# Décret n°64-881 du 21 août 1964  RELATIF AU TARIF DE RESPONSABILITE DES CAISSES EN CAS D'HOSPITALISATION DES ASSURES SOCIAUX
+
+<!-- LEGITEXT000006061230 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006061230/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006763446.md)

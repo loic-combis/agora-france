@@ -1,0 +1,13 @@
+# ORGANISATION FINANCIERE - LA COMPTABILITE - PAIEMENT DES CHARGES
+
+<!-- LEGISCTA: LEGISCTA000006109900 -->
+
+**Texte :** Décret n°60-1441 du 26 décembre 1960 portant statut de Voies navigables de France. · **Identifiant :** `LEGITEXT000006060951`
+
+## Articles
+
+- [Article 42](LEGIARTI000006859319.md)
+- [Article 43](LEGIARTI000006859322.md)
+- [Article 44](LEGIARTI000006859325.md)
+- [Article 45](LEGIARTI000006859326.md)
+- [Article 46](LEGIARTI000006859327.md)

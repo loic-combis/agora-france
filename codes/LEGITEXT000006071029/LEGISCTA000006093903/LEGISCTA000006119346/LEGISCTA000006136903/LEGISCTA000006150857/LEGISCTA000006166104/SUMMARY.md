@@ -1,0 +1,30 @@
+# Des peines en matière criminelle
+
+<!-- LEGISCTA: LEGISCTA000006166104 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071029/LEGISCTA000006166104/)
+
+**Texte :** Code pénal (ancien) · **Identifiant :** `LEGITEXT000006071029`
+
+## Articles
+
+- [Article 12](LEGIARTI000006490601.md)
+- [Article 13](LEGIARTI000006490602.md)
+- [Article 14](LEGIARTI000006490603.md)
+- [Article 15](LEGIARTI000006490604.md)
+- [Article 16](LEGIARTI000006490605.md)
+- [Article 17](LEGIARTI000006490606.md)
+- [Article 23](LEGIARTI000006489855.md)
+- [Article 25](LEGIARTI000006489857.md)
+- [Article 28](LEGIARTI000006489858.md)
+- [Article 29](LEGIARTI000006489859.md)
+- [Article 30](LEGIARTI000006489861.md)
+- [Article 31](LEGIARTI000006489862.md)
+- [Article 32](LEGIARTI000006489863.md)
+- [Article 33](LEGIARTI000006489864.md)
+- [Article 34](LEGIARTI000006489865.md)
+- [Article 35](LEGIARTI000006489866.md)
+- [Article 36](LEGIARTI000006489867.md)
+- [Article 37](LEGIARTI000006489868.md)
+- [Article 38](LEGIARTI000006489869.md)
+- [Article 39](LEGIARTI000006489870.md)

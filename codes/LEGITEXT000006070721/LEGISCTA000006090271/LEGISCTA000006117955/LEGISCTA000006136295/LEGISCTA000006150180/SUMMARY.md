@@ -1,0 +1,31 @@
+# Section 2 : Des règles particulières sur la forme de certains testaments.
+
+<!-- LEGISCTA: LEGISCTA000006150180 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150180/)
+
+**Texte :** Code civil · **Identifiant :** `LEGITEXT000006070721`
+
+## Articles
+
+- [Article 981](LEGIARTI000006434243.md)
+- [Article 982](LEGIARTI000006434254.md)
+- [Article 983](LEGIARTI000006434268.md)
+- [Article 984](LEGIARTI000006434280.md)
+- [Article 985](LEGIARTI000006434293.md)
+- [Article 986](LEGIARTI000006434307.md)
+- [Article 987](LEGIARTI000006434318.md)
+- [Article 988](LEGIARTI000006434330.md)
+- [Article 989](LEGIARTI000006434344.md)
+- [Article 990](LEGIARTI000006434354.md)
+- [Article 991](LEGIARTI000006434366.md)
+- [Article 992](LEGIARTI000006434375.md)
+- [Article 993](LEGIARTI000006434388.md)
+- [Article 994](LEGIARTI000006434397.md)
+- [Article 995](LEGIARTI000006434419.md)
+- [Article 996](LEGIARTI000006434445.md)
+- [Article 997](LEGIARTI000006434460.md)
+- [Article 998](LEGIARTI000006434471.md)
+- [Article 999](LEGIARTI000006434482.md)
+- [Article 1000](LEGIARTI000006434493.md)
+- [Article 1001](LEGIARTI000006434505.md)

@@ -1,0 +1,10 @@
+# Décret n°68-300 du 29 mars 1968  RELATIF AU REGIME DE RETRAITE DES AGENTS TITULAIRES DE LA BANQUE DE FRANCE.
+
+<!-- LEGITEXT000006061537 — nature: DECRET -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006061537/)
+
+## Articles
+
+- [Article 1](LEGIARTI000006766394.md)
+- [Article 2](LEGIARTI000006766395.md)

@@ -1,0 +1,9 @@
+# Arrêté du 1 février 1963  FIXANT LE MONTANT DES COTISATIONS D'ASSURANCES SOCIALES A VERSER PAR LES ASSURES VOLONTAIRES.
+
+<!-- LEGITEXT000006073549 — nature: ARRETE -->
+
+[Texte consolidé (LODA)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006073549/)
+
+## Articles
+
+- [Article 3](LEGIARTI000006782685.md)

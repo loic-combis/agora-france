@@ -1,0 +1,31 @@
+# Réglementation générale du parc
+
+<!-- LEGISCTA: LEGISCTA000006109523 -->
+
+**Texte :** Décret n°67-265 du 23 mars 1967 créant le parc national des Pyrénées occidentales · **Identifiant :** `LEGITEXT000006061432`
+
+## Articles
+
+- [Article 4](LEGIARTI000006855075.md)
+- [Article 5](LEGIARTI000006855076.md)
+- [Article 6](LEGIARTI000006855077.md)
+- [Article 7](LEGIARTI000006855078.md)
+- [Article 8](LEGIARTI000006855079.md)
+- [Article 9](LEGIARTI000006855080.md)
+- [Article 10](LEGIARTI000006855081.md)
+- [Article 11](LEGIARTI000006855082.md)
+- [Article 12](LEGIARTI000006855083.md)
+- [Article 13](LEGIARTI000006855084.md)
+- [Article 14](LEGIARTI000006855085.md)
+- [Article 15](LEGIARTI000006855086.md)
+- [Article 16](LEGIARTI000006855087.md)
+- [Article 17](LEGIARTI000006855088.md)
+- [Article 18](LEGIARTI000006855089.md)
+- [Article 19](LEGIARTI000006855090.md)
+- [Article 20](LEGIARTI000006855091.md)
+- [Article 21](LEGIARTI000006855092.md)
+- [Article 22](LEGIARTI000006855093.md)
+- [Article 23](LEGIARTI000006855094.md)
+- [Article 24](LEGIARTI000006855095.md)
+- [Article 25](LEGIARTI000006855096.md)
+- [Article 26](LEGIARTI000006855097.md)

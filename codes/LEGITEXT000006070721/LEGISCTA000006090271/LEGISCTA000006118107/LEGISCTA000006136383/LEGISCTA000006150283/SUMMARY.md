@@ -1,0 +1,25 @@
+# Section 1 : De la faculté de rachat.
+
+<!-- LEGISCTA: LEGISCTA000006150283 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150283/)
+
+**Texte :** Code civil · **Identifiant :** `LEGITEXT000006070721`
+
+## Articles
+
+- [Article 1659](LEGIARTI000006442152.md)
+- [Article 1660](LEGIARTI000006442158.md)
+- [Article 1661](LEGIARTI000006442179.md)
+- [Article 1662](LEGIARTI000006442192.md)
+- [Article 1663](LEGIARTI000006442193.md)
+- [Article 1664](LEGIARTI000006442197.md)
+- [Article 1665](LEGIARTI000006442212.md)
+- [Article 1666](LEGIARTI000006442216.md)
+- [Article 1667](LEGIARTI000006442227.md)
+- [Article 1668](LEGIARTI000006442239.md)
+- [Article 1669](LEGIARTI000006442251.md)
+- [Article 1670](LEGIARTI000006442257.md)
+- [Article 1671](LEGIARTI000006442266.md)
+- [Article 1672](LEGIARTI000006442275.md)
+- [Article 1673](LEGIARTI000006442285.md)

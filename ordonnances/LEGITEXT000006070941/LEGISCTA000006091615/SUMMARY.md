@@ -1,0 +1,25 @@
+# TITRE II : DES ETABLISSEMENTS PRIVES CONSACRES AUX ALIENES.
+
+<!-- LEGISCTA: LEGISCTA000006091615 -->
+
+**Texte :** Ordonnance du 18 décembre 1839 portant règlement sur les établissements publics et privés consacrés aux aliénés. · **Identifiant :** `LEGITEXT000006070941`
+
+## Articles
+
+- [Article 17](LEGIARTI000006452034.md)
+- [Article 18](LEGIARTI000006452035.md)
+- [Article 19](LEGIARTI000006452036.md)
+- [Article 20](LEGIARTI000006452037.md)
+- [Article 21](LEGIARTI000006452038.md)
+- [Article 22](LEGIARTI000006452039.md)
+- [Article 23](LEGIARTI000006452040.md)
+- [Article 24](LEGIARTI000006452041.md)
+- [Article 25](LEGIARTI000006452042.md)
+- [Article 26](LEGIARTI000006452043.md)
+- [Article 27](LEGIARTI000006452044.md)
+- [Article 28](LEGIARTI000006452045.md)
+- [Article 29](LEGIARTI000006452046.md)
+- [Article 30](LEGIARTI000006452047.md)
+- [Article 31](LEGIARTI000006452048.md)
+- [Article 32](LEGIARTI000006452049.md)
+- [Article 33](LEGIARTI000006452050.md)

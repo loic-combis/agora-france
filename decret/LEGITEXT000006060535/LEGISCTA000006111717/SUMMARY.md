@@ -1,0 +1,16 @@
+# DISPOSITIONS COMMUNES AUX TRANSPORTS DE VOYAGEURS ET AUX TRANSPORTS DE MARCHANDISES
+
+<!-- LEGISCTA: LEGISCTA000006111717 -->
+
+**Texte :** Décret n°49-1473 du 14 novembre 1949 relatif à la coordination et à l'harmonisation des transports ferroviaires et routiers · **Identifiant :** `LEGITEXT000006060535`
+
+## Articles
+
+- [Article 44](LEGIARTI000006880103.md)
+- [Article 45](LEGIARTI000006880104.md)
+- [Article 46](LEGIARTI000006880105.md)
+- [Article 47](LEGIARTI000006880106.md)
+- [Article 48](LEGIARTI000006880107.md)
+- [Article 50](LEGIARTI000006880109.md)
+- [Article 51](LEGIARTI000006880110.md)
+- [Article 52](LEGIARTI000006880111.md)

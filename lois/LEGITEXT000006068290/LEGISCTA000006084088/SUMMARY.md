@@ -1,0 +1,30 @@
+# Chapitre III : Fonctionnement de la société.
+
+<!-- LEGISCTA: LEGISCTA000006084088 -->
+
+**Texte :** Loi n° 66-879 du 29 novembre 1966 relative aux sociétés civiles professionnelles · **Identifiant :** `LEGITEXT000006068290`
+
+## Articles
+
+- [Article 11](LEGIARTI000006290497.md)
+- [Article 11](LEGIARTI000006290497.md)
+- [Article 12](LEGIARTI000006290499.md)
+- [Article 12](LEGIARTI000006290499.md)
+- [Article 13](LEGIARTI000006290500.md)
+- [Article 13](LEGIARTI000006290500.md)
+- [Article 14](LEGIARTI000006290502.md)
+- [Article 14](LEGIARTI000006290502.md)
+- [Article 15](LEGIARTI000006290507.md)
+- [Article 15](LEGIARTI000006290507.md)
+- [Article 16](LEGIARTI000006290516.md)
+- [Article 16](LEGIARTI000006290516.md)
+- [Article 17](LEGIARTI000006290524.md)
+- [Article 17](LEGIARTI000006290524.md)
+- [Article 18](LEGIARTI000006290534.md)
+- [Article 18](LEGIARTI000006290534.md)
+- [Article 20](LEGIARTI000006290548.md)
+- [Article 20](LEGIARTI000006290548.md)
+- [Article 21](LEGIARTI000006290549.md)
+- [Article 21](LEGIARTI000006290549.md)
+- [Article 22](LEGIARTI000006290550.md)
+- [Article 22](LEGIARTI000006290550.md)

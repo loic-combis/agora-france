@@ -1,0 +1,12 @@
+# CONTRIBUTIONS INDIRECTES
+
+<!-- LEGISCTA: LEGISCTA000006147171 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006147171/)
+
+**Texte :** Code général des impôts · **Identifiant :** `LEGITEXT000006069577`
+
+## Sous-sections
+
+- [TAXES FACULTATIVES.](LEGISCTA000006162876/SUMMARY.md)
+- [TAXES OBLIGATOIRES.](LEGISCTA000006162875/SUMMARY.md)

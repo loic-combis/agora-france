@@ -1,0 +1,14 @@
+# DISPOSITIONS SPECIALES APPLICABLES EN CAS DE CESSION, DE CESSATION OU DE DECES.
+
+<!-- LEGISCTA: LEGISCTA000006162785 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006162785/)
+
+**Texte :** Code général des impôts · **Identifiant :** `LEGITEXT000006069577`
+
+## Articles
+
+- [Article 201](LEGIARTI000048201389.md)
+- [Article 202](LEGIARTI000048201656.md)
+- [Article 203](LEGIARTI000049371333.md)
+- [Article 204](LEGIARTI000049489813.md)

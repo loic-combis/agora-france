@@ -1,0 +1,25 @@
+# Paragraphe 2 : Dispositions applicables sur décision judiciaire.
+
+<!-- LEGISCTA: LEGISCTA000006146406 -->
+
+**Texte :** Loi n°66-537 du 24 juillet 1966 sur les sociétés commerciales · **Identifiant :** `LEGITEXT000006068288`
+
+## Articles
+
+- [Article 402](LEGIARTI000006281772.md)
+- [Article 403](LEGIARTI000006281793.md)
+- [Article 404](LEGIARTI000006281806.md)
+- [Article 405](LEGIARTI000006281817.md)
+- [Article 406](LEGIARTI000006281831.md)
+- [Article 407](LEGIARTI000006281849.md)
+- [Article 408](LEGIARTI000006281864.md)
+- [Article 409](LEGIARTI000006281875.md)
+- [Article 410](LEGIARTI000006281889.md)
+- [Article 411](LEGIARTI000006281899.md)
+- [Article 412](LEGIARTI000006281910.md)
+- [Article 413](LEGIARTI000006281924.md)
+- [Article 414](LEGIARTI000006281926.md)
+- [Article 415](LEGIARTI000006281927.md)
+- [Article 416](LEGIARTI000006281929.md)
+- [Article 417](LEGIARTI000006281930.md)
+- [Article 418](LEGIARTI000006281933.md)

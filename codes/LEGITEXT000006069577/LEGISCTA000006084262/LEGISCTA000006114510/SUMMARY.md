@@ -1,0 +1,12 @@
+# PENALITES
+
+<!-- LEGISCTA: LEGISCTA000006114510 -->
+
+[Voir la section sur Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006114510/)
+
+**Texte :** Code général des impôts · **Identifiant :** `LEGITEXT000006069577`
+
+## Sous-sections
+
+- [DISPOSITIONS COMMUNES.](LEGISCTA000006133909/SUMMARY.md)
+- [DISPOSITIONS PARTICULIERES.](LEGISCTA000006133910/SUMMARY.md)
