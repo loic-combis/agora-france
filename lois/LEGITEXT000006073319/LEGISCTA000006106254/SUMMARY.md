@@ -6,4 +6,4 @@
 
 ## Articles
 
-- [Article 12](LEGIARTI000006757576.md)
+- [Article 12](LEGIARTI000006757577.md)

@@ -14,3 +14,4 @@
 ## Articles
 
 - [Article R5189](LEGIARTI000006801233.md)
+- [Article R5189-1](LEGIARTI000006801237.md)
