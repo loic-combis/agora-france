@@ -7,4 +7,5 @@
 ## Articles
 
 - [Article 31](LEGIARTI000006484561.md)
+- [Article 33](LEGIARTI000006484589.md)
 - [Article 33-2](LEGIARTI000006484603.md)

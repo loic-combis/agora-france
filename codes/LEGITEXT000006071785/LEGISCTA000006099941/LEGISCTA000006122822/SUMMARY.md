@@ -9,4 +9,5 @@
 ## Articles
 
 - [Article 140](LEGIARTI000006627437.md)
+- [Article 142](LEGIARTI000006627446.md)
 - [Article 144](LEGIARTI000006627454.md)

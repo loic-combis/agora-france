@@ -7,3 +7,4 @@
 ## Articles
 
 - [Article 1](LEGIARTI000006451524.md)
+- [Article 2](LEGIARTI000006451525.md)
